@@ -1,207 +1,133 @@
-import { mkdir, writeFile } from 'fs/promises'
-import { join } from 'path'
-import type { Page } from 'puppeteer'
-import { Cluster } from 'puppeteer-cluster'
-import puppeteer from 'puppeteer-extra'
-import StealthPlugin from 'puppeteer-extra-plugin-stealth'
-import untypedMap from './serialization-map.json'
-import {
-	customSerializers,
-	genericSerialize,
-	serializeNumber,
-} from './serializers'
-import type { Part, PartType, SerializationMap } from './types'
+import { connect } from 'puppeteer-real-browser';
+import { writeFile } from 'fs/promises';
+import { join } from 'path';
+import { stringify } from 'csv-stringify/sync';
+import { setTimeout } from 'node:timers/promises';
+import { mkdir } from 'fs/promises';  // <-- import mkdir
 
-const BASE_URL = 'https://pcpartpicker.com/products'
-const STAGING_DIRECTORY = 'data-staging'
-const ALL_ENDPOINTS: PartType[] = [
-	'cpu',
-	'cpu-cooler',
-	'motherboard',
-	'memory',
-	'internal-hard-drive',
-	'video-card',
-	'case',
-	'power-supply',
-	'os',
-	'monitor',
-	'sound-card',
-	'wired-network-card',
-	'wireless-network-card',
-	'headphones',
-	'keyboard',
-	'mouse',
-	'speakers',
-	'webcam',
-	'case-accessory',
-	'case-fan',
-	'fan-controller',
-	'thermal-paste',
-	'external-hard-drive',
-	'optical-drive',
-	'ups',
-]
+(async () => {
+  const { page, browser } = await connect({
+    headless: false,
+    fingerprint: true,
+    turnstile: true,
+    tf: true,
+  } as any);
 
-puppeteer.use(StealthPlugin())
+  const BASE = 'https://pcpartpicker.com';
 
-const map = untypedMap as unknown as SerializationMap
+  // Ensure data directory exists
+  const dataDir = join(process.cwd(), 'data');
+  await mkdir(dataDir, { recursive: true });  // <-- create data folder if missing
 
-async function scrapeInParallel(endpoints: PartType[]) {
-	await mkdir(join(STAGING_DIRECTORY, 'json'), { recursive: true })
+  // Step 1: Get all product category URLs from homepage
+  await page.goto(BASE, { waitUntil: 'networkidle2' });
+  await setTimeout(3000);
 
-	const cluster = await Cluster.launch({
-		concurrency: Cluster.CONCURRENCY_PAGE,
-		maxConcurrency: 5,
-		timeout: 1000 * 60 * 20, // 20 minutes
-		puppeteer,
-		puppeteerOptions: {
-			headless: 'new',
-		},
-	})
+  console.log('🔍 Scraping categories from homepage...');
+  const categories = await page.$$eval(
+    '.browseProducts__block--group1 a, .browseProducts__block--group2 a',
+    (els) =>
+      els.map((el) => ({
+        name: el.textContent?.trim().replace(/\s+/g, '_').toLowerCase() ?? '',
+        url: el.getAttribute('href') ?? '',
+      }))
+  );
 
-	await cluster.task(async ({ page, data: endpoint }) => {
-		await page.setViewport({ width: 1920, height: 1080 })
+  console.log(`🧩 Found ${categories.length} categories...`);
 
-		let fileName = endpoint
-		const allParts = []
+  for (const category of categories) {
+    const categoryUrl = BASE + category.url;
+    const categoryName = category.name;
 
-		try {
-			for await (const pageParts of scrape(endpoint, page)) {
-				allParts.push(...pageParts)
-			}
-		} catch (error) {
-			console.warn(`[${endpoint}] Aborted unexpectedly:\n\t${error}`)
+    // Remove or adjust this filter as needed
+    if (['cpu_coolers', 'cpus', 'memory', 'motherboards'].includes(categoryName)) {
+      continue;
+    }
 
-			if (allParts.length) fileName += '.incomplete'
-			else return
-		}
+    console.log(`📂 Scraping category: ${categoryName} (${categoryUrl})`);
+    let pageNum = 1;
+    let hasNext = true;
+    const allData: any[] = [];
 
-		await writeFile(
-			join(STAGING_DIRECTORY, 'json', `${fileName}.json`),
-			JSON.stringify(allParts)
-		)
-	})
+    while (hasNext) {
+      const pagedUrl = `${categoryUrl}?page=${pageNum}`;
+      await page.goto(pagedUrl, { waitUntil: 'networkidle2' });
+      await setTimeout(3000);
 
-	cluster.queue('https://pcpartpicker.com', async ({ page, data }) => {
-		const res = await page.goto(data)
+      console.log(`📄 Page ${pageNum} for ${categoryName}`);
 
-		try {
-			await page.waitForSelector('nav', { timeout: 5000 })
-		} catch {
-			console.error(
-				`Initial fetch test failed (HTTP ${
-					res?.status() ?? '?'
-				}). Try running with \`{ headless: false }\` to see what the problem is.`
-			)
-			return
-		}
+      const products = await page.$$eval('.tr__product', (els) =>
+        els.map((el) => {
+          const nameEl = el.querySelector('.td__name a[href]');
+          const name = nameEl?.textContent?.trim() ?? null;
+          const url = nameEl ? `https://pcpartpicker.com${nameEl.getAttribute('href')}` : null;
+          return { name, url };
+        })
+      );
 
-		for (const endpoint of endpoints) {
-			cluster.queue(endpoint)
-		}
-	})
+      console.log(`🔗 Found ${products.length} products on page ${pageNum}`);
 
-	await cluster.idle()
-	await cluster.close()
-}
+      for (const [i, product] of products.entries()) {
+        if (!product.url) {
+          console.warn(`⚠️ Skipping product ${i + 1} with missing URL`);
+          continue;
+        }
 
-async function* scrape(endpoint: PartType, page: Page): AsyncGenerator<Part[]> {
-	await page.setRequestInterception(true)
+        console.log(`🔍 Scraping ${product.name} (${product.url})`);
+        await page.goto(product.url, { waitUntil: 'networkidle2' });
+        await setTimeout(3000);
 
-	page.on('request', (req) => {
-		switch (req.resourceType()) {
-			case 'font':
-			case 'image':
-			case 'stylesheet': {
-				req.abort()
-				break
-			}
-			default:
-				req.continue()
-		}
-	})
+        const specs: Record<string, string | null> = {};
+        const groups = await page.$$('.block.xs-block.md-hide.specs .group.group--spec');
 
-	await page.goto(`${BASE_URL}/${endpoint}`)
+        for (const groupHandle of groups) {
+          let key: string | null = null;
+          try {
+            key = await groupHandle.$eval('.group__title', el => el.textContent?.trim() ?? '');
+          } catch (e) {
+            // .group__title not found in this group, skip to next group
+            continue;
+          }
+          if (!key) continue;
 
-	const paginationEl = await page.waitForSelector('.pagination', {
-		timeout: 5000,
-	})
+          // Try to get paragraph text, else get list items
+          let pText: string | null = null;
+          try {
+            pText = await groupHandle.$eval('.group__content p', el => el.textContent?.trim() ?? '');
+          } catch (e) {
+            pText = null;
+          }
 
-	// NOTE: We are banging paginationEl because Page.waitForSelector()
-	// only returns null when using option `hidden: true`, which we
-	// are not using.
-	// See: https://pptr.dev/api/puppeteer.page.waitforselector#parameters
-	const numPages = await paginationEl!.$eval('li:last-child', (el) =>
-		parseInt(el.innerText)
-	)
+          if (pText) {
+            specs[key] = pText;
+          } else {
+            let liTexts: string[] = [];
+            try {
+              liTexts = await groupHandle.$$eval('.group__content ul li', lis =>
+                lis.map(li => li.textContent?.trim() ?? '').filter(Boolean)
+              );
+            } catch (e) {
+              liTexts = [];
+            }
+            specs[key] = liTexts.length > 0 ? liTexts.join(', ') : null;
+          }
+        }
 
-	for (let currentPage = 1; currentPage <= numPages; currentPage++) {
-		const pageProducts: Part[] = []
+        allData.push({ name: product.name, ...specs });
+      }
 
-		if (currentPage > 1) {
-			await page.goto(`${BASE_URL}/${endpoint}/#page=${currentPage}`)
-			await page.waitForNetworkIdle()
-		}
+      // Check for next page
+      hasNext = (await page.$('a.pagination__next')) !== null;
+      pageNum++;
+    }
 
-		const productEls = await page.$$('.tr__product')
+    // Step 3: Write category data to CSV inside data folder
+    const csv = stringify(allData, { header: true });
+    const outPath = join(dataDir, `${categoryName}.csv`);  // <-- save in data/
+    await writeFile(outPath, csv);
+    console.log(`✅ Saved ${allData.length} rows to ${outPath}`);
+  }
 
-		for (const productEl of productEls) {
-			const serialized: Part = {}
-
-			serialized['name'] = await productEl.$eval(
-				'.td__name .td__nameWrapper > p',
-				(p) => p.innerText.replaceAll('\n', ' ')
-			)
-
-			const priceText = await productEl.$eval(
-				'.td__price',
-				(td) => td.textContent
-			)
-
-			if (priceText == null || priceText.trim() === '')
-				serialized['price'] = null
-			else serialized['price'] = serializeNumber(priceText)
-
-			const specs = await productEl.$$('td.td__spec')
-
-			for (const spec of specs) {
-				const specName = await spec.$eval('.specLabel', (l) =>
-					(l as HTMLHeadingElement).innerText.trim()
-				)
-				const mapped = map[endpoint][specName]
-
-				if (typeof mapped === 'undefined')
-					throw new Error(`No mapping found for spec '${specName}'`)
-
-				const [snakeSpecName, mappedSpecSerializationType] = mapped
-
-				const specValue = await spec.evaluate(
-					(s) => s.childNodes[1]?.textContent
-				)
-
-				if (specValue == null || specValue.trim() === '') {
-					serialized[snakeSpecName] = null
-				} else if (mappedSpecSerializationType === 'custom') {
-					serialized[snakeSpecName] =
-						customSerializers[endpoint]![snakeSpecName]!(specValue)
-				} else {
-					serialized[snakeSpecName] = genericSerialize(
-						specValue,
-						mappedSpecSerializationType
-					)
-				}
-			}
-
-			pageProducts.push(serialized)
-		}
-
-		yield pageProducts
-	}
-}
-
-const inputEndpoints = process.argv.slice(2)
-const endpointsToScrape = inputEndpoints.length
-	? (inputEndpoints as PartType[])
-	: ALL_ENDPOINTS
-
-scrapeInParallel(endpointsToScrape)
+  await browser.close();
+  console.log('🏁 All done!');
+})();
