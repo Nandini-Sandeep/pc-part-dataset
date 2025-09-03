@@ -16,7 +16,7 @@ import { stringify } from 'csv-stringify/sync'
   })
 
   console.log('⏳ Waiting 20s for CAPTCHA if any...')
-  await new Promise((r) => setTimeout(r, 20000))
+  await new Promise((r) => setTimeout(r, 10000))
 
   const products = await page.$$eval('.tr__product', (els) =>
     els.map((el) => {

@@ -1,0 +1,99 @@
+name,packCount,userRatingCount,userRatingAvg,price,Manufacturer,Part #,Series,Microarchitecture,Core Family,Socket,Core Count,Thread Count,Performance Core Clock,Performance Core Boost Clock,L2 Cache,L3 Cache,TDP,Integrated Graphics,Maximum Supported Memory,ECC Support,Includes Cooler,Packaging,Lithography,Includes CPU Cooler,Simultaneous Multithreading
+Amd Ryzen 7 9800x3d,,167,4.9,472.02,AMD,"100-1000001084WOF, AMDRyzen79800X3D, 100-100001084WOF",AMDRyzen7,Zen5,GraniteRidge,AM5,8,16,4.7GHz,5.2GHz,8MB,96MB,120W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 7 7800x3d,,506,5,384.99,AMD,100-100000910WOF,AMDRyzen7,Zen4,Raphael,AM5,8,16,4.2GHz,5GHz,8MB,96MB,120W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 5 7600x,,277,4.8,189.99,AMD,100-100000593WOF,AMDRyzen5,Zen4,Raphael,AM5,6,12,4.7GHz,5.3GHz,6MB,32MB,105W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 5 9600x,,25,4.8,207.99,AMD,100-100001405WOF,AMDRyzen5,Zen5,GraniteRidge,AM5,6,12,3.9GHz,5.4GHz,6MB,32MB,65W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 7 9700x,,50,4.9,304.70,AMD,100-100001404WOF,AMDRyzen7,Zen5,GraniteRidge,AM5,8,16,3.8GHz,5.5GHz,8MB,32MB,65W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 5 5600x,,687,4.9,128.00,AMD,100-100000065BOX,AMDRyzen5,Zen3,Vermeer,AM4,6,12,3.7GHz,4.6GHz,3MB,32MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 9 9950x3d,,20,4.9,709.74,AMD,100-100000719WOF,AMDRyzen9,Zen5,GraniteRidge,AM5,16,32,4.3GHz,5.7GHz,16MB,128MB,170W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 7 7700x,,187,4.9,272.97,AMD,100-100000591WOF,AMDRyzen7,Zen4,Raphael,AM5,8,16,4.5GHz,5.4GHz,8MB,32MB,105W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 5 5500,,71,4.7,74.00,AMD,100-100000457BOX,AMDRyzen5,Zen3,Cezanne,AM4,6,12,3.6GHz,4.2GHz,3MB,16MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 5 7600,,183,4.9,196.99,AMD,100-100001015BOX,AMDRyzen5,Zen4,Raphael,AM5,6,12,3.8GHz,5.1GHz,6MB,32MB,65W,Radeon,128GB,Yes,Yes,Boxed,5nm,Yes,Yes
+Amd Ryzen 5 5600,,171,4.9,116.00,AMD,100-100000927BOX,AMDRyzen5,Zen3,Vermeer,AM4,6,12,3.5GHz,4.4GHz,3MB,32MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 7 5800x,,354,4.8,160.54,AMD,100-100000063WOF,AMDRyzen7,Zen3,Vermeer,AM4,8,16,3.8GHz,4.7GHz,4MB,32MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I9-14900k,,36,4.7,417.00,tel,BX8071514900K,telCorei9,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,24,32,3.2GHz,6GHz,32MB,36MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Intel Core I5-12400f,,99,4.9,108.99,tel,BX8071512400F,telCorei5,AlderLake,AlderLake,LGA1700,6,12,2.5GHz,4.4GHz,7.5MB,18MB,65W,None,128GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Amd Ryzen 7 5700x,,112,4.9,146.28,AMD,100-100000926WOF,AMDRyzen7,Zen3,Vermeer,AM4,8,16,3.4GHz,4.6GHz,4MB,32MB,65W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I7-14700k,,41,4.8,303.61,tel,BX8071514700K,telCorei7,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,20,28,3.4GHz,5.6GHz,28MB,33MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Amd Ryzen 5 3600,,1175,4.9,77.98,AMD,"Ryzen53600, 100-100000031BOX",AMDRyzen5,Zen2,Matisse,AM4,6,12,3.6GHz,4.2GHz,3MB,32MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 9 9900x,,22,5,377.95,AMD,100-100000662WOF,AMDRyzen9,Zen5,GraniteRidge,AM5,12,24,4.4GHz,5.6GHz,12MB,64MB,120W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 9 7900x,,95,4.9,329.99,AMD,100-100000589WOF,AMDRyzen9,Zen4,Raphael,AM5,12,24,4.7GHz,5.6GHz,12MB,64MB,170W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 7 5700x3d,,36,4.9,259.88,AMD,100-100001503WOF,AMDRyzen7,Zen3,Vermeer-X,AM4,8,16,3GHz,4.1GHz,4MB,96MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I5-14400f,,,,129.97,tel,BX8071514400F,telCorei5,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,10,16,2.5GHz,4.7GHz,9.5MB,20MB,65W,None,192GB,Yes,Yes,Boxed,7nm,Yes,Yes:Hyper-Threadg
+Intel Core Ultra 7 265k,,6,4.8,283.37,tel,BX80768265K,telCoreUltra7,ArrowLake,ArrowLake,LGA1851,20,20,3.9GHz,5.5GHz,36MB,30MB,125W,telXe,256GB,Yes,No,Boxed,3nm,No,No
+Intel Core I7-12700k,,149,4.9,217.77,tel,BX8071512700K,telCorei7,AlderLake,AlderLake,LGA1700,12,20,3.6GHz,5GHz,12MB,25MB,125W,telUHDGraphics770,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 7 7700,,45,5,279.95,AMD,100-100000592BOX,AMDRyzen7,Zen4,Raphael,AM5,8,16,3.6GHz,5.3GHz,8MB,32MB,65W,Radeon,128GB,Yes,Yes,Boxed,5nm,Yes,Yes
+Amd Ryzen 9 9950x,,11,4.8,519.16,AMD,100-100001277WOF,AMDRyzen9,Zen5,GraniteRidge,AM5,16,32,4.3GHz,5.7GHz,16MB,64MB,170W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Intel Core I5-14600k,,15,4.7,164.00,tel,BX8071514600K,telCorei5,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,14,20,3.5GHz,5.3GHz,20MB,24MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Amd Ryzen 5 7500f,,38,4.9,,AMD,100-100000597BOX,AMDRyzen5,Zen4,Raphael,AM5,6,12,3.7GHz,5GHz,6MB,32MB,65W,None,128GB,Yes,Yes,Boxed,5nm,Yes,Yes
+Amd Ryzen 5 8500g,,1,4,149.00,AMD,100-100000931BOX,AMDRyzen5,Zen4,Phoenix2,AM5,6,12,4.1GHz,5GHz,6MB,16MB,65W,Radeon740M,,No,Yes,Boxed,4nm,Yes,Yes
+Amd Ryzen 9 5900x,,245,4.9,235.99,AMD,100-100000061WOF,AMDRyzen9,Zen3,Vermeer,AM4,12,24,3.7GHz,4.8GHz,6MB,64MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I7-12700kf,,57,4.9,179.99,tel,BX8071512700KF,telCorei7,AlderLake,AlderLake,LGA1700,12,20,3.6GHz,5GHz,12MB,25MB,125W,None,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core Ultra 9 285k,,4,4.5,584.99,tel,BX80768285K,telCoreUltra9,ArrowLake,ArrowLake,LGA1851,24,24,3.7GHz,5.7GHz,40MB,36MB,125W,telXe,256GB,Yes,No,Boxed,3nm,No,No
+Amd Threadripper 3990x,,1,5,2762.00,AMD,100-100000163WOF,AMDThreadripper,Zen2,CastlePeak,sTRX4,64,128,2.9GHz,4.3GHz,32MB,256MB,280W,None,1024GB,Yes,No,Boxed,7nm,No,Yes
+Amd Ryzen 7 3700x,,632,4.9,143.88,AMD,"Ryzen73700X, 100-100000071BOX",AMDRyzen7,Zen2,Matisse,AM4,8,16,3.6GHz,4.4GHz,4MB,32MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 5 4500,,22,4.8,64.98,AMD,100-100000644BOX,AMDRyzen5,Zen2,Renoir-X,AM4,6,12,3.6GHz,4.1GHz,3MB,8MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 7 5800xt,,2,4.5,154.00,AMD,100-100001582BOX,AMDRyzen7,Zen3,Vermeer,AM4,8,16,3.8GHz,4.8GHz,4MB,32MB,105W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I5-12600kf,,85,4.9,146.97,tel,BX8071512600KF,telCorei5,AlderLake,AlderLake,LGA1700,10,16,3.7GHz,4.9GHz,9.5MB,20MB,125W,None,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core I5-13400f,,17,4.8,129.59,tel,BX8071513400F,telCorei5,RaptorLake,RaptorLake,LGA1700,10,16,2.5GHz,4.6GHz,9.5MB,20MB,65W,None,192GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Amd Ryzen 5 5600g,,147,4.7,149.99,AMD,100-100000252BOX,AMDRyzen5,Zen3,Cezanne,AM4,6,12,3.9GHz,4.4GHz,3MB,16MB,65W,RadeonVega7,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 7 5700g,,49,4.9,148.99,AMD,100-100000263BOX,AMDRyzen7,Zen3,Cezanne,AM4,8,16,3.8GHz,4.6GHz,4MB,16MB,65W,RadeonVega8,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I5-14600kf,,9,5,198.00,tel,BX8071514600KF,telCorei5,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,14,20,3.5GHz,5.3GHz,20MB,24MB,125W,None,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Amd Ryzen 5 8600g,,13,4.8,180.00,AMD,100-100001237BOX,AMDRyzen5,Zen4,Phoenix1,AM5,6,12,4.3GHz,5GHz,6MB,16MB,65W,Radeon760M,,No,Yes,Boxed,4nm,Yes,Yes
+Intel Core I7-14700kf,,15,4.7,317.99,tel,BX8071514700KF,telCorei7,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,20,28,3.4GHz,5.6GHz,28MB,33MB,125W,None,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Amd Ryzen 9 7950x,,48,5,488.59,AMD,100-100000514WOF,AMDRyzen9,Zen4,Raphael,AM5,16,32,4.5GHz,5.7GHz,16MB,64MB,170W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 9 9900x3d,,,,599.00,AMD,"100-1000001368WOF, AMD-Ryzen-9-9900X3D, 100-100001368WOF",AMDRyzen9,Zen5,GraniteRidge,AM5,12,24,4.4GHz,5.5GHz,12MB,128MB,120W,Radeon,192GB,Yes,No,Boxed,4nm,No,Yes
+Amd Ryzen 5 8400f,,1,3,148.95,AMD,100-100001591BOX,AMDRyzen5,Zen4,Phoenix2,AM5,6,12,4.2GHz,4.7GHz,6MB,16MB,65W,None,256GB,No,Yes,Boxed,4nm,Yes,Yes
+Amd Ryzen 7 5800x3d,,123,5,500.00,AMD,100-100000651WOF,AMDRyzen7,Zen3,Vermeer-X,AM4,8,16,3.4GHz,4.5GHz,4MB,96MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I3-12100f,,54,4.9,82.49,tel,BX8071512100F,telCorei3,AlderLake,AlderLake,LGA1700,4,8,3.3GHz,4.3GHz,5MB,12MB,58W,None,128GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Amd Ryzen 9 5950x,,110,5,323.00,AMD,100-100000059WOF,AMDRyzen9,Zen3,Vermeer,AM4,16,32,3.4GHz,4.9GHz,8MB,64MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Intel Core I5-12600k,,159,4.9,159.99,tel,BX8071512600K,telCorei5,AlderLake,AlderLake,LGA1700,10,16,3.7GHz,4.9GHz,9.5MB,20MB,125W,telUHDGraphics770,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core I9-12900k,,70,4.8,303.28,tel,BX8071512900K,telCorei9,AlderLake,AlderLake,LGA1700,16,24,3.2GHz,5.2GHz,14MB,30MB,125W,telUHDGraphics770,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 9 7950x3d,,67,4.9,684.99,AMD,100-100000908WOF,AMDRyzen9,Zen4,Raphael,AM5,16,32,4.2GHz,5.7GHz,16MB,128MB,120W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Amd Ryzen 7 5700,,3,5,126.80,AMD,"100-000000743BOX, 100-100000743BOX, Ryzen75700",AMDRyzen7,Zen3,Cezanne,AM4,8,16,3.7GHz,4.6GHz,4MB,16MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 5 7600x3d,,20,5,,AMD,100-100001721WOF,AMDRyzen5,Zen4,Raphael,AM5,6,12,4.1GHz,4.7GHz,6MB,96MB,65W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Intel Core I7-13700k,,131,4.8,311.00,tel,"BX8071513700K, i7-13700K",telCorei7,RaptorLake,RaptorLake,LGA1700,16,24,3.4GHz,5.4GHz,24MB,30MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 7 8700g,,3,5,295.00,AMD,100-100001236BOX,AMDRyzen7,Zen4,Phoenix1,AM5,8,16,4.2GHz,5.1GHz,8MB,16MB,65W,Radeon780M,,No,Yes,Boxed,4nm,Yes,Yes
+Intel Core I9-14900kf,,13,4.8,439.99,tel,BX8071514900KF,telCorei9,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,24,32,3.2GHz,6GHz,32MB,36MB,125W,None,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Intel Core I5-13600kf,,66,4.8,184.99,tel,"BX8071513600KF, i5-13600KF",telCorei5,RaptorLake,RaptorLake,LGA1700,14,20,3.5GHz,5.1GHz,20MB,24MB,125W,None,192GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core I9-14900ks,,1,3,669.96,tel,BX8071514900KS,telCorei9,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,24,32,3.2GHz,6.2GHz,32MB,36MB,150W,telUHDGraphics770,192GB,Yes,No,Boxed,7nm,No,Yes:Hyper-Threadg
+Intel Core I9-13900k,,65,4.8,428.49,tel,"BX8071513900K, i9-13900K",telCorei9,RaptorLake,RaptorLake,LGA1700,24,32,3GHz,5.8GHz,32MB,36MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 9 7900,,17,4.7,326.00,AMD,100-100000590BOX,AMDRyzen9,Zen4,Raphael,AM5,12,24,3.6GHz,5.4GHz,12MB,64MB,65W,Radeon,128GB,Yes,Yes,Boxed,5nm,Yes,Yes
+Amd Ryzen 5 2600,,499,4.9,125.00,AMD,YD2600BBAFBOX,AMDRyzen5,Zen,PnacleRidge,AM4,6,12,3.4GHz,3.9GHz,3MB,15.99MB,65W,None,64GB,No,Yes,Boxed,12nm,Yes,Yes
+Intel Core I7-9700k,,225,4.8,238.71,tel,BX80684I79700K,telCorei7,CoffeeLakeRefresh,CoffeeLakeRefresh,LGA1151,8,8,3.6GHz,4.9GHz,2MB,12MB,95W,telUHDGraphics630,128GB,No,No,Boxed,14nm,No,No
+Intel Core I5-10400f,,62,4.8,112.99,tel,BX8070110400F,telCorei5,CometLake,CometLake,LGA1200,6,12,2.9GHz,4.3GHz,1.5MB,12MB,65W,None,128GB,No,Yes,Boxed,14nm,Yes,Yes:Hyper-Threadg
+Amd Ryzen 7 8700f,,3,5,259.93,AMD,100-100001590BOX,AMDRyzen7,Zen4,Phoenix1,AM5,8,16,4.1GHz,5GHz,8MB,16MB,65W,None,256GB,No,Yes,Boxed,4nm,Yes,Yes
+Amd Ryzen 3 3200g,,63,4.8,79.90,AMD,"Ryzen33200G, YD3200C5FHBOX",AMDRyzen3,Zen,Picasso,AM4,4,4,3.6GHz,4GHz,2MB,4MB,65W,RadeonVega8,64GB,No,Yes,Boxed,12nm,Yes,No
+Intel Core I7-14700f,,1,5,305.51,tel,BX8071514700F,telCorei7,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,20,28,2.1GHz,5.4GHz,28MB,33MB,65W,None,192GB,Yes,Yes,Boxed,7nm,Yes,Yes:Hyper-Threadg
+Intel Core I7-8700k,,305,4.9,161.96,tel,BX80684I78700K,telCorei7,CoffeeLake,CoffeeLake,LGA1151,6,12,3.7GHz,4.7GHz,1.5MB,12MB,95W,telUHDGraphics630,128GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Intel Core I5-13600k,,109,4.9,269.99,tel,"BX8071513600K, i5-13600K",telCorei5,RaptorLake,RaptorLake,LGA1700,14,20,3.5GHz,5.1GHz,20MB,24MB,125W,telUHDGraphics770,192GB,Yes,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 5 3600x,,203,4.9,167.00,AMD,"Ryzen53600X, 100-100000022BOX",AMDRyzen5,Zen2,Matisse,AM4,6,12,3.8GHz,4.4GHz,3MB,32MB,95W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I5-12400,,32,4.9,141.16,tel,BX8071512400,telCorei5,AlderLake,AlderLake,LGA1700,6,12,2.5GHz,4.4GHz,7.5MB,18MB,65W,telUHDGraphics730,128GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Intel Pentium E2220,,,,12.99,tel,BX80557E2220,telPentium,Core,Allendale,LGA775,2,2,2.4GHz,,1MB,0MB,65W,None,,No,Yes,Boxed,65nm,Yes,No
+Intel Core Ultra 7 265kf,,,,299.99,tel,BX80768265KF,telCoreUltra7,ArrowLake,ArrowLake,LGA1851,20,20,3.9GHz,5.5GHz,36MB,30MB,125W,None,256GB,No,No,Boxed,3nm,No,No
+Amd Ryzen 5 5600gt,,2,4.5,135.00,AMD,100-100001488BOX,AMDRyzen5,Zen3,Cezanne,AM4,6,12,3.6GHz,4.6GHz,3MB,16MB,65W,RadeonVega7,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I9-9900k,,211,4.9,348.69,tel,BX80684I99900K,telCorei9,CoffeeLakeRefresh,CoffeeLakeRefresh,LGA1151,8,16,3.6GHz,5GHz,2MB,16MB,95W,telUHDGraphics630,128GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Intel Core I9-12900kf,,8,4.9,269.90,tel,BX8071512900KF,telCorei9,AlderLake,AlderLake,LGA1700,16,24,3.2GHz,5.2GHz,14MB,30MB,125W,None,128GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Amd Ryzen 5 3400g,,56,4.8,98.79,AMD,"Ryzen53400G, YD3400C5FHBOX",AMDRyzen5,Zen,Picasso,AM4,4,8,3.7GHz,4.2GHz,2MB,4MB,65W,RadeonVega11,64GB,No,Yes,Boxed,12nm,Yes,Yes
+Amd Ryzen 7 2700x,,361,4.9,183.00,AMD,YD270XBGAFBOX,AMDRyzen7,Zen,PnacleRidge,AM4,8,16,3.7GHz,4.3GHz,4MB,16MB,105W,None,64GB,No,Yes,Boxed,12nm,Yes,Yes
+Amd Ryzen 9 3900x,,280,4.9,350.00,AMD,"Ryzen93900X, 100-100000023BOX",AMDRyzen9,Zen2,Matisse,AM4,12,24,3.8GHz,4.6GHz,6MB,64MB,105W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 3 4100,,5,3.6,65.70,AMD,100-100000510BOX,AMDRyzen3,Zen2,Renoir-X,AM4,4,8,3.8GHz,4GHz,2MB,4MB,65W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I7-7700k,,304,4.7,168.88,tel,BX80677I77700K,telCorei7,KabyLake,KabyLake-S,LGA1151,4,8,4.2GHz,4.5GHz,1MB,8MB,91W,telHDGraphics630,64GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Intel Core I3-14100f,,1,5,90.07,tel,BX8071514100F,telCorei3,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,4,8,3.5GHz,4.7GHz,5MB,12MB,58W,None,192GB,Yes,Yes,Boxed,7nm,Yes,Yes:Hyper-Threadg
+Intel Core I7-10700k,,103,4.8,324.99,tel,BX8070110700K,telCorei7,CometLake,CometLake,LGA1200,8,16,3.8GHz,5.1GHz,2MB,16MB,125W,telUHDGraphics630,128GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Amd Ryzen 9 5900xt,,1,5,283.33,AMD,100-100001581WOF,AMDRyzen9,Zen3,Vermeer,AM4,16,32,3.3GHz,4.8GHz,8MB,64MB,105W,None,128GB,No,No,Boxed,7nm,No,Yes
+Amd Ryzen 5 5600xt,,,,139.00,AMD,100-100001585BOX,AMDRyzen5,Zen3,Vermeer,AM4,6,12,3.7GHz,4.7GHz,3MB,32MB,65W,None,128GB,Yes,Yes,Boxed,7nm,Yes,Yes
+Amd Ryzen 9 7900x3d,,23,4.9,,AMD,100-100000909WOF,AMDRyzen9,Zen4,Raphael,AM5,12,24,4.4GHz,5.6GHz,12MB,128MB,120W,Radeon,128GB,Yes,No,Boxed,5nm,No,Yes
+Intel Core I7-13700kf,,25,5,299.00,tel,"BX8071513700KF, i7-13700KF",telCorei7,RaptorLake,RaptorLake,LGA1700,16,24,3.4GHz,5.4GHz,24MB,30MB,125W,None,192GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core I5-14400,,1,5,176.99,tel,BX8071514400,telCorei5,RaptorLakeRefresh,RaptorLakeRefresh,LGA1700,10,16,2.5GHz,4.7GHz,9.5MB,20MB,65W,telUHDGraphics730,192GB,Yes,Yes,Boxed,7nm,Yes,Yes:Hyper-Threadg
+Intel Core I9-13900kf,,16,4.6,379.99,tel,"BX8071513900KF, i7-13900KF",telCorei9,RaptorLake,RaptorLake,LGA1700,24,32,3GHz,5.8GHz,32MB,36MB,125W,None,192GB,No,No,Boxed,10nm,No,Yes:Hyper-Threadg
+Intel Core Ultra 5 245k,,,,279.99,tel,BX80768245K,telCoreUltra5,ArrowLake,ArrowLake,LGA1851,14,14,4.2GHz,5.2GHz,26MB,24MB,125W,telXe,256GB,Yes,No,Boxed,3nm,No,No
+Intel Core I7-6700k,,509,4.9,123.42,tel,BX80662I76700K,telCorei7,Skylake,Skylake-S,LGA1151,4,8,4GHz,4.2GHz,1MB,8MB,91W,telHDGraphics530,64GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Amd Ryzen 7 3800x,,135,4.9,215.99,AMD,"Ryzen73800X, 100-100000025BOX",AMDRyzen7,Zen2,Matisse,AM4,8,16,3.9GHz,4.5GHz,4MB,32MB,105W,None,128GB,No,Yes,Boxed,7nm,Yes,Yes
+Intel Core I5-9400f,,47,4.4,99.00,tel,BX80684I59400F,telCorei5,CoffeeLakeRefresh,CoffeeLakeRefresh,LGA1151,6,6,2.9GHz,4.1GHz,1.5MB,9MB,65W,None,128GB,No,Yes,Boxed,14nm,Yes,No
+Amd Threadripper 3970x,,8,5,1650.00,AMD,100-100000011WOF,AMDThreadripper,Zen2,CastlePeak,sTRX4,32,64,3.7GHz,4.5GHz,16MB,128MB,280W,None,512GB,Yes,No,Boxed,7nm,No,Yes
+Intel Core I3-13100f,,5,4.6,82.92,tel,BX8071513100F,telCorei3,RaptorLake,RaptorLake,LGA1700,4,8,3.4GHz,4.5GHz,5MB,12MB,58W,None,192GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Intel Core I3-12100,,15,4.7,113.60,tel,BX8071512100,telCorei3,AlderLake,AlderLake,LGA1700,4,8,3.3GHz,4.3GHz,5MB,12MB,60W,telUHDGraphics730,128GB,No,Yes,Boxed,10nm,Yes,Yes:Hyper-Threadg
+Intel Core I5-9600k,,147,4.8,110.00,tel,BX80684I59600K,telCorei5,CoffeeLakeRefresh,CoffeeLakeRefresh,LGA1151,6,6,3.7GHz,4.6GHz,1.5MB,9MB,95W,telUHDGraphics630,128GB,No,No,Boxed,14nm,No,No
+Intel Core I7-11700k,,41,4.8,294.99,tel,BX8070811700K,telCorei7,RocketLake,RocketLake-S,LGA1200,8,16,3.6GHz,5GHz,4MB,16MB,125W,telUHDGraphics750,128GB,No,No,Boxed,14nm,No,Yes:Hyper-Threadg
+Intel Core I5-11400f,,25,4.6,139.99,tel,BX8070811400F,telCorei5,RocketLake,RocketLake-S,LGA1200,6,12,2.6GHz,4.4GHz,3MB,12MB,65W,None,128GB,No,Yes,Boxed,14nm,Yes,Yes:Hyper-Threadg

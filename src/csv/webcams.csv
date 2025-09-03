@@ -1,0 +1,79 @@
+name,Manufacturer,Model,Part #,Resolution,Connection,Focus Type,Operating System,FOV Angle,Sensor Pixels,Privacy Shutter,Built-In Lighting,Automatic Lighting Adjust
+Razer Kiyo Pro Ultra         (1),Razer,Kiyo Pro Ultra,"RZ19-04420100-R3U1, RZ19-04420100-R3M1","4k, 2k, 1080p, 720p",USB 3.2 Gen 1 Type-A,Auto,Windows,82°,8.3 MP,Yes,No,Yes
+Logitech BRIO Ultra HD Pro         (30),Logitech,BRIO Ultra HD Pro,960-001105,"4k, 1080p, 720p",USB 3.2 Gen 1 Type-A,Auto,"Windows, OS X, ChromeOS",82°,,Yes,No,Yes
+Elgato Facecam Pro         (0),Elgato,Facecam Pro,10WAB9901,"4k, 1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",90°,,No,No,Yes
+Anker PowerConf C200         (5),Anker,PowerConf C200,"A3369, A3369011","2k, 1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",95°,5 MP,Yes,No,
+Insta360 Insta360 Link         (1),Insta360,Insta360 Link,CINSTBJ/A,"4k, 1080p, 720p",USB 2.0 Type-C,Auto,"Windows, OS X",79.5°,,No,No,Yes
+Logitech C920s HD Pro         (17),Logitech,C920s HD Pro,960-001257,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS, Android",78°,,Yes,No,Yes
+OBSBOT Tiny 2         (0),OBSBOT,Tiny 2,OWB-2204-CE,"4k, 2k, 1080p, 720p, 480p",USB 3.2 Gen 1 Type-A,Auto,"Windows, OS X",85.5°,50 MP,No,No,
+Logitech C270         (26),Logitech,C270,960-000694,720p,USB 2.0 Type-A,Fixed,"Windows, OS X, ChromeOS, Android",60°,,No,No,Yes
+Logitech C920 HD Pro         (34),Logitech,C920 HD Pro,960-000764,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS, Android",78°,,No,No,Yes
+Razer Kiyo         (22),Razer,Kiyo,"RZ19-02320100-R3U1, RZ19-02320100","1080p, 720p, 480p",USB 2.0 Type-A,Auto,Windows,81.6°,4 MP,No,Yes,Yes
+Insta360 Link 2         (0),Insta360,,CINSABNB-ST,"4k, 1080p, 720p",USB 2.0 Type-C,Auto,"Windows, OS X",79.5°,48 MP,Yes,No,Yes
+Razer Kiyo X         (1),Razer,Kiyo X,"RZ19-04170100-R3U1, RZ19-04170100-R3M1, RZ19-04170100","1080p, 720p",USB 2.0 Type-A,Auto,Windows,82°,2.1 MP,No,No,
+Logitech MX BRIO         (0),Logitech,,960-001558,"4k, 1080p",USB 3.2 Gen 1 Type-C,Auto,"Windows, ChromeOS",90°,8.5 MP,Yes,No,Yes
+Adesso Cybertrack H2         (0),Adesso,,Cybertrack H2,480p,USB 2.0 Type-A,Fixed,"Windows, OS X",62°,,No,No,
+Logitech C922 Pro Stream HD         (21),Logitech,C922 Pro Stream HD,960-001087,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS, Android",78°,,No,No,Yes
+Green Extreme T200         (2),Green Extreme,T200,GX-T200,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, Android",65°,,No,No,Yes
+Elgato FACECAM MK.2         (1),Elgato,FACECAM MK.2,10WAC9901,"1080p, 720p",USB 3.2 Gen 1 Type-C,Fixed,"Windows, OS X",84°,,Yes,No,Yes
+Logitech MX BRIO         (0),Logitech,,"960-001550, 960-001559","4k, 1080p",USB 3.2 Gen 1 Type-C,Auto,"Windows, ChromeOS",90°,8.5 MP,Yes,No,Yes
+Adesso Cybertrack H6         (0),Adesso,,Cybertrack H6,4k,USB 2.0 Type-A,Fixed,"Windows, OS X",80°,,Yes,No,
+Razer Kiyo Pro         (8),Razer,Kiyo Pro,"RZ19-03640100-R3U1, RZ19-03640100-R3M1, RZ19-03640100","1080p, 720p, 480p",USB 3.2 Gen 1 Type-A,Auto,Windows,103°,2.1 MP,No,No,Yes
+Adesso Cybertrack H4         (3),Adesso,,Cybertrack H4,1080p,USB 2.0 Type-A,Manual,"Windows, OS X",78°,,No,No,
+Anker AnkerWork C310         (0),Anker,AnkerWork C310,A3367,"4k, 1080p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",95°,12 MP,Yes,No,Yes
+Asus Webcam C3         (0),Asus,Webcam C3,"ASUS Webcam C3, 90YH0340-B2UA00",1080p,USB 2.0 Type-A,,"Windows, OS X, ChromeOS",,2 MP,No,No,Yes
+NexiGo N660P         (0),NexiGo,,"N660PWHT, N660P WHITE","1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS",,,Yes,No,
+OBSBOT MEET 2         (0),OBSBOT,,"MEET 2 Space Grey, OWB-2311-CEG","4k, 1080p, 720p, 480p",USB 2.0 Type-C,Auto,"Windows, OS X",79.4°,48 MP,No,No,
+Logitech StreamCam         (3),Logitech,StreamCam,960-001289,"1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",78°,,No,No,Yes
+Logitech C925e         (3),Logitech,C925e,960-001075,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, Linux",78°,,Yes,No,Yes
+aoni A31         (1),aoni,,A31,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, Linux, ChromeOS, Android",84°,2 MP,No,No,Yes
+Logitech StreamCam         (8),Logitech,StreamCam,960-001286,"1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",78°,,No,No,Yes
+Logitech BRIO STREAM         (1),Logitech,BRIO STREAM,960-001194,"4k, 1080p, 720p",USB 3.2 Gen 1 Type-A,Auto,"Windows, OS X, ChromeOS",90°,,Yes,No,Yes
+Wansview 101JD         (3),Wansview,,101JD,1080p,USB 2.0 Type-A,,"Windows, OS X, Android",90°,2 MP,No,No,Yes
+Wansview 106JD         (0),Wansview,,106JD,1080p,USB 2.0 Type-A,Auto,"Windows, OS X, Android",60°,2 MP,Yes,No,Yes
+OBSBOT MEET 2         (0),OBSBOT,,"MEET 2 Cloud White, OWB-2311-CEW","4k, 1080p, 720p, 480p",USB 2.0 Type-C,Auto,"Windows, OS X",79.4°,48 MP,No,No,
+Logitech C930e         (3),Logitech,C930e,960-000971,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS",90°,,Yes,No,Yes
+Elgato Facecam Premium         (3),Elgato,Facecam Premium,10WAA9901,"1080p, 720p",USB 3.2 Gen 1 Type-A,Manual,"Windows, OS X",82°,,No,No,
+Logitech MX BRIO         (0),Logitech,,"960-001545, 960-001554","4k, 1080p",USB 3.2 Gen 1 Type-C,Auto,"Windows, ChromeOS",90°,8.5 MP,Yes,No,Yes
+Adesso CyberTrack H3         (0),Adesso,CyberTrack H3,"CYBERTRACKH3, CYBERTRACK H3",720p,USB 2.0 Type-A,Manual,"Windows, OS X",,1.3 MP,No,No,
+Avermedia PW513         (0),Avermedia,,PW513,"4k, 1080p",USB 3.2 Gen 1 Type-C,Fixed,"Windows, OS X",94°,8 MP,Yes,No,
+Asus ROG EYE         (1),Asus,,"ROG EYE, 90YH01Z0-B2UA00",1080p,USB 2.0 Type-A,Auto,"Windows, OS X",,,No,No,Yes
+Adesso Cybertrack H5         (0),Adesso,,Cybertrack H5,1080p,USB 2.0 Type-A,Auto,"Windows, OS X",80°,,Yes,No,
+NexiGo N660P         (0),NexiGo,,N660P-PINK,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS",,,Yes,No,
+Logitech StreamCam Plus         (3),Logitech,StreamCam Plus,960-001280,"1080p, 720p, 480p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",,,No,No,Yes
+NexiGo N660P         (0),NexiGo,,N660P,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS",,,Yes,No,
+Avermedia Live Streamer CAM 313         (2),Avermedia,Live Streamer CAM 313,"PW313, 40AAPW313ASF",1080p,USB 2.0 Type-A,Fixed,"Windows, OS X",,2 MP,Yes,No,
+Avermedia PW310P         (0),Avermedia,,PW310P,1080p,USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS",73°,,Yes,No,
+Logitech B525         (4),Logitech,B525,960-000841,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",69°,,No,No,Yes
+Creative Labs Live! Cam Sync 1080p         (1),Creative Labs,Live! Cam Sync 1080p,73VF086000000,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",77°,2 MP,Yes,No,
+OBSBOT Tiny 4K         (0),OBSBOT,Tiny 4K,OWB-2105-CE,"4k, 1080p, 720p",USB 3.2 Gen 1 Type-A,Auto,"Windows, OS X",90°,8 MP,No,No,
+Logitech C910         (2),Logitech,C910,960-000597,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",78°,10 MP,No,No,Yes
+Anker B600 Video Bar         (0),Anker,B600 Video Bar,"a3383, A3383011","2k, 1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",95°,5 MP,Yes,Yes,
+Microsoft LifeCam Studio         (1),Microsoft,LifeCam Studio,Q2F-00013,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",75°,,No,No,Yes
+AUKEY PC-LM1         (5),AUKEY,,PC-LM1,"1080p, 720p, 480p",USB 2.0 Type-A,Manual,"Windows, OS X, Android",55°,,No,No,
+Avermedia PW315         (0),Avermedia,,"PW315, 40AAPW315AVV",1080p,USB 2.0 Type-A,Fixed,"Windows, OS X, ChromeOS",95.8°,2 MP,Yes,No,
+Logitech C505         (2),Logitech,C505,960-001363,720p,USB 2.0 Type-A,Fixed,"Windows, OS X, ChromeOS",60°,,No,No,Yes
+Green Extreme T1000         (0),Green Extreme,T1000,GX-T1000,1080p,USB 2.0 Type-A,Auto,"Windows, OS X",120°,,No,No,Yes
+Microsoft LifeCam HD-3000         (2),Microsoft,LifeCam HD-3000,T4H-00002,720p,USB 2.0 Type-A,Fixed,"Windows, OS X",,,No,No,Yes
+Logitech C615 Portable         (8),Logitech,C615 Portable,960-000733,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS, Android",78°,,No,No,Yes
+Logitech C505e         (0),Logitech,C505e,960-001385,720p,USB 2.0 Type-A,Fixed,"Windows, OS X, ChromeOS",60°,,No,No,Yes
+Logitech C310         (1),Logitech,C310,960-000585,720p,USB 2.0 Type-A,Fixed,"Windows, OS X, ChromeOS, Android",60°,,No,No,Yes
+VDO360 2SEE         (0),VDO360,2SEE,VDOS4M,"1080p, 720p",USB 2.0 Type-A,,"Windows, OS X, Linux, Android",75°,2 MP,No,No,Yes
+OBSBOT MEET 2         (0),OBSBOT,,"MEET 2 Aurora Green, OWB-2311-CEGR","4k, 1080p, 720p, 480p",USB 2.0 Type-C,Auto,"Windows, OS X",79.4°,48 MP,No,No,
+Microsoft LifeCam CinemaaFor Business         (0),Microsoft,LifeCam CinemaaFor Business,6CH-00001,720p,USB 2.0 Type-A,Auto,"Windows, OS X",,1 MP,No,No,Yes
+Anker PowerConf C302         (0),Anker,PowerConf C302,"A3362, A3362011","2k, 1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",115°,5 MP,Yes,No,
+OBSBOT Tiny         (0),OBSBOT,Tiny,OWB-2004-CE,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",86°,,No,No,
+Microsoft Lifecam Cinema         (1),Microsoft,Lifecam Cinema,H5D-00013,720p,USB 2.0 Type-A,Auto,Windows,73°,5 MP,No,No,Yes
+Avermedia 4K UHD Webcam 510         (0),Avermedia,4K UHD Webcam 510,PW510,"4k, 1080p, 720p, 480p",USB 3.2 Gen 1 Type-C,,Windows,85°,8 MP,Yes,No,Yes
+Logitech C525         (4),Logitech,C525,960-000715,720p,USB 2.0 Type-A,Auto,"Windows, OS X, ChromeOS, Android",69°,,No,No,Yes
+Microsoft LifeCam HD-3000 L2         (0),Microsoft,LifeCam HD-3000 L2,T3H-00011,720p,USB 2.0 Type-A,Fixed,"Windows, OS X",,,No,No,Yes
+Anker PowerConf C300         (0),Anker,PowerConf C300,"A3361, A3361011","1080p, 720p",USB 3.2 Gen 1 Type-C,Auto,"Windows, OS X",115°,2 MP,Yes,No,
+Microsoft LifeCam Studio for Business         (0),Microsoft,LifeCam Studio for Business,5WH-00002,"1080p, 720p",USB 2.0 Type-A,Auto,"Windows, OS X",75°,5 MP,No,No,Yes
+Creative Labs BlasterX Senz3D         (0),Creative Labs,BlasterX Senz3D,VF081000000,"1080p, 720p",USB 3.2 Gen 1 Type-A,Auto,Windows,77°,,No,No,
+Creative Labs Live! Cam Sync HD         (0),Creative Labs,Live! Cam Sync HD,73VF077000000,720p,USB 2.0 Type-A,Fixed,"Windows, OS X",,3.7 MP,No,No,
+Green Extreme T300         (1),Green Extreme,T300,GX-T300,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, Android",94°,,No,No,Yes
+Green Extreme T200 + Live Streaming Bundle         (0),Green Extreme,T200 + Live Streaming Bundle,GX-T200 K1,1080p,USB 2.0 Type-A,Auto,"Windows, OS X, Android",,,No,No,Yes
+Avermedia HD Webcam 310         (0),Avermedia,HD Webcam 310,PW310O,"1080p, 720p, 480p",USB 2.0 Type-A,Auto,"Windows, OS X, Android",,2 MP,No,No,
+Wansview 102JD         (0),Wansview,,102JD,1080p,USB 2.0 Type-A,,"Windows, OS X, Android",90°,2 MP,No,No,Yes
+Adesso Cybertrack H4P         (0),Adesso,,Cybertrack H4P,1080p,USB 2.0 Type-A,Manual,"Windows, OS X",78°,,Yes,No,
+Wansview 105JD         (0),Wansview,,105JD,1080p,USB 2.0 Type-A,Manual,"Windows, OS X, Android",90°,2 MP,Yes,No,Yes

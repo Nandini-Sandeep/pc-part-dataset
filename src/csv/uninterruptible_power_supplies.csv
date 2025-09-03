@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Capacity (W),Capacity (VA),Backup/Run Time (Full Load),Backup/Run Time (Half Load),Battery Chemistry,Dataline Protection,Form Factor,Input Voltage,Maximum Battery Recharge Time,Output Voltage,Receptacles,Waveform Type,User Rating,Price
+CyberPower CP1500PFCLCD,CyberPower,CP1500PFCLCD,1000 W,1500 VA,1.98 Minutes,10.98 Minutes,Sealed Lead Acid,"RJ-11, RG-6",Tower,110 V AC,8 Hour,120 V AC,10 x NEMA 5-15R,Sine Wave,"(18 Ratings, 4.8 Average)",$239.59
+APC SURT20KRMXLT,APC,SURT20KRMXLT,16000 W,20000 VA,4.90 Minutes,15.30 Minutes,Sealed Lead Acid,,Tower/Rack Mountable,220 V AC,2.50 Hour,208 V AC,"2 x NEMA L6-20R, 4 x NEMA L6-30R, 1 x Hard Wire 3-wire (2PH + G)",,,$24100.00
+APC Back-UPS 1500,APC,BX1500M,900 W,1500 VA,,,,,,,,,,,"(7 Ratings, 4.1 Average)",$179.99
+APC SRT10KXLI,APC,SRT10KXLI,10000 W,10000 VA,3 Minutes,12 Minutes,Sealed Lead Acid,,Tower,,1.50 Hour,230 V AC,,Sine Wave,,
+APC SRT10KRMXLI,APC,SRT10KRMXLI,10000 W,10000 VA,3 Minutes,12 Minutes,Sealed Lead Acid,,Rack-mountable,,1.50 Hour,230 V AC,,Sine Wave,,$10300.00
+APC Back-UPS Pro 1500S,APC,BR1500MS2,900 W,1500 VA,4 Minutes 7 Seconds,,,,,,,,,Sine Wave,"(4 Ratings, 5.0 Average)",$274.99
+CyberPower CP1500AVRLCD,CyberPower,CP1500AVRLCD,900 W,1500 VA,3 Minutes,11 Minutes,Sealed Lead Acid,"RJ-45, Type F Connector, RJ-11",Tower,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,Simulated Sine Wave,"(15 Ratings, 5.0 Average)",
+CyberPower PR2200LCDSL,CyberPower,PR2200LCDSL,1980 W,2070 VA,3.30 Minutes,10.20 Minutes,Lead Acid,,Tower,120 V AC,8 Hour,120 V AC,"6 x NEMA 5-20R, 1 x NEMA L5-20R",Sine Wave,,$942.95
+APC SRT10KRMXLT,APC,SRT10KRMXLT,10000 W,10000 VA,4 Minutes,,,,Rack-mountable,208 V AC,1.50 Hour,208 V AC,"1 x Hard Wire 3-wire (2PH + G), 4 x NEMA L6-20R, 2 x NEMA L6-30R",,,$5154.06+
+CyberPower ST425,CyberPower,ST425,260 W,425 VA,,,,,,,,,,,,$59.95
+CyberPower CP1500AVRLCD3,CyberPower,CP1500AVRLCD3,900 W,1500 VA,,,,,,,,,,,,$199.95
+APC Back-UPS Pro 1500VA,APC,BN1500M2,900 W,1500 VA,,,,,,,,,,,,$182.99
+APC SRT10KXLT,APC,SRT10KXLT,10000 W,10000 VA,4 Minutes,,,,Tower,208 V AC,1.50 Hour,208 V AC,"1 x Hard Wire 3-wire (2PH + G), 4 x NEMA L6-20R, 2 x NEMA L6-30R",,,$6024.06+
+CyberPower CP1000PFCLCD,CyberPower,CP1000PFCLCD,600 W,1000 VA,3 Minutes,9 Minutes,Sealed Lead Acid,"RG-6, RJ-11, RJ-45",Mini-tower,110 V AC,8 Hour,120 V AC,10 x NEMA 5-15R,Sine Wave,"(6 Ratings, 4.8 Average)",$179.95
+CyberPower PR3000LCD,CyberPower,PR3000LCD,2700 W,3000 VA,6 Minutes,16.80 Minutes,Lead Acid,,Tower,110 V AC,8 Hour,120 V AC,"2 x NEMA 5-20R, 8 x NEMA 5-15R",,,$1848.95
+CyberPower CP550SLG,CyberPower,CP550SLG,330 W,550 VA,2 Minutes,8 Minutes,Sealed Lead Acid,RJ-11,Desktop,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,,"(1 Rating, 4.0 Average)",$77.95
+CyberPower EC850LCD,CyberPower,EC850LCD,510 W,850 VA,,,Lead Acid,RJ-11,Desktop,110 V AC,8 Hour,120 V AC,6 x NEMA 5-15R,,"(3 Ratings, 4.0 Average)",$119.95
+APC Back-UPS Pro 1500,APC,BR1500G,865 W,1500 VA,3 Minutes,13 Minutes,Lead Acid,,Tower,110 V AC,8 Hour,120 V AC,5 x NEMA 5-15R,,"(7 Ratings, 5.0 Average)",$304.99
+CyberPower OR2200PFCRT2U,CyberPower,OR2200PFCRT2U,1320 W,2000 VA,7.80 Minutes,19.80 Minutes,Sealed Lead Acid,"RG-6, RJ-11",Tower/Rack Mountable,110 V AC,8 Hour,120 V AC,8 x NEMA 5-20R,Sine Wave,,$740.95
+CyberPower PR3000LCDSL,CyberPower,PR3000LCDSL,2700 W,3000 VA,1.98 Minutes,7.50 Minutes,Lead Acid,,Tower,120 V AC,8 Hour,120 V AC,"6 x NEMA 5-20R, 1 x NEMA L5-30R",Sine Wave,,$1292.95
+CyberPower UT850EG,CyberPower,UT850EG,425 W,850 VA,,,,,,,,,,,,
+CyberPower PR1500LCD,CyberPower,PR1500LCD,1050 W,1500 VA,7.98 Minutes,24 Minutes,Lead Acid,,Mini-tower,110 V AC,8 Hour,120 V AC,8 x NEMA 5-15R,Sine Wave,"(1 Rating, 4.0 Average)",$700.95
+APC Back-UPS Pro 1000S,APC,BR1000MS,600 W,1000 VA,,,,,,,,,,,"(1 Rating, 5.0 Average)",$171.94
+CyberPower CST135XLU,CyberPower,CST135XLU,810 W,1350 VA,,,,,,,,,,,,$159.99
+APC SUA5000RMI5U,APC,SUA5000RMI5U,4000 W,5000 VA,9.40 Minutes,26.70 Minutes,Valve-regulated Lead Acid (VRLA),,Tower,220 V AC,3 Hour,230 V AC,"8 x IEC 320-C13, 2 x IEC Jumper, 6 x IEC 320-C19",,,$9600.00
+PowerWalker Basic VI 2200 STL UK,PowerWalker,"10121089, Basic VI 2200 STL UK",1320 W,2200 VA,,,,,,,,,,,,
+Tripp Lite SU10KRT3U,Tripp Lite,SU10KRT3U,7000 W,10000 VA,8 Minutes,20 Minutes,Sealed Lead Acid,,,220 V AC,4 Hour,"240 V AC, 200 V AC, 208 V AC, 220 V AC, 230 V AC",,Sine Wave,,$7499.99+
+APC SRT5KXLI,APC,SRT5KXLI,4500 W,5000 VA,4 Minutes,12 Minutes,Sealed Lead Acid,,Tower,,3 Hour,230 V AC,,Sine Wave,,$7200.00
+APC Back-UPS Pro 700VA,APC,BR700G,420 W,700 VA,3 Minutes,12 Minutes,,,Tower,110 V AC,,120 V AC,3 x NEMA 5-15R,,"(2 Ratings, 5.0 Average)",$164.99
+CyberPower AVRG750U,CyberPower,AVRG750U,450 W,750 VA,7 Minutes,2 Minutes,Sealed Lead Acid,RJ-11,Desktop,120 V AC,8 Hour,120 V AC,12 x NEMA 5-15R,Simulated Sine Wave,"(2 Ratings, 4.5 Average)",$119.95
+APC Back-UPS Pro 1500VA for Gaming,APC,BGM1500,900 W,1500 VA,,,,,,,,,,,,
+CyberPower CP1350AVRLCD,CyberPower,CP1350AVRLCD,810 W,1350 VA,2 Minutes,9 Minutes,Sealed Lead Acid,"RJ-45, RJ-11, RG-6",Tower,110 V AC,16 Hour,120 V AC,4 x NEMA 5-15R,,"(5 Ratings, 5.0 Average)",$189.99+
+APC BE670M1,APC,BE670M1,360 W,675 VA,,,,,,,,,,,,$79.49
+APC SMT1500US,APC,SMT1500US,1000 W,1440 VA,7 Minutes,23 Minutes,Sealed Lead Acid,,Tower,110 V AC,3 Hour,120 V AC,8 x NEMA 5-15R,,"(1 Rating, 5.0 Average)",
+CyberPower OR2200LCDRT2U,CyberPower,OR2200LCDRT2U,1320 W,2000 VA,4.80 Minutes,13.20 Minutes,Sealed Lead Acid,"RJ-11, RJ-45",Tower/Rack Mountable,120 V AC,8 Hour,120 V AC,8 x NEMA 5-20R,Simulated Sine Wave,,$665.95
+APC Back-UPS 1000,APC,BX1000M,600 W,1000 VA,,,,,,,,,,,,$169.99
+Trust Paxxon,Trust,23505,900 W,1500 VA,,,,,,,,,,,,
+APC BE550G,APC,BE550G,330 W,550 VA,3.30 Minutes,13.50 Minutes,Sealed Lead Acid,RJ-11,Desktop,110 V AC,24 Hour,120 V AC,4 x NEMA 5-15R,,"(3 Ratings, 4.3 Average)",$99.99
+CyberPower CP1000AVRLCD,CyberPower,CP1000AVRLCD,600 W,1000 VA,1 Minute,6 Minutes,Sealed Lead Acid,"RJ-45, RJ-11, RG-6",Tower,110 V AC,8 Hour,120 V AC,"5 x NEMA 5-15R, 4 x NEMA 5-15R",,"(3 Ratings, 3.3 Average)",$175.95
+CyberPower OR2200LCDRTXL2U,CyberPower,OR2200LCDRTXL2U,1650 W,2190 VA,6 Minutes,14 Minutes,Sealed Lead Acid,"RJ-11, RG-6, RJ-45",Tower/Rack Mountable,110 V AC,8 Hour,120 V AC,8 x NEMA 5-20R,,,$905.95
+APC BE600M1,APC,BE600M1,330 W,600 VA,,,,,,,,,,,,$79.99
+APC Back-UPS Pro 1500VA for Gaming,APC,BGM1500B,900 W,1500 VA,,,,,,,,,,,,
+APC SRT6KXLT,APC,SRT6KXLT,6000 W,6000 VA,2 Minutes,,,,Tower,208 V AC,1.50 Hour,208 V AC,"1 x Hard Wire 3-wire (2PH + G), 2 x NEMA L6-20R, 3 x NEMA L6-30R",,,$4959.17+
+APC SRT5KRMXLI,APC,SRT5KRMXLI,4500 W,5000 VA,4 Minutes,12 Minutes,Sealed Lead Acid,,Rack-mountable,,3 Hour,230 V AC,,Sine Wave,,$4951.72
+APC Back-UPS 850,APC,BX850M,510 W,850 VA,,,,,,,,,,,,$149.99
+CyberPower CP1200AVR,CyberPower,CP1200AVR,720 W,1200 VA,3 Minutes,12 Minutes,Sealed Lead Acid,"RJ-45, Type F Connector, RJ-11",Tower,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,Simulated Sine Wave,,$169.95
+APC SRT8KXLI,APC,SRT8KXLI,8000 W,8000 VA,5 Minutes,16 Minutes,Sealed Lead Acid,,Tower,,1.50 Hour,230 V AC,,Sine Wave,,$5429.99+
+Tripp Lite SMART1500LCDT,Tripp Lite,SMART1500LCDT,900 W,1500 VA,1.60 Minutes,10 Minutes,,,Tower,110 V AC,8 Hour,120 V AC,5 x NEMA 5-15R,Pulse-width Modulated Sine Wave,"(2 Ratings, 5.0 Average)",$285.99
+APC Easy UPS BV1000I-MS 230V,APC,BV1000I-MS,600 W,1000 VA,,,,,,,,,,,,
+APC SURTA3000XL,APC,SURTA3000XL,2100 W,3000 VA,14.10 Minutes,33.90 Minutes,Sealed Lead Acid,,Tower,110 V AC,,120 V AC,"6 x NEMA 5-15R, 2 x NEMA 5-20R",Sine Wave,,$3599.46+
+CyberPower EC650LCD,CyberPower,EC650LCD,390 W,650 VA,,,Lead Acid,RJ-11,Desktop,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,,,$96.95
+APC BR1500GI,APC,BR1500GI,865 W,1500 VA,,,Sealed Lead Acid,"RJ-45, RJ-11",Tower,,8 Hour,230 V AC,,,,$601.00
+Tripp Lite BC350,Tripp Lite,BC350,180 W,350 VA,2.50 Minutes,8 Minutes,,,Mini Desktop,110 V AC,4 Hour,120 V AC,3 x NEMA 5-15R,,,$64.98
+Tripp Lite SMX1500XLRT2U,Tripp Lite,SMX1500XLRT2U,1350 W,1500 VA,4.90 Minutes,13.60 Minutes,,,Tower/Rack Mountable,220 V AC,4 Hour,230 V AC,8 x IEC 320 EN 60320 C13,Sine Wave,,$500.00+
+CyberPower PR2200LCD,CyberPower,PR2200LCD,1980 W,2200 VA,7.80 Minutes,25.80 Minutes,Lead Acid,,Tower,110 V AC,8 Hour,120 V AC,"2 x NEMA 5-20R, 8 x NEMA 5-15R",,,$1569.95
+APC SMX1500RMI2UNC,APC,SMX1500RMI2UNC,1200 W,1500 VA,6 Minutes,,Lead Acid,,Tower/Rack Mountable,,3 Hour,230 V AC,,,,$1385.61+
+CyberPower PFC Sinewave CP1500PFCRM2U,CyberPower,CP1500PFCRM2U,1000 W,1500 VA,,,,,,,,,,,,$359.95
+CyberPower EC750G,CyberPower,EC750G,450 W,750 VA,1.80 Minutes,9 Minutes,Lead Acid,RJ-11,Desktop,110 V AC,8 Hour,120 V AC,6 x NEMA 5-15R,,,$109.95
+CyberPower CP1350PFCLCD,CyberPower,CP1350PFCLCD,810 W,1350 VA,,,,,,,,,,,"(6 Ratings, 4.8 Average)",$219.95
+CyberPower CP850PFCLCD,CyberPower,CP850PFCLCD,510 W,850 VA,1.98 Minutes,7.80 Minutes,Sealed Lead Acid,"RJ-11, RG-6",Mini-tower,110 V AC,8 Hour,120 V AC,10 x NEMA 5-15R,Sine Wave,"(1 Rating, 5.0 Average)",$169.95
+CyberPower LE1000DG,CyberPower,LE1000DG,530 W,1000 VA,,,,,,,,,,,"(1 Rating, 4.0 Average)",$129.99
+Tripp Lite SMART2200RM2U,Tripp Lite,SMART2200RM2U,1920 W,2200 VA,5 Minutes,13 Minutes,,,Rack-mountable,110 V AC,4.50 Hour,"120 V AC, 110 V AC","4 x NEMA 5-15R, 4 x NEMA 5-15/20R",Sine Wave,,$1099.00+
+APC Back-UPS 1350,APC,BX1350M,810 W,1350 VA,,,,,,,,,,,,$189.99
+CyberPower PR5000LCDRTXL5U,CyberPower,PR5000LCDRTXL5U,4000 W,5000 VA,11 Minutes,31 Minutes,Sealed Lead Acid,"RJ-11, RJ-45",Rack-mountable,220 V AC,8 Hour,208 V AC,"3 x NEMA L6-30R, 2 x NEMA L6-20R",,,$4708.95
+CyberPower AVRG900U,CyberPower,AVRG900U,480 W,900 VA,10 Minutes,2 Minutes,Sealed Lead Acid,RJ-11,Desktop,120 V AC,8 Hour,120 V AC,12 x NEMA 5-15R,Simulated Sine Wave,,$119.95
+APC BE850G2,APC,BE850G2,450 W,850 VA,2 Minutes 23 Seconds,,,,,,,,,Stepped Sine Wave,,$139.99
+CyberPower CP900AVR,CyberPower,CP900AVR,560 W,900 VA,3 Minutes,12 Minutes,Sealed Lead Acid,"Type F Connector, RJ-45, RJ-11",Tower,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,Simulated Sine Wave,,$159.95
+CyberPower CP1300EPFCLCD,CyberPower,CP1300EPFCLCD,780 W,1300 VA,,,,,,,,,,,"(1 Rating, 5.0 Average)",
+APC BN1100M2,APC,BN1100M2,600 W,1100 VA,,,,,,,,,,,"(1 Rating, 5.0 Average)",$444.22+
+APC Back-UPS Pro 1350VA,APC,BN1350M2,810 W,1350 VA,,,,,,,,,,,,$193.37
+APC BE650G1,APC,BE650G1,390 W,650 VA,3 Minutes,12 Minutes,Lead Acid,RJ-45,Desktop,110 V AC,24 Hour,120 V AC,4 x NEMA 5-15R,,,$94.99
+APC SMT2200I,APC,SMT2200I,1980 W,2200 VA,7 Minutes,24 Minutes,Lead Acid,,Tower,,,230 V AC,,,,
+APC SMX3000RMLV2UNC,APC,SMX3000RMLV2UNC,2700 W,3000 VA,6 Minutes,18 Minutes,Lead Acid,,Rack-mountable,110 V AC,3 Hour,120 V AC,"3 x NEMA 5-15R, 3 x NEMA 5-20R, 1 x NEMA L5-30R",,,$2216.51+
+CyberPower GX1500U,CyberPower,GX1500U,900 W,1500 VA,2 Minutes,11 Minutes,,Network,Mini-Tower,,,,,Sine Wave,,$229.99
+CyberPower CP1500PFCLCDTAA,CyberPower,CP1500PFCLCDTAA,900 W,1500 VA,1.98 Minutes,10.98 Minutes,Sealed Lead Acid,"RJ-45, RG-6, RJ-11",Tower,110 V AC,8 Hour,120 V AC,10 x NEMA 5-15R,Sine Wave,,$309.95
+Tripp Lite SU1500XLCD,Tripp Lite,SU1500XLCD,1350 W,1500 VA,4.50 Minutes,14 Minutes,,,Tower,110 V AC,3 Hour,"127 V AC, 110 V AC, 120 V AC",6 x NEMA 5-15R,,,$1008.68+
+APC SMT1500I,APC,SMT1500I,980 W,1500 VA,7 Minutes,24 Minutes,Lead Acid,,Tower,,,230 V AC,,,,$1010.33+
+Tripp Lite ECO750UPS,Tripp Lite,ECO750UPS,450 W,750 VA,,,,RJ-11,Desktop,110 V AC,20 Hour,120 V AC,6 x NEMA 5-15R,,,$99.00+
+Tripp Lite SMART2200NET,Tripp Lite,SMART2200NET,1700 W,2200 VA,11 Minutes,27 Minutes,Sealed Lead Acid,,Tower,110 V AC,4 Hour,120 V AC,6 x NEMA 5-15R,Pulse-width Modulated Sine Wave,,$1168.99
+Tripp Lite SMART3000NET,Tripp Lite,SMART3000NET,2400 W,3000 VA,7 Minutes,23 Minutes,Sealed Lead Acid,,Tower,110 V AC,4 Hour,120 V AC,"4 x NEMA 5-15R, 4 x NEMA 5-20R",,,$1399.99
+CyberPower CP900EPFCLCD,CyberPower,CP900EPFCLCD,540 W,900 VA,1 Minutes,7 Minutes,Sealed Lead Acid,"RJ-11, RJ-45",Tower,230 V AC,,230 V AC,,Pure Sine Wave,,
+APC SRT8KRMXLT,APC,SRT8KRMXLT,8000 W,8000 VA,5 Minutes,,,,Rack-mountable,208 V AC,1.50 Hour,208 V AC,"1 x Hard Wire 3-wire (2PH + G), 4 x NEMA L6-20R, 2 x NEMA L6-30R",,,$4580.00+
+CyberPower CP1500EPFCLCD,CyberPower,CP1500EPFCLCD,900 W,1500 VA,,,,,,,,,,,,
+APC SUA2200RM2U,APC,SUA2200RM2U,1980 W,2200 VA,5.20 Minutes,15.70 Minutes,Sealed Lead Acid,,,110 V AC,3 Hour,120 V AC,"6 x NEMA 5-15R, 2 x NEMA 5-20R",Sine Wave,,$999.99+
+Tripp Lite SMART1500LCD,Tripp Lite,SMART1500LCD,900 W,1500 VA,3.50 Minutes,13 Minutes,,RJ-45,Tower/Rack Mountable,110 V AC,8 Hour,120 V AC,8 x NEMA 5-15R,Pulse-width Modulated Sine Wave,"(1 Rating, 4.0 Average)",$291.58
+CyberPower CP1500AVRT,CyberPower,CP1500AVRT,900 W,1500 VA,3 Minutes,11 Minutes,Sealed Lead Acid,"Type F Connector, RJ-45, RJ-11",Tower,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,Simulated Sine Wave,,$209.99
+HP AF450A,HP,AF450A,950 W,1400 VA,5 Minutes,15 Minutes,Sealed Valve-regulated Lead Acid (VRLA),,Tower,110 V AC,24 Hour,240 V AC,6 x NEMA 5-15R,,,$195.00+
+APC SMC1500,APC,SMC1500,900 W,1500 VA,4 Minutes,13 Minutes,Sealed Lead Acid,,Tower,110 V AC,3 Hour,120 V AC,8 x NEMA 5-15R,,,$499.99+
+APC SMT2200US,APC,SMT2200US,1980 W,2200 VA,8 Minutes,22 Minutes,Sealed Lead Acid,,Tower,110 V AC,3 Hour,120 V AC,"8 x NEMA 5-15R, 2 x NEMA 5-20R",,,$1650.80+
+APC SMX2200HV,APC,SMX2200HV,1980 W,2200 VA,10 Minutes,25 Minutes,Sealed Lead Acid,,Tower/Rack Mountable,,3 Hour,220 V AC,,Sine Wave,,$1999.99+
+APC SRT6KRMXLI,APC,SRT6KRMXLI,6000 W,6000 VA,2 Minutes,8 Minutes,Sealed Lead Acid,,Rack-mountable,,3 Hour,230 V AC,,Sine Wave,,$7719.99
+Tripp Lite SU1500RTXLCD2U,Tripp Lite,SU1500RTXLCD2U,1350 W,1500 VA,4.20 Minutes,14 Minutes,,,Tower/Rack Mountable,110 V AC,3 Hour,"127 V AC, 110 V AC, 120 V AC, 115 V AC",6 x NEMA 5-15R,,,$1125.99+
+Tripp Lite SMT1500LCDT,Tripp Lite,SMT1500LCDT,900 W,1500 VA,,,,"RJ-11, RJ-45, RG-6",Tower,,,,10 x AC Power,,"(2 Ratings, 5.0 Average)",$285.99
+CyberPower CP850AVRLCD,CyberPower,CP850AVRLCD,510 W,850 VA,1 Minute,7 Minutes,Sealed Lead Acid,"RG-6, RJ-45, RJ-11",Tower,110 V AC,8 Hour,120 V AC,"5 x NEMA 5-15R, 4 x NEMA 5-15R",,,$164.95
+Belkin F6H650-SER,Belkin,F6H650-SER,360 W,650 VA,35 Minutes,,,,,,,,8 x Power Switch,,,$71.02
+Eaton 66942,Eaton,66942,250 W,500 VA,,,,,,,,,,,,
+APC Back-UPS Pro 1350S,APC,BR1350MS,810 W,1350 VA,,,,,,,,,,,,$232.03
+APC SRT5KXLT,APC,SRT5KXLT,4250 W,5000 VA,,,,,Tower,208 V AC,1.50 Hour,208 V AC,"2 x NEMA L6-20R, 2 x NEMA L6-30R",,,$3190.00+
+Tripp Lite OMNI1500LCDT,Tripp Lite,OMNI1500LCDT,810 W,1500 VA,,7.50 Minutes,,,Tower,110 V AC,8 Hour,120 V AC,5 x NEMA 5-15R,,,$184.42
+APC BR1000G,APC,BR1000G,600 W,1000 VA,7 Minutes,20 Minutes,Sealed Lead Acid,RJ-45,Tower,110 V AC,8 Hour,120 V AC,4 x NEMA 5-15R,,"(4 Ratings, 4.8 Average)",$239.00+

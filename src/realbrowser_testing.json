@@ -1,0 +1,402 @@
+[
+  {
+    "name": "AMD Ryzen 7 9800X3D",
+    "price": 459
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D",
+    "price": 385.38
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "price": 200
+  },
+  {
+    "name": "AMD Ryzen 5 9600X",
+    "price": 208
+  },
+  {
+    "name": "AMD Ryzen 7 9700X",
+    "price": 309
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "price": 135
+  },
+  {
+    "name": "AMD Ryzen 9 9950X3D",
+    "price": 699
+  },
+  {
+    "name": "AMD Ryzen 7 7700X",
+    "price": 274.64
+  },
+  {
+    "name": "AMD Ryzen 5 5500",
+    "price": 73
+  },
+  {
+    "name": "AMD Ryzen 5 7600",
+    "price": 196.99
+  },
+  {
+    "name": "AMD Ryzen 5 5600",
+    "price": 118
+  },
+  {
+    "name": "AMD Ryzen 7 5800X",
+    "price": 160.54
+  },
+  {
+    "name": "Intel Core i9-14900K",
+    "price": 439
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "price": 108.99
+  },
+  {
+    "name": "AMD Ryzen 7 5700X",
+    "price": 139.38
+  },
+  {
+    "name": "Intel Core i7-14700K",
+    "price": 303.61
+  },
+  {
+    "name": "AMD Ryzen 5 3600",
+    "price": 79.4
+  },
+  {
+    "name": "AMD Ryzen 9 9900X",
+    "price": 377.95
+  },
+  {
+    "name": "AMD Ryzen 9 7900X",
+    "price": 335.26
+  },
+  {
+    "name": "AMD Ryzen 7 5700X3D",
+    "price": 255.89
+  },
+  {
+    "name": "Intel Core i5-14400F",
+    "price": 130
+  },
+  {
+    "name": "AMD Ryzen 7 7700",
+    "price": 260
+  },
+  {
+    "name": "Intel Core i7-12700K",
+    "price": 219.99
+  },
+  {
+    "name": "AMD Ryzen 9 9950X",
+    "price": 439.99
+  },
+  {
+    "name": "Intel Core Ultra 7 265K",
+    "price": 269
+  },
+  {
+    "name": "AMD Ryzen 5 7500F",
+    "price": null
+  },
+  {
+    "name": "Intel Core i5-14600K",
+    "price": 215.99
+  },
+  {
+    "name": "AMD Ryzen 5 8500G",
+    "price": 149
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "price": 179.99
+  },
+  {
+    "name": "AMD Ryzen 9 5900X",
+    "price": 238.95
+  },
+  {
+    "name": "Intel Core Ultra 9 285K",
+    "price": 588.98
+  },
+  {
+    "name": "AMD Threadripper 3990X",
+    "price": 2767
+  },
+  {
+    "name": "AMD Ryzen 5 4500",
+    "price": 64.98
+  },
+  {
+    "name": "AMD Ryzen 7 3700X",
+    "price": 145.72
+  },
+  {
+    "name": "Intel Core i5-12600KF",
+    "price": 141.58
+  },
+  {
+    "name": "AMD Ryzen 7 5800XT",
+    "price": 155.56
+  },
+  {
+    "name": "AMD Ryzen 5 7500F",
+    "price": null
+  },
+  {
+    "name": "Intel Core i5-13400F",
+    "price": 131.12
+  },
+  {
+    "name": "AMD Ryzen 5 5600G",
+    "price": 158.59
+  },
+  {
+    "name": "Intel Core i7-14700KF",
+    "price": 309.4
+  },
+  {
+    "name": "Intel Core i5-14600KF",
+    "price": 198
+  },
+  {
+    "name": "AMD Ryzen 7 5700G",
+    "price": 148.99
+  },
+  {
+    "name": "AMD Ryzen 5 8600G",
+    "price": 181.13
+  },
+  {
+    "name": "AMD Ryzen 9 7950X",
+    "price": 488.59
+  },
+  {
+    "name": "AMD Ryzen 9 9900X3D",
+    "price": 599
+  },
+  {
+    "name": "AMD Ryzen 5 8400F",
+    "price": 183.33
+  },
+  {
+    "name": "AMD Ryzen 7 5800X3D",
+    "price": 749.88
+  },
+  {
+    "name": "Intel Core i3-12100F",
+    "price": 82.49
+  },
+  {
+    "name": "Intel Core i5-12600K",
+    "price": 180.97
+  },
+  {
+    "name": "AMD Ryzen 9 5950X",
+    "price": 322
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "price": 303.3
+  },
+  {
+    "name": "AMD Ryzen 9 7950X3D",
+    "price": 685
+  },
+  {
+    "name": "AMD Ryzen 7 5700",
+    "price": 126.8
+  },
+  {
+    "name": "Intel Core i7-13700K",
+    "price": 315.47
+  },
+  {
+    "name": "Intel Core i9-14900KF",
+    "price": 424.99
+  },
+  {
+    "name": "AMD Ryzen 7 8700G",
+    "price": 295.99
+  },
+  {
+    "name": "AMD Ryzen 5 7600X3D",
+    "price": null
+  },
+  {
+    "name": "Intel Core i5-13600KF",
+    "price": 189.99
+  },
+  {
+    "name": "Intel Core i9-14900KS",
+    "price": 669.96
+  },
+  {
+    "name": "Intel Core i9-13900K",
+    "price": 410
+  },
+  {
+    "name": "AMD Ryzen 5 2600",
+    "price": 140
+  },
+  {
+    "name": "Intel Core i7-9700K",
+    "price": 246
+  },
+  {
+    "name": "AMD Ryzen 9 7900",
+    "price": 336.82
+  },
+  {
+    "name": "Intel Core i5-10400F",
+    "price": 115.99
+  },
+  {
+    "name": "AMD Ryzen 7 8700F",
+    "price": 259.93
+  },
+  {
+    "name": "Intel Core i7-14700F",
+    "price": 305.51
+  },
+  {
+    "name": "Intel Core i7-8700K",
+    "price": 161.96
+  },
+  {
+    "name": "AMD Ryzen 3 3200G",
+    "price": 74.95
+  },
+  {
+    "name": "Intel Core i5-13600K",
+    "price": 259.99
+  },
+  {
+    "name": "AMD Ryzen 5 3600X",
+    "price": 167
+  },
+  {
+    "name": "Intel Core i5-12400",
+    "price": 143.57
+  },
+  {
+    "name": "AMD Ryzen 5 5600GT",
+    "price": 144
+  },
+  {
+    "name": "Intel Pentium E2220",
+    "price": 12.99
+  },
+  {
+    "name": "Intel Core i9-9900K",
+    "price": 350
+  },
+  {
+    "name": "Intel Core i9-12900KF",
+    "price": 269.92
+  },
+  {
+    "name": "AMD Ryzen 5 3400G",
+    "price": 101.58
+  },
+  {
+    "name": "Intel Core Ultra 7 265KF",
+    "price": 269
+  },
+  {
+    "name": "AMD Ryzen 9 3900X",
+    "price": 350
+  },
+  {
+    "name": "AMD Ryzen 7 2700X",
+    "price": 183
+  },
+  {
+    "name": "Intel Core i7-7700K",
+    "price": 170.05
+  },
+  {
+    "name": "Intel Core i7-10700K",
+    "price": 304.99
+  },
+  {
+    "name": "Intel Core i3-14100F",
+    "price": 90.07
+  },
+  {
+    "name": "AMD Ryzen 3 4100",
+    "price": 62.22
+  },
+  {
+    "name": "AMD Ryzen 9 5900XT",
+    "price": 282.99
+  },
+  {
+    "name": "AMD Ryzen 9 7900X3D",
+    "price": null
+  },
+  {
+    "name": "Intel Core Ultra 5 245K",
+    "price": 279.99
+  },
+  {
+    "name": "Intel Core i7-13700KF",
+    "price": 299
+  },
+  {
+    "name": "Intel Core i5-14400",
+    "price": 176.97
+  },
+  {
+    "name": "Intel Core i7-6700K",
+    "price": 125.42
+  },
+  {
+    "name": "AMD Ryzen 5 5600XT",
+    "price": 139
+  },
+  {
+    "name": "AMD Ryzen 7 3800X",
+    "price": 215.99
+  },
+  {
+    "name": "Intel Core i9-13900KF",
+    "price": 360
+  },
+  {
+    "name": "Intel Core i5-9400F",
+    "price": 105
+  },
+  {
+    "name": "AMD Threadripper 3970X",
+    "price": 1650
+  },
+  {
+    "name": "Intel Core i3-13100F",
+    "price": 82.92
+  },
+  {
+    "name": "Intel Core i3-12100",
+    "price": 113.58
+  },
+  {
+    "name": "Intel Core i5-9600K",
+    "price": 110
+  },
+  {
+    "name": "Intel Core i7-11700K",
+    "price": 293.93
+  },
+  {
+    "name": "Intel Core i5-11400F",
+    "price": 204.27
+  },
+  {
+    "name": "AMD Ryzen 5 2600X",
+    "price": 145
+  }
+]

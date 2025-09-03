@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Type,Efficiency Rating,Wattage,Length,Modular,Color,Fanless,ATX 4-pin Connectors,EPS 8-pin Connectors,PCIe 16-pin 12VHPWR/12V-2x6 Connectors,PCIe 12-pin Connectors,PCIe 8-pin Connectors,PCIe 6+2-pin Connectors,PCIe 6-pin Connectors,SATA Connectors,AMP/Molex 4-pin Connectors
+MSI MAG A750GL PCIE5         (61),MSI,"MAG A750GL PCIE5, 306-7ZP8B11-CE0",ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,8,4
+MSI MAG A650BN         (40),MSI,"MAG A650BN, 306-7ZP2B11-CE0",ATX,80+ Bronze,650 W,140 mm,No,Black,No,0,1,0,0,0,2,0,5,2
+MSI MAG A850GL PCIE5         (49),MSI,"MAG A850GL PCIE5, 306-7ZP8A11-CE0, 306-7ZP8A15-CE0",ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,1,0,0,4,0,8,4
+Corsair RM1000e (2023)         (70),Corsair,"CP-9020264-NA, CP-9020264-AU, CP-9020264-UK, CP-9020264-EU",ATX,80+ Gold,1000 W,140 mm,Full,Black,No,0,2,1,0,0,6,0,7,4
+Corsair RM850x (2024)         (21),Corsair,"CP-9020270-NA, CP-9020270-EU, CP-9020270-AU, CP-9020270-UK",ATX,,850 W,160 mm,Full,Black,No,0,2,1,0,0,3,0,8,3
+Corsair SF1000 (2024)         (20),Corsair,"CP-9020257, CP-9020257-AU, CP-9020257-NA, CP-9020257-EU, CP-9020257-UK",SFX,80+ Platinum,1000 W,100 mm,Full,Black,No,0,2,1,0,0,4,0,8,3
+Corsair RM750e (2025)         (3),Corsair,"CP-9020295-NA, CP-9020295-EU, CP-9020295-UK, CP-9020295-AU",ATX,,750 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,6,2
+MSI MAG A650GL         (18),MSI,"MAG A650GL, 306-7ZP8C11-CE0",ATX,80+ Gold,650 W,140 mm,Full,Black,No,0,2,0,0,0,4,0,6,4
+MSI MAG A550BN         (33),MSI,"MAG A550BN, 306-7ZP2A11-CE0",ATX,80+ Bronze,550 W,140 mm,No,Black,No,0,1,0,0,0,2,0,5,2
+Corsair RM750e (2023)         (157),Corsair,"CP-9020262-NA, CP-9020262-UK, CP-9020262-EU, CP-9020262-AU",ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,7,4
+Corsair RM1000x (2024)         (17),Corsair,"CP-9020271-NA, CP-9020271-EU, CP-9020271-AU, CP-9020271-UK",ATX,,1000 W,160 mm,Full,Black,No,0,2,1,0,0,4,0,12,6
+Corsair RM850         (80),Corsair,"CP-9020232-NA, CP-9020232-UK, CP-9020232-AU",ATX,80+ Gold,850 W,160 mm,Full,White / Black,No,0,3,0,0,0,4,0,14,4
+Corsair RM850e (2023)         (102),Corsair,"CP-9020263-NA, CP-9020263-EU, CP-9020263-UK, CP-9020263-AU",ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,7,4
+Thermaltake Smart         (79),Thermaltake,PS-SPD-0500NPCWUS-W,ATX,80+,500 W,140 mm,No,,No,0,1,0,0,0,2,0,5,6
+Corsair SF750 (2024)         (21),Corsair,"CP-9020284, CP-9020284-UK, CP-9020284-AU, CP-9020284-NA, CP-9020284-EU",SFX,80+ Platinum,750 W,100 mm,Full,Black,No,0,2,1,0,0,2,0,8,3
+be quiet! Pure Power 12 M         (28),be quiet!,"BN505, BN716, BN344",ATX,80+ Gold,850 W,160 mm,Full,Black,No,0,2,1,0,0,4,0,6,2
+Asus ROG THOR 1600T Gaming         (1),Asus,"90YE00K0-B0NA00, ROG-THOR-1600T-GAMING",ATX,80+ Titanium,1600 W,190 mm,Full,Silver / Black,No,0,2,1,0,0,10,0,12,6
+Corsair RM850e (2025)         (4),Corsair,"CP-9020296-NA, CP-9020296-AU, CP-9020296-UK, CP-9020296-EU",ATX,,850 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,6,2
+Thermaltake Toughpower GF1 (2024)         (8),Thermaltake,PS-TPD-0850FNFAGU-P,ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,0,0,0,6,0,8,4
+Corsair CX (2023)         (13),Corsair,"CP-9020278-NA, CP-9020278-EU, CP-9020278-AU, CP-9020278-WW, CP-9020278-UK",ATX,80+ Bronze,650 W,125 mm,No,Black,No,0,1,0,0,0,2,0,3,2
+Thermaltake Smart         (45),Thermaltake,PS-SPD-0600NPCWUS-W,ATX,80+,600 W,140 mm,No,,No,0,1,0,0,0,2,0,6,3
+Corsair SF850 (2024)         (18),Corsair,"CP-9020256, CP-9020256-NA, CP-9020256-AU, CP-9020256-UK, CP-9020256-EU",SFX,80+ Platinum,850 W,100 mm,Full,Black,No,0,2,1,0,0,3,0,8,3
+Corsair RM1000e (2025)         (2),Corsair,"CP-9020297-NA, CP-9020297-UK, CP-9020297-AU, CP-9020297-EU",ATX,,1000 W,140 mm,Full,Black,No,0,2,1,0,0,4,0,6,2
+Corsair RM650e (2025)         (2),Corsair,"CP-9020302-NA, CP-9020302-AU, CP-9020302-EU, CP-9020302-UK",ATX,,650 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,6,2
+MSI MAG A850GL PCIE5         (16),MSI,"MAG A850GL PCIE5 WHITE, 306-7ZP8A24-CE0",ATX,80+ Gold,850 W,140 mm,Full,White,No,0,2,1,0,0,4,0,8,4
+Cooler Master MWE GOLD 750 V2 FULL MODULAR         (19),Cooler Master,"MPE-7501-AFAAG-US, MPE-7501-AFAAG-UK, MPE-7501-AFAAG-EU, MPE-7501-AFAAG-ST, MPE-7501-AFAAG-AU, MPE-7501-AFAAG-BR, MPE-7501-AFAAG-KR, MPE-7501-AFAAG-TW, MPE-7501-AFAAG-JP, MPE-7501-AFAAG-IN",ATX,80+ Gold,750 W,160 mm,Full,Black,No,0,2,0,0,0,4,0,12,4
+Corsair CX (2023)         (6),Corsair,"CP-9020279-NA, CP-9020279-EU, CP-9020279-AU, CP-9020279-WW, CP-9020279-UK",ATX,80+ Bronze,750 W,125 mm,No,Black,No,0,1,0,0,0,3,0,3,2
+Gigabyte UD750GM         (43),Gigabyte,GP-UD750GM,ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,0,0,0,4,0,8,3
+Corsair AX1600i         (17),Corsair,"CP-9020087-NA, CP-9020087-UK, CP-9020087-EU, CP-9020087-AU",ATX,80+ Titanium,1600 W,200 mm,Full,,No,0,2,0,0,0,8,0,5,3
+MSI MAG A750BN PCIE5         (3),MSI,"MAG A750BN PCIE5, 306-7ZP2C11-CE0",ATX,80+ Bronze,750 W,140 mm,No,Black,No,0,2,1,0,0,2,0,5,2
+Lian Li EDGE         (5),Lian Li,EG1000 White,ATX,80+ Platinum,1000 W,182 mm,Full,White,No,0,2,1,0,0,4,0,12,4
+EVGA SuperNOVA 1000 GT         (22),EVGA,"220-GT-1000-X1, 220-GT-1000-X2",ATX,80+ Gold,1000 W,150 mm,Full,Black,No,0,2,0,0,0,8,0,12,4
+Cooler Master MWE Gold 850 - V2         (22),Cooler Master,"MPE-8501-AFAAG-US, MPE-8501-AFAAG-U2, MPE-8501-AFAAG-UK, MPE-8501-AFAAG-EU, MPE-8501-AFAAG-JP, MPE-8501-AFAAG-AU",ATX,80+ Gold,850 W,160 mm,Full,Black,No,0,2,0,0,0,4,0,12,4
+Corsair CX (2023)         (7),Corsair,"CP-9020277-NA, CP-9020277-WW, CP-9020277-EU, CP-9020277-AU, CP-9020277-UK",ATX,80+ Bronze,550 W,125 mm,No,Black,No,0,1,0,0,0,2,0,3,2
+Thermaltake Toughpower GF1 (2024)         (5),Thermaltake,PS-TPD-0750FNFAGU-P,ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,0,0,0,4,0,8,4
+Corsair HX1500i (2023)         (8),Corsair,"CP-9020261-NA, CP-9020261-UK, CP-9020261-WW, CP-9020261-EU, CP-9020261-JP, CP-9020261-AU",ATX,80+ Platinum,1500 W,180 mm,Full,Black,No,0,2,1,0,0,7,0,8,8
+be quiet! Pure Power 12 M         (18),be quiet!,"BN504, BN343, BN715",ATX,80+ Gold,750 W,160 mm,Full,Black,No,0,2,1,0,0,2,0,5,2
+Thermaltake Toughpower GF A3 Snow         (6),Thermaltake,"PS-TPD-0850FNFAGU-N, PS-TPD-0850FNFAGE-N, PS-TPD-0850FNFAGA-N",ATX,80+ Gold,850 W,140 mm,Full,White,No,0,2,1,0,0,4,0,4,8
+Segotep GN         (2),Segotep,CP-PSU-ST-GN650,ATX,80+ Gold,650 W,160 mm,No,Black,No,0,2,0,0,0,4,0,6,5
+Silverstone HELA         (0),Silverstone,SST-HA2050-PT,ATX,,2050 W,180 mm,Full,Black / White,No,0,2,0,1,0,18,0,12,3
+Corsair RM850x (2021)         (215),Corsair,"CP-9020200-NA, CP-9020200-UK, CP-9020200-EU, CP-9020200-AU",ATX,80+ Gold,850 W,160 mm,Full,Black,No,0,3,0,0,0,4,0,14,4
+Lian Li SP         (19),Lian Li,"SP750, G89.SP750B.00EU",SFX,80+ Gold,750 W,100 mm,Full,Black,No,0,2,0,0,0,3,0,8,4
+Corsair RM750x (2024)         (2),Corsair,"CP-9020285-NA, CP-9020285-UK, CP-9020285-AU, CP-9020285-EU",ATX,,750 W,160 mm,Full,Black,No,0,2,1,0,0,2,0,8,3
+Thermaltake Toughpower GX2         (24),Thermaltake,PS-TPD-0600NNFAGU-2,ATX,80+ Gold,600 W,140 mm,No,Black,No,0,1,0,0,0,2,0,6,3
+ADATA XPG Core Reactor II         (1),ADATA,"COREREACTORII650G-BKCUS, COREREACTORII650G-BKCEU, COREREACTORII650G-BKCAU",ATX,80+ Gold,650 W,140 mm,Full,Black,No,0,2,1,0,0,4,0,8,4
+Corsair RM750         (41),Corsair,"CP-9020231-NA, CP-9020231-UK, CP-9020231-AU",ATX,80+ Gold,750 W,160 mm,Full,White / Black,No,0,3,0,0,0,4,0,14,4
+Lian Li EDGE         (2),Lian Li,EG1300 White,ATX,80+ Platinum,1300 W,182 mm,Full,White,No,0,2,1,0,0,4,0,12,4
+EVGA 750 GQ         (61),EVGA,"210-GQ-0750, 210-GQ-0750-V1, 210-GQ-0750-V2, 210-GQ-0750-V3",ATX,80+ Gold,750 W,165 mm,Semi,,No,0,2,0,0,0,6,0,9,3
+Thermaltake Smart         (23),Thermaltake,PS-SPD-0700NPCWUS-W,ATX,80+,700 W,140 mm,No,,No,0,1,0,0,0,2,0,6,5
+Apevia Galaxy         (10),Apevia,ATX-GX650W,ATX,80+ Gold,650 W,160 mm,Semi,Black,No,0,2,0,0,0,4,0,4,4
+ADATA XPG Core Reactor II         (6),ADATA,"COREREACTORII750G-BKCUS, COREREACTORII750G-BKCAU, COREREACTORII750G-BKCEU",ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,1,0,0,6,0,8,4
+NZXT C850 (2024)         (8),NZXT,"PA-8G2BB-US, PA-8G2BB-AU, PA-8G2BB-EU, PA-8G2BB-UK",ATX,80+ Gold,850 W,160 mm,Full,Black,No,0,2,1,0,0,3,0,12,4
+MSI MPG A850G PCIE5         (31),MSI,"MPG A850G PCIE5, 306-7ZP7B11-CE0",ATX,80+ Gold,850 W,150 mm,Full,Black,No,0,2,1,0,0,6,0,8,4
+Vetroo 50315153244479         (0),Vetroo,"50315153244479, VT-850W-G5(BK)",ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,1,0,0,6,0,8,6
+Corsair CX650M (2021)         (33),Corsair,"CP-9020221-NA, CP-9020221-UK, CP-9020221-EU, CP-9020221-AU",ATX,80+ Bronze,650 W,140 mm,Semi,Black,No,0,2,0,0,0,2,0,6,4
+Corsair HX1200i         (3),Corsair,"CP-9020281-NA, CP-9020281-AU, CP-9020281-UK, CP-9020281-WW, CP-9020281-EU",ATX,80+ Platinum,1200 W,200 mm,Full,Black,No,0,2,1,0,0,4,0,8,8
+Apevia Prestige         (9),Apevia,ATX-RP600W,ATX,80+ Gold,600 W,160 mm,No,Black,No,0,1,0,0,0,2,0,4,4
+be quiet! Pure Power 12 M         (9),be quiet!,"BN506, BN717, BN345",ATX,80+ Gold,1000 W,160 mm,Full,Black,No,0,2,1,0,0,4,0,6,2
+Apevia CAPTAIN         (0),Apevia,CAPTAIN550,ATX,,550 W,140 mm,No,Black,No,0,1,0,0,0,1,0,3,3
+Asus TUF Gaming 1000G         (7),Asus,"90YE00S1-B0NA00, TUF-GAMING-1000G",ATX,80+ Gold,1000 W,150 mm,Full,Black,No,0,2,1,0,0,4,0,5,4
+MSI MEG Ai-T PCIE5         (1),MSI,MEG Ai1600T PCIE5,ATX,80+ Titanium,1600 W,190 mm,Full,Black / Gold,No,0,2,2,0,0,9,0,8,8
+Gigabyte UD850GM         (11),Gigabyte,GP-UD850GM,ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,0,0,0,4,0,8,3
+Lian Li SP850         (6),Lian Li,"SP850 Black, SP850B, SP850",SFX,80+ Gold,850 W,100 mm,Full,Black,No,0,2,0,1,2,0,0,8,4
+Cooler Master V850 SFX GOLD         (49),Cooler Master,"MPY-8501-SFHAGV-US, MPY-8501-SFHAGV-UK, MPY-8501-SFHAGV-EU, MPY-8501-SFHAGV-AU, MPY-8501-SFHAGV-IN",SFX,80+ Gold,850 W,100 mm,Full,Black,No,0,2,0,0,0,4,0,8,4
+be quiet! Dark Power 13         (4),be quiet!,"BN661, BN705, BN702, BN335",ATX,80+ Titanium,1000 W,175 mm,Full,Black,No,0,2,1,0,0,4,0,13,3
+Corsair CX750M (2021)         (28),Corsair,"CP-9020222-NA, CP-9020222-UK, CP-9020222-EU, CP-9020222-AU",ATX,80+ Bronze,750 W,140 mm,Semi,Black,No,0,2,0,0,0,4,0,8,4
+SeaSonic Focus GX V4 ATX 3 (2024)         (2),SeaSonic,"FOCUS-GX-850-V4, Focus V4 GX-850",ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,1,0,0,3,0,8,3
+Lian Li EDGE         (1),Lian Li,"EG1000, EG1000 Black",ATX,80+ Platinum,1000 W,182 mm,Full,Black,No,0,2,1,0,0,4,0,12,4
+Gigabyte P650G         (0),Gigabyte,"GP-P650G, GP-P650G-UK",ATX,80+ Gold,650 W,140 mm,No,Black,No,0,2,0,0,0,4,0,6,3
+EVGA SuperNOVA 1600 T2         (1),EVGA,"220-T2-1600-X1, 220-T2-1600-X3, 220-T2-1600-X2",ATX,80+ Titanium,1600 W,220 mm,Full,,No,0,2,0,0,0,9,5,16,6
+Corsair RM750x SHIFT         (5),Corsair,"CP-9020251-NA, CP-9020251-UK, CP-9020251-EU, CP-9020251-AU",ATX,80+ Gold,750 W,160 mm,Full / Side,Black,No,0,2,1,0,0,3,0,12,4
+be quiet! Pure Power 12 M         (3),be quiet!,"BN503, BN342, BN714",ATX,80+ Gold,650 W,160 mm,Full,Black,No,1,1,1,0,0,2,0,5,2
+Lian Li EDGE         (2),Lian Li,"EG1300, EG1300 Black",ATX,80+ Platinum,1300 W,182 mm,Full,Black,No,0,2,1,0,0,4,0,12,4
+Asus Prime AP-750G         (3),Asus,"AP-750G, 90YE00U1-B0NB00",ATX,80+ Gold,750 W,150 mm,Full,White / Black,No,0,2,1,0,0,3,0,5,3
+Corsair HX1000i (2023)         (10),Corsair,"CP-9020259-NA, CP-9020259-WW, CP-9020259-EU, CP-9020259-AU, CP-9020259-UK, CP-9020259-JP",ATX,80+ Platinum,1000 W,180 mm,Full,Black,No,0,2,1,0,0,4,0,8,8
+SeaSonic VERTEX GX-1000         (9),SeaSonic,VERTEX GX-1000,ATX,80+ Gold,1000 W,160 mm,Full,Black / Silver,No,0,2,1,0,0,3,0,18,3
+Corsair RM1200x SHIFT         (9),Corsair,"CP-9020254-NA, CP-9020254-UK, CP-9020254-AU, CP-9020254-EU",ATX,80+ Gold,1200 W,180 mm,Full / Side,Black,No,0,2,1,0,0,8,0,16,8
+EVGA SuperNOVA 850 GT         (15),EVGA,220-GT-0850-Y1,ATX,80+ Gold,850 W,150 mm,Full,Black,No,0,2,0,0,0,7,0,9,3
+EVGA 400 N1         (33),EVGA,"100-N1-0400-L1, 100-N1-0400-L2",ATX,,400 W,140 mm,No,,No,0,1,0,0,0,1,1,4,3
+MSI A1000G PCIE5         (39),MSI,"MPG A1000G PCIE 5, 306-7ZP7C11-CE0",ATX,80+ Gold,1000 W,150 mm,Full,Black,No,0,2,1,0,0,6,0,12,4
+MSI MAG A1000GL PCIE5         (5),MSI,"MAG A1000GL PCIE5, 306-7ZP9B11-CE0",ATX,80+ Gold,1000 W,150 mm,Full,Black,No,0,2,1,0,0,4,0,12,4
+Corsair RM1000x (2021)         (124),Corsair,"CP-9020201-NA, CP-9020201-UK, CP-9020201-EU, CP-9020201-AU",ATX,80+ Gold,1000 W,180 mm,Full,Black,No,0,3,0,0,0,6,0,14,8
+Gigabyte P750GM         (30),Gigabyte,"GP-P750GM, GP-P750GM-UK",ATX,80+ Gold,750 W,140 mm,Full,Black,No,0,2,0,0,0,4,0,8,3
+Montech CENTURY II         (0),Montech,CENTURY II 850W,ATX,80+ Gold,850 W,140 mm,Full,Black,No,0,2,1,0,0,4,0,8,4
+Asus ROG THOR P2 Gaming EVA Edition         (1),Asus,"90YE00L3-B0AA00, ROG-THOR-1000P2-EVA-GAMING, 90YE00L3-B0WA00, 90YE00L3-B0NA00, 90YE00L6-B0NA00, 90YE00L6-B0AA00",ATX,80+ Platinum,1000 W,190 mm,Full,Black / Silver,No,0,2,0,0,0,8,0,12,6
+Corsair RM750x (2021)         (72),Corsair,"CP-9020199-NA, CP-9020199-UK, CP-9020199-EU, CP-9020199-AU",ATX,80+ Gold,750 W,160 mm,Full,Black,No,0,2,0,0,0,4,0,10,4
+CoolMax V-400         (4),CoolMax,V-400,ATX,,400 W,142 mm,No,,No,1,0,0,0,0,0,0,2,3
+NZXT C1200 (2024)         (2),NZXT,"PA-2G2BB-US, PA-2G2BB-EU, PA-2G2BB-AU, PA-2G2BB-UK",ATX,80+ Gold,1200 W,160 mm,Full,Black,No,0,2,1,0,0,3,0,12,4
+Corsair RM650 (2023)         (27),Corsair,"CP-9020280-NA, CP-9020280-WW, CP-9020280-EU, CP-9020280-AU, CP-9020280-UK",ATX,80+ Gold,650 W,140 mm,Full,Black,No,0,2,0,0,0,2,0,7,4
+Lian Li EDGE GOLD         (1),Lian Li,"EG0850G White, EDGE GOLD 850 White",ATX,80+ Gold,850 W,182 mm,Full,White,No,0,2,1,0,0,5,0,10,6
+SAMA GT         (1),SAMA,GT650-BKGFFXX1-US,ATX,80+ Gold,650 W,140 mm,Full,Black,No,0,2,1,0,0,2,0,6,2
+be quiet! Dark Power Pro 13         (4),be quiet!,"BN501, BN332, BN942, BN712, BN999, BN940",ATX,80+ Titanium,1600 W,200 mm,Full,Black,No,0,2,2,0,0,6,0,16,5
+Lian Li EDGE GOLD         (3),Lian Li,"EG0850G Black, EDGE GOLD 850 Black",ATX,80+ Gold,850 W,182 mm,Full,Black,No,0,2,1,0,0,5,0,10,6
+Cooler Master V750 SFX GOLD         (18),Cooler Master,"MPY-7501-SFHAGV-US, MPY-7501-SFHAGV-UK, MPY-7501-SFHAGV-EU, MPY-7501-SFHAGV-ST, MPY-7501-SFHAGV-AU, MPY-7501-SFHAGV-BR, MPY-7501-SFHAGV-KR, MPY-7501-SFHAGV-TW, MPY-7501-SFHAGV-JP, MPY-7501-SFHAGV-IN, MPY-7501-SFHAGV-WO",SFX,80+ Gold,750 W,100 mm,Full,Black,No,0,2,0,0,0,4,0,8,4
+SeaSonic PRIME TX-1600 ATX 3.1         (1),SeaSonic,"ATX3-PRIME-TX-1600, PRIME TX-1600 ATX 3.0, SSR-1600TR2, PRIME-TX-1600-ATX30",ATX,80+ Titanium,1600 W,210 mm,Full,Black / Silver,No,0,3,2,0,0,6,0,18,3
+Gigabyte P450B         (10),Gigabyte,GP-P450B,ATX,80+ Bronze,450 W,140 mm,No,Black,No,0,1,0,0,0,2,0,6,3
+NZXT C1000 (2024)         (8),NZXT,"PA-0G2BB-US, PA-0G2BB-UK, PA-0G2BB-AU, PA-0G2BB-EU",ATX,80+ Gold,1000 W,160 mm,Full,Black,No,0,2,1,0,0,3,0,12,4
+Thermaltake Toughpower GF A3 Snow         (12),Thermaltake,"PS-TPD-1050FNFAGU-N, PS-TPD-1050FNFAGE-N, PS-TPD-1050FNFAGA-N",ATX,80+ Gold,1050 W,140 mm,Full,White,No,0,2,1,0,0,5,0,8,8
+EVGA 500 W1         (186),EVGA,"100-W1-0500-KR, 100-W1-0500-K2, 100-W1-0500-K3",ATX,80+,500 W,139 mm,No,,No,0,1,0,0,0,2,0,6,3
+Apevia Galaxy         (3),Apevia,ATX-GX850W,ATX,80+ Gold,850 W,160 mm,Semi,Black,No,0,2,0,0,0,4,0,4,4

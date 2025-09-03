@@ -1,0 +1,71 @@
+{
+   "checksum": "42180344ed1503f858ee8a97c16d9855",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13277884857204279",
+               "date_last_used": "0",
+               "guid": "a73c5ef9-76f9-4160-9f75-85831bb50c95",
+               "id": "7",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13277884857209924",
+               "date_last_used": "0",
+               "guid": "8ba35b0d-2034-418e-b838-134c5c219bfa",
+               "id": "8",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13392714465621889",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5f262881-fd94-4ad3-8992-ac27312ee549",
+            "id": "6",
+            "name": "Lenovo",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13392714462017705",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13392714462017708",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392714462017709",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

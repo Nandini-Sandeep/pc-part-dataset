@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Series,Microarchitecture,Core Family,Socket,Core Count,Thread Count,Performance Core Clock,Performance Core Boost Clock,L2 Cache,L3 Cache,TDP,Integrated Graphics,Maximum Supported Memory,ECC Support,Includes Cooler,Packaging,Lithography,Includes CPU Cooler,Simultaneous Multithreading
+AMD Ryzen 7 9800X3D         (163),AMD,"100-1000001084WOF, AMD Ryzen 7 9800X3D, 100-100001084WOF",AMD Ryzen 7,Zen 5,Granite Ridge,AM5,8,16,4.7 GHz,5.2 GHz,8 MB,96 MB,120 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 7 7800X3D         (499),AMD,100-100000910WOF,AMD Ryzen 7,Zen 4,Raphael,AM5,8,16,4.2 GHz,5 GHz,8 MB,96 MB,120 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 5 7600X         (277),AMD,100-100000593WOF,AMD Ryzen 5,Zen 4,Raphael,AM5,6,12,4.7 GHz,5.3 GHz,6 MB,32 MB,105 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 5 9600X         (25),AMD,100-100001405WOF,AMD Ryzen 5,Zen 5,Granite Ridge,AM5,6,12,3.9 GHz,5.4 GHz,6 MB,32 MB,65 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 7 9700X         (46),AMD,100-100001404WOF,AMD Ryzen 7,Zen 5,Granite Ridge,AM5,8,16,3.8 GHz,5.5 GHz,8 MB,32 MB,65 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 5 5600X         (687),AMD,100-100000065BOX,AMD Ryzen 5,Zen 3,Vermeer,AM4,6,12,3.7 GHz,4.6 GHz,3 MB,32 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 9 9950X3D         (18),AMD,100-100000719WOF,AMD Ryzen 9,Zen 5,Granite Ridge,AM5,16,32,4.3 GHz,5.7 GHz,16 MB,128 MB,170 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 7 7700X         (185),AMD,100-100000591WOF,AMD Ryzen 7,Zen 4,Raphael,AM5,8,16,4.5 GHz,5.4 GHz,8 MB,32 MB,105 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 5 5500         (70),AMD,100-100000457BOX,AMD Ryzen 5,Zen 3,Cezanne,AM4,6,12,3.6 GHz,4.2 GHz,3 MB,16 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 5 7600         (181),AMD,100-100001015BOX,AMD Ryzen 5,Zen 4,Raphael,AM5,6,12,3.8 GHz,5.1 GHz,6 MB,32 MB,65 W,Radeon,128 GB,Yes,Yes,Boxed,5 nm,Yes,Yes
+AMD Ryzen 5 5600         (170),AMD,100-100000927BOX,AMD Ryzen 5,Zen 3,Vermeer,AM4,6,12,3.5 GHz,4.4 GHz,3 MB,32 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 7 5800X         (354),AMD,100-100000063WOF,AMD Ryzen 7,Zen 3,Vermeer,AM4,8,16,3.8 GHz,4.7 GHz,4 MB,32 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core i9-14900K         (36),Intel,BX8071514900K,Intel Core i9,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,24,32,3.2 GHz,6 GHz,32 MB,36 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+Intel Core i5-12400F         (99),Intel,BX8071512400F,Intel Core i5,Alder Lake,Alder Lake,LGA1700,6,12,2.5 GHz,4.4 GHz,7.5 MB,18 MB,65 W,None,128 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 7 5700X         (112),AMD,100-100000926WOF,AMD Ryzen 7,Zen 3,Vermeer,AM4,8,16,3.4 GHz,4.6 GHz,4 MB,32 MB,65 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core i7-14700K         (41),Intel,BX8071514700K,Intel Core i7,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,20,28,3.4 GHz,5.6 GHz,28 MB,33 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+AMD Ryzen 5 3600         (1174),AMD,"Ryzen 5 3600, 100-100000031BOX",AMD Ryzen 5,Zen 2,Matisse,AM4,6,12,3.6 GHz,4.2 GHz,3 MB,32 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 9 9900X         (20),AMD,100-100000662WOF,AMD Ryzen 9,Zen 5,Granite Ridge,AM5,12,24,4.4 GHz,5.6 GHz,12 MB,64 MB,120 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 9 7900X         (94),AMD,100-100000589WOF,AMD Ryzen 9,Zen 4,Raphael,AM5,12,24,4.7 GHz,5.6 GHz,12 MB,64 MB,170 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 7 5700X3D         (36),AMD,100-100001503WOF,AMD Ryzen 7,Zen 3,Vermeer-X,AM4,8,16,3 GHz,4.1 GHz,4 MB,96 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core i5-14400F         (0),Intel,BX8071514400F,Intel Core i5,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,10,16,2.5 GHz,4.7 GHz,9.5 MB,20 MB,65 W,None,192 GB,Yes,Yes,Boxed,7 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 7 7700         (45),AMD,100-100000592BOX,AMD Ryzen 7,Zen 4,Raphael,AM5,8,16,3.6 GHz,5.3 GHz,8 MB,32 MB,65 W,Radeon,128 GB,Yes,Yes,Boxed,5 nm,Yes,Yes
+AMD Ryzen 9 9950X         (11),AMD,100-100001277WOF,AMD Ryzen 9,Zen 5,Granite Ridge,AM5,16,32,4.3 GHz,5.7 GHz,16 MB,64 MB,170 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+Intel Core i7-12700K         (149),Intel,BX8071512700K,Intel Core i7,Alder Lake,Alder Lake,LGA1700,12,20,3.6 GHz,5 GHz,12 MB,25 MB,125 W,Intel UHD Graphics 770,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core Ultra 7 265K         (6),Intel,BX80768265K,Intel Core Ultra 7,Arrow Lake,Arrow Lake,LGA1851,20,20,3.9 GHz,5.5 GHz,36 MB,30 MB,125 W,Intel Xe,256 GB,Yes,No,Boxed,3 nm,No,No
+AMD Ryzen 5 7500F         (38),AMD,100-100000597BOX,AMD Ryzen 5,Zen 4,Raphael,AM5,6,12,3.7 GHz,5 GHz,6 MB,32 MB,65 W,None,128 GB,Yes,Yes,Boxed,5 nm,Yes,Yes
+Intel Core i5-14600K         (15),Intel,BX8071514600K,Intel Core i5,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,14,20,3.5 GHz,5.3 GHz,20 MB,24 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+AMD Ryzen 5 8500G         (1),AMD,100-100000931BOX,AMD Ryzen 5,Zen 4,Phoenix 2,AM5,6,12,4.1 GHz,5 GHz,6 MB,16 MB,65 W,Radeon 740M,,No,Yes,Boxed,4 nm,Yes,Yes
+Intel Core i7-12700KF         (57),Intel,BX8071512700KF,Intel Core i7,Alder Lake,Alder Lake,LGA1700,12,20,3.6 GHz,5 GHz,12 MB,25 MB,125 W,None,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 9 5900X         (245),AMD,100-100000061WOF,AMD Ryzen 9,Zen 3,Vermeer,AM4,12,24,3.7 GHz,4.8 GHz,6 MB,64 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core Ultra 9 285K         (3),Intel,BX80768285K,Intel Core Ultra 9,Arrow Lake,Arrow Lake,LGA1851,24,24,3.7 GHz,5.7 GHz,40 MB,36 MB,125 W,Intel Xe,256 GB,Yes,No,Boxed,3 nm,No,No
+AMD Threadripper 3990X         (1),AMD,100-100000163WOF,AMD Threadripper,Zen 2,Castle Peak,sTRX4,64,128,2.9 GHz,4.3 GHz,32 MB,256 MB,280 W,None,1024 GB,Yes,No,Boxed,7 nm,No,Yes
+AMD Ryzen 5 4500         (22),AMD,100-100000644BOX,AMD Ryzen 5,Zen 2,Renoir-X,AM4,6,12,3.6 GHz,4.1 GHz,3 MB,8 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 7 3700X         (632),AMD,"Ryzen 7 3700X, 100-100000071BOX",AMD Ryzen 7,Zen 2,Matisse,AM4,8,16,3.6 GHz,4.4 GHz,4 MB,32 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i5-12600KF         (85),Intel,BX8071512600KF,Intel Core i5,Alder Lake,Alder Lake,LGA1700,10,16,3.7 GHz,4.9 GHz,9.5 MB,20 MB,125 W,None,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 7 5800XT         (2),AMD,100-100001582BOX,AMD Ryzen 7,Zen 3,Vermeer,AM4,8,16,3.8 GHz,4.8 GHz,4 MB,32 MB,105 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 5 7500F         (20),AMD,100-000000597,AMD Ryzen 5,Zen 4,Raphael,AM5,6,12,3.7 GHz,5 GHz,6 MB,32 MB,65 W,None,128 GB,Yes,No,OEM/Tray,5 nm,No,Yes
+Intel Core i5-13400F         (17),Intel,BX8071513400F,Intel Core i5,Raptor Lake,Raptor Lake,LGA1700,10,16,2.5 GHz,4.6 GHz,9.5 MB,20 MB,65 W,None,192 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 5 5600G         (146),AMD,100-100000252BOX,AMD Ryzen 5,Zen 3,Cezanne,AM4,6,12,3.9 GHz,4.4 GHz,3 MB,16 MB,65 W,Radeon Vega 7,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i5-14600KF         (8),Intel,BX8071514600KF,Intel Core i5,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,14,20,3.5 GHz,5.3 GHz,20 MB,24 MB,125 W,None,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+Intel Core i7-14700KF         (14),Intel,BX8071514700KF,Intel Core i7,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,20,28,3.4 GHz,5.6 GHz,28 MB,33 MB,125 W,None,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+AMD Ryzen 7 5700G         (49),AMD,100-100000263BOX,AMD Ryzen 7,Zen 3,Cezanne,AM4,8,16,3.8 GHz,4.6 GHz,4 MB,16 MB,65 W,Radeon Vega 8,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 5 8600G         (13),AMD,100-100001237BOX,AMD Ryzen 5,Zen 4,Phoenix 1,AM5,6,12,4.3 GHz,5 GHz,6 MB,16 MB,65 W,Radeon 760M,,No,Yes,Boxed,4 nm,Yes,Yes
+AMD Ryzen 9 7950X         (48),AMD,100-100000514WOF,AMD Ryzen 9,Zen 4,Raphael,AM5,16,32,4.5 GHz,5.7 GHz,16 MB,64 MB,170 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 9 9900X3D         (0),AMD,"100-1000001368WOF, AMD-Ryzen-9-9900X3D, 100-100001368WOF",AMD Ryzen 9,Zen 5,Granite Ridge,AM5,12,24,4.4 GHz,5.5 GHz,12 MB,128 MB,120 W,Radeon,192 GB,Yes,No,Boxed,4 nm,No,Yes
+AMD Ryzen 5 8400F         (1),AMD,100-100001591BOX,AMD Ryzen 5,Zen 4,Phoenix 2,AM5,6,12,4.2 GHz,4.7 GHz,6 MB,16 MB,65 W,None,256 GB,No,Yes,Boxed,4 nm,Yes,Yes
+Intel Core i3-12100F         (54),Intel,BX8071512100F,Intel Core i3,Alder Lake,Alder Lake,LGA1700,4,8,3.3 GHz,4.3 GHz,5 MB,12 MB,58 W,None,128 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 7 5800X3D         (122),AMD,100-100000651WOF,AMD Ryzen 7,Zen 3,Vermeer-X,AM4,8,16,3.4 GHz,4.5 GHz,4 MB,96 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core i5-12600K         (159),Intel,BX8071512600K,Intel Core i5,Alder Lake,Alder Lake,LGA1700,10,16,3.7 GHz,4.9 GHz,9.5 MB,20 MB,125 W,Intel UHD Graphics 770,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 9 5950X         (110),AMD,100-100000059WOF,AMD Ryzen 9,Zen 3,Vermeer,AM4,16,32,3.4 GHz,4.9 GHz,8 MB,64 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+Intel Core i9-12900K         (70),Intel,BX8071512900K,Intel Core i9,Alder Lake,Alder Lake,LGA1700,16,24,3.2 GHz,5.2 GHz,14 MB,30 MB,125 W,Intel UHD Graphics 770,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 9 7950X3D         (67),AMD,100-100000908WOF,AMD Ryzen 9,Zen 4,Raphael,AM5,16,32,4.2 GHz,5.7 GHz,16 MB,128 MB,120 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+AMD Ryzen 7 5700         (3),AMD,"100-000000743BOX, 100-100000743BOX, Ryzen 7 5700",AMD Ryzen 7,Zen 3,Cezanne,AM4,8,16,3.7 GHz,4.6 GHz,4 MB,16 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i7-13700K         (131),Intel,"BX8071513700K, i7-13700K",Intel Core i7,Raptor Lake,Raptor Lake,LGA1700,16,24,3.4 GHz,5.4 GHz,24 MB,30 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core i9-14900KF         (13),Intel,BX8071514900KF,Intel Core i9,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,24,32,3.2 GHz,6 GHz,32 MB,36 MB,125 W,None,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+AMD Ryzen 7 8700G         (3),AMD,100-100001236BOX,AMD Ryzen 7,Zen 4,Phoenix 1,AM5,8,16,4.2 GHz,5.1 GHz,8 MB,16 MB,65 W,Radeon 780M,,No,Yes,Boxed,4 nm,Yes,Yes
+AMD Ryzen 5 7600X3D         (20),AMD,100-100001721WOF,AMD Ryzen 5,Zen 4,Raphael,AM5,6,12,4.1 GHz,4.7 GHz,6 MB,96 MB,65 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+Intel Core i5-13600KF         (66),Intel,"BX8071513600KF, i5-13600KF",Intel Core i5,Raptor Lake,Raptor Lake,LGA1700,14,20,3.5 GHz,5.1 GHz,20 MB,24 MB,125 W,None,192 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core i9-14900KS         (0),Intel,BX8071514900KS,Intel Core i9,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,24,32,3.2 GHz,6.2 GHz,32 MB,36 MB,150 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,7 nm,No,Yes: Hyper-Threading
+Intel Core i9-13900K         (65),Intel,"BX8071513900K, i9-13900K",Intel Core i9,Raptor Lake,Raptor Lake,LGA1700,24,32,3 GHz,5.8 GHz,32 MB,36 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 5 2600         (499),AMD,YD2600BBAFBOX,AMD Ryzen 5,Zen+,Pinnacle Ridge,AM4,6,12,3.4 GHz,3.9 GHz,3 MB,15.99 MB,65 W,None,64 GB,No,Yes,Boxed,12 nm,Yes,Yes
+Intel Core i7-9700K         (225),Intel,BX80684I79700K,Intel Core i7,Coffee Lake Refresh,Coffee Lake Refresh,LGA1151,8,8,3.6 GHz,4.9 GHz,2 MB,12 MB,95 W,Intel UHD Graphics 630,128 GB,No,No,Boxed,14 nm,No,No
+AMD Ryzen 9 7900         (17),AMD,100-100000590BOX,AMD Ryzen 9,Zen 4,Raphael,AM5,12,24,3.6 GHz,5.4 GHz,12 MB,64 MB,65 W,Radeon,128 GB,Yes,Yes,Boxed,5 nm,Yes,Yes
+Intel Core i5-10400F         (62),Intel,BX8070110400F,Intel Core i5,Comet Lake,Comet Lake,LGA1200,6,12,2.9 GHz,4.3 GHz,1.5 MB,12 MB,65 W,None,128 GB,No,Yes,Boxed,14 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 7 8700F         (3),AMD,100-100001590BOX,AMD Ryzen 7,Zen 4,Phoenix 1,AM5,8,16,4.1 GHz,5 GHz,8 MB,16 MB,65 W,None,256 GB,No,Yes,Boxed,4 nm,Yes,Yes
+Intel Core i7-14700F         (1),Intel,BX8071514700F,Intel Core i7,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,20,28,2.1 GHz,5.4 GHz,28 MB,33 MB,65 W,None,192 GB,Yes,Yes,Boxed,7 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 3 3200G         (63),AMD,"Ryzen 3 3200G, YD3200C5FHBOX",AMD Ryzen 3,Zen+,Picasso,AM4,4,4,3.6 GHz,4 GHz,2 MB,4 MB,65 W,Radeon Vega 8,64 GB,No,Yes,Boxed,12 nm,Yes,No
+Intel Core i7-8700K         (305),Intel,BX80684I78700K,Intel Core i7,Coffee Lake,Coffee Lake,LGA1151,6,12,3.7 GHz,4.7 GHz,1.5 MB,12 MB,95 W,Intel UHD Graphics 630,128 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+Intel Core i5-13600K         (110),Intel,"BX8071513600K, i5-13600K",Intel Core i5,Raptor Lake,Raptor Lake,LGA1700,14,20,3.5 GHz,5.1 GHz,20 MB,24 MB,125 W,Intel UHD Graphics 770,192 GB,Yes,No,Boxed,10 nm,No,Yes: Hyper-Threading
+AMD Ryzen 5 3600X         (203),AMD,"Ryzen 5 3600X, 100-100000022BOX",AMD Ryzen 5,Zen 2,Matisse,AM4,6,12,3.8 GHz,4.4 GHz,3 MB,32 MB,95 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i5-12400         (32),Intel,BX8071512400,Intel Core i5,Alder Lake,Alder Lake,LGA1700,6,12,2.5 GHz,4.4 GHz,7.5 MB,18 MB,65 W,Intel UHD Graphics 730,128 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+Intel Pentium E2220         (0),Intel,BX80557E2220,Intel Pentium,Core,Allendale,LGA775,2,2,2.4 GHz,,1 MB,0 MB,65 W,None,,No,Yes,Boxed,65 nm,Yes,No
+AMD Ryzen 5 5600GT         (2),AMD,100-100001488BOX,AMD Ryzen 5,Zen 3,Cezanne,AM4,6,12,3.6 GHz,4.6 GHz,3 MB,16 MB,65 W,Radeon Vega 7,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i9-9900K         (211),Intel,BX80684I99900K,Intel Core i9,Coffee Lake Refresh,Coffee Lake Refresh,LGA1151,8,16,3.6 GHz,5 GHz,2 MB,16 MB,95 W,Intel UHD Graphics 630,128 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+Intel Core i9-12900KF         (8),Intel,BX8071512900KF,Intel Core i9,Alder Lake,Alder Lake,LGA1700,16,24,3.2 GHz,5.2 GHz,14 MB,30 MB,125 W,None,128 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core Ultra 7 265KF         (0),Intel,BX80768265KF,Intel Core Ultra 7,Arrow Lake,Arrow Lake,LGA1851,20,20,3.9 GHz,5.5 GHz,36 MB,30 MB,125 W,None,256 GB,No,No,Boxed,3 nm,No,No
+AMD Ryzen 5 3400G         (56),AMD,"Ryzen 5 3400G, YD3400C5FHBOX",AMD Ryzen 5,Zen+,Picasso,AM4,4,8,3.7 GHz,4.2 GHz,2 MB,4 MB,65 W,Radeon Vega 11,64 GB,No,Yes,Boxed,12 nm,Yes,Yes
+AMD Ryzen 9 3900X         (280),AMD,"Ryzen 9 3900X, 100-100000023BOX",AMD Ryzen 9,Zen 2,Matisse,AM4,12,24,3.8 GHz,4.6 GHz,6 MB,64 MB,105 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+AMD Ryzen 7 2700X         (360),AMD,YD270XBGAFBOX,AMD Ryzen 7,Zen+,Pinnacle Ridge,AM4,8,16,3.7 GHz,4.3 GHz,4 MB,16 MB,105 W,None,64 GB,No,Yes,Boxed,12 nm,Yes,Yes
+Intel Core i7-7700K         (304),Intel,BX80677I77700K,Intel Core i7,Kaby Lake,Kaby Lake-S,LGA1151,4,8,4.2 GHz,4.5 GHz,1 MB,8 MB,91 W,Intel HD Graphics 630,64 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+Intel Core i7-10700K         (103),Intel,BX8070110700K,Intel Core i7,Comet Lake,Comet Lake,LGA1200,8,16,3.8 GHz,5.1 GHz,2 MB,16 MB,125 W,Intel UHD Graphics 630,128 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+AMD Ryzen 3 4100         (5),AMD,100-100000510BOX,AMD Ryzen 3,Zen 2,Renoir-X,AM4,4,8,3.8 GHz,4 GHz,2 MB,4 MB,65 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i3-14100F         (1),Intel,BX8071514100F,Intel Core i3,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,4,8,3.5 GHz,4.7 GHz,5 MB,12 MB,58 W,None,192 GB,Yes,Yes,Boxed,7 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 9 5900XT         (1),AMD,100-100001581WOF,AMD Ryzen 9,Zen 3,Vermeer,AM4,16,32,3.3 GHz,4.8 GHz,8 MB,64 MB,105 W,None,128 GB,No,No,Boxed,7 nm,No,Yes
+AMD Ryzen 9 7900X3D         (23),AMD,100-100000909WOF,AMD Ryzen 9,Zen 4,Raphael,AM5,12,24,4.4 GHz,5.6 GHz,12 MB,128 MB,120 W,Radeon,128 GB,Yes,No,Boxed,5 nm,No,Yes
+Intel Core Ultra 5 245K         (0),Intel,BX80768245K,Intel Core Ultra 5,Arrow Lake,Arrow Lake,LGA1851,14,14,4.2 GHz,5.2 GHz,26 MB,24 MB,125 W,Intel Xe,256 GB,Yes,No,Boxed,3 nm,No,No
+Intel Core i7-13700KF         (25),Intel,"BX8071513700KF, i7-13700KF",Intel Core i7,Raptor Lake,Raptor Lake,LGA1700,16,24,3.4 GHz,5.4 GHz,24 MB,30 MB,125 W,None,192 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core i5-14400         (1),Intel,BX8071514400,Intel Core i5,Raptor Lake Refresh,Raptor Lake Refresh,LGA1700,10,16,2.5 GHz,4.7 GHz,9.5 MB,20 MB,65 W,Intel UHD Graphics 730,192 GB,Yes,Yes,Boxed,7 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 5 5600XT         (0),AMD,100-100001585BOX,AMD Ryzen 5,Zen 3,Vermeer,AM4,6,12,3.7 GHz,4.7 GHz,3 MB,32 MB,65 W,None,128 GB,Yes,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i7-6700K         (509),Intel,BX80662I76700K,Intel Core i7,Skylake,Skylake-S,LGA1151,4,8,4 GHz,4.2 GHz,1 MB,8 MB,91 W,Intel HD Graphics 530,64 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+AMD Ryzen 7 3800X         (135),AMD,"Ryzen 7 3800X, 100-100000025BOX",AMD Ryzen 7,Zen 2,Matisse,AM4,8,16,3.9 GHz,4.5 GHz,4 MB,32 MB,105 W,None,128 GB,No,Yes,Boxed,7 nm,Yes,Yes
+Intel Core i9-13900KF         (16),Intel,"BX8071513900KF, i7-13900KF",Intel Core i9,Raptor Lake,Raptor Lake,LGA1700,24,32,3 GHz,5.8 GHz,32 MB,36 MB,125 W,None,192 GB,No,No,Boxed,10 nm,No,Yes: Hyper-Threading
+Intel Core i5-9400F         (47),Intel,BX80684I59400F,Intel Core i5,Coffee Lake Refresh,Coffee Lake Refresh,LGA1151,6,6,2.9 GHz,4.1 GHz,1.5 MB,9 MB,65 W,None,128 GB,No,Yes,Boxed,14 nm,Yes,No
+Intel Core i3-13100F         (5),Intel,BX8071513100F,Intel Core i3,Raptor Lake,Raptor Lake,LGA1700,4,8,3.4 GHz,4.5 GHz,5 MB,12 MB,58 W,None,192 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+AMD Threadripper 3970X         (8),AMD,100-100000011WOF,AMD Threadripper,Zen 2,Castle Peak,sTRX4,32,64,3.7 GHz,4.5 GHz,16 MB,128 MB,280 W,None,512 GB,Yes,No,Boxed,7 nm,No,Yes
+Intel Core i3-12100         (15),Intel,BX8071512100,Intel Core i3,Alder Lake,Alder Lake,LGA1700,4,8,3.3 GHz,4.3 GHz,5 MB,12 MB,60 W,Intel UHD Graphics 730,128 GB,No,Yes,Boxed,10 nm,Yes,Yes: Hyper-Threading
+Intel Core i5-9600K         (147),Intel,BX80684I59600K,Intel Core i5,Coffee Lake Refresh,Coffee Lake Refresh,LGA1151,6,6,3.7 GHz,4.6 GHz,1.5 MB,9 MB,95 W,Intel UHD Graphics 630,128 GB,No,No,Boxed,14 nm,No,No
+Intel Core i7-11700K         (41),Intel,BX8070811700K,Intel Core i7,Rocket Lake,Rocket Lake-S,LGA1200,8,16,3.6 GHz,5 GHz,4 MB,16 MB,125 W,Intel UHD Graphics 750,128 GB,No,No,Boxed,14 nm,No,Yes: Hyper-Threading
+Intel Core i5-11400F         (25),Intel,BX8070811400F,Intel Core i5,Rocket Lake,Rocket Lake-S,LGA1200,6,12,2.6 GHz,4.4 GHz,3 MB,12 MB,65 W,None,128 GB,No,Yes,Boxed,14 nm,Yes,Yes: Hyper-Threading
+AMD Ryzen 5 2600X         (231),AMD,YD260XBCAFBOX,AMD Ryzen 5,Zen+,Pinnacle Ridge,AM4,6,12,3.6 GHz,4.2 GHz,3 MB,15.99 MB,95 W,None,64 GB,No,Yes,Boxed,12 nm,Yes,Yes

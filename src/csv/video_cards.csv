@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Chipset,Memory,Memory Type,Core Clock,Boost Clock,Interface,Color,Frame Sync,Length,TDP,Case Expansion Slot Width,Total Slot Width,Cooling,External Power,HDMI 2.1a Outputs,DisplayPort 1.4a Outputs
+MSI VENTUS 2X BLACK OC         (12),MSI,"RTX 4060 VENTUS 2X BLACK 8G OC, GeForce RTX 4060 VENTUS 2X BLACK 8G OC, 912-V516-004, V516-004R, G4060V2XB8C",GeForce RTX 4060,8 GB,GDDR6,1830 MHz,2505 MHz,PCIe x16,Black,G-Sync,199 mm,115 W,2,2,2 Fans,1 x PCIe 8-pin,1,3
+MSI GeForce RTX 3060 Ventus 2X 12G         (34),MSI,"RTX3060Ventus2X12GOC, GeForce RTX 3060 VENTUS 2X 12G OC, V397-022R, 912-V397-039",GeForce RTX 3060 12GB,12 GB,GDDR6,1320 MHz,1777 MHz,PCIe x16,Black,G-Sync,235 mm,170 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Sapphire PULSE         (12),Sapphire,11348-03-20G,Radeon RX 9070 XT,16 GB,GDDR6,2400 MHz,2970 MHz,PCIe x16,Black,FreeSync,320 mm,304 W,3,3,3 Fans,2 x PCIe 8-pin,,
+ASRock Challenger D         (29),ASRock,"RX6600 CLD 8G, 90-GA2RZZ-00UANF",Radeon RX 6600,8 GB,GDDR6,1626 MHz,,PCIe x16,Black,FreeSync,269 mm,132 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Gigabyte GAMING OC         (6),Gigabyte,GV-R76XTGAMING OC-16GD,Radeon RX 7600 XT,16 GB,GDDR6,1720 MHz,2810 MHz,PCIe x16,Black / Gray,FreeSync,281 mm,190 W,2,3,3 Fans,2 x PCIe 8-pin,2,
+Asus PRIME OC         (1),Asus,"prime-rtx5070-o12g, 90YV0M10-M0NA00",GeForce RTX 5070,12 GB,GDDR7,2160 MHz,,PCIe x16,Black / White,G-Sync,306 mm,250 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte WINDFORCE OC SFF         (4),Gigabyte,GV-N5070WF3OC-12GD,GeForce RTX 5070,12 GB,GDDR7,2160 MHz,2542 MHz,PCIe x16,Black,G-Sync,282 mm,250 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+NVIDIA Founders Edition         (6),NVIDIA,"GeForce RTX 5090 Founders Edition, 900-1G144-2530-000, 9001G14425300CA, 9001G1442530SCS",GeForce RTX 5090,32 GB,GDDR7,2017 MHz,2407 MHz,PCIe x16,Black / Silver,G-Sync,304 mm,575 W,2,3,2 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte GAMING OC         (8),Gigabyte,GV-R9070XTGAMING OC-16GD,Radeon RX 9070 XT,16 GB,GDDR6,2520 MHz,3060 MHz,PCIe x16,Black,FreeSync,288 mm,304 W,2,3,3 Fans,3 x PCIe 8-pin,,
+Gigabyte GAMING OC         (45),Gigabyte,GV-R78XTGAMING OC-16GD,Radeon RX 7800 XT,16 GB,GDDR6,1295 MHz,2565 MHz,PCIe x16,Black,FreeSync,302 mm,263 W,2,3,3 Fans,2 x PCIe 8-pin,,
+Gigabyte GAMING OC         (6),Gigabyte,GV-N507TGAMING OC-16GD,GeForce RTX 5070 Ti,16 GB,GDDR7,2588 MHz,,PCIe x16,Black,G-Sync,340 mm,300 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Intel Limited Edition         (9),Intel,"31P06HB0BA, INT-31P06HB0BA",Arc B580,12 GB,GDDR6,2670 MHz,,PCIe x16,Black,None,272 mm,190 W,2,2,2 Fans,1 x PCIe 8-pin,,
+PNY VCNRTX6000ADA-PB         (1),PNY,VCNRTX6000ADA-PB,RTX 6000 Ada Generation,48 GB,GDDR6,915 MHz,2505 MHz,PCIe x16,Black / Gold,None,267 mm,300 W,2,2,1 Fan,1 x PCIe 16-pin 12VHPWR,,4
+XFX Speedster QICK 319 BLACK         (5),XFX,RX-77TQICKB9,Radeon RX 7700 XT,12 GB,GDDR6,1700 MHz,2599 MHz,PCIe x16,Black,FreeSync,335 mm,245 W,2,3,3 Fans,2 x PCIe 8-pin,,
+MSI VENTUS 2X PLUS OC         (0),MSI,"RTX 5060 Ti 16G VENTUS 2X OC PLUS, G506T-16V2CP, V535-005R, 912-V535-005, GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2617 MHz,PCIe x16,Black / Gray,G-Sync,227 mm,180 W,2,2,2 Fans,1 x PCIe 8-pin,,
+MSI SHADOW 3X OC         (1),MSI,"G507T-16S3C, GeForce RTX 5070 Ti 16G SHADOW 3X OC, RTX 5070 Ti 16G SHADOW 3X OC",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2497 MHz,PCIe x16,Black,G-Sync,303 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Asus TUF GAMING OC         (3),Asus,"TUF-RTX5080-O16G-GAMING, 90YV0M30-M0NA00",GeForce RTX 5080,16 GB,GDDR7,2300 MHz,,PCIe x16,Black / Silver,G-Sync,348 mm,360 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+MSI VENTUS 3X OC         (1),MSI,"GeForce RTX 5070 Ti 16G VENTUS 3X OC, G507T-16V3C, RTX 5070 Ti 16G VENTUS 3X OC, V531-092R, 912-V531-083",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2497 MHz,PCIe x16,Silver / Black,G-Sync,303 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+MSI VENTUS 2X OC         (1),MSI,"RTX 3050 VENTUS 2X 6G OC, GeForce RTX 3050 VENTUS 2X 6G OC, V812-015R, 912-V812-015",GeForce RTX 3050 6GB,6 GB,GDDR6,1040 MHz,1492 MHz,PCIe x16,Black,G-Sync,189 mm,70 W,2,2,2 Fans,None,,1
+Gigabyte WINDFORCE OC         (11),Gigabyte,GV-N407SWF3OC-12GD,GeForce RTX 4070 SUPER,12 GB,GDDR6X,1980 MHz,2505 MHz,PCIe x16,Black,G-Sync,261 mm,220 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,1,3
+Gigabyte WINDFORCE OC         (10),Gigabyte,GV-N4060WF2OC-8GD,GeForce RTX 4060,8 GB,GDDR6,1830 MHz,,PCIe x16,Black,G-Sync,192 mm,115 W,2,2,2 Fans,1 x PCIe 8-pin,2,2
+Sapphire NITRO+         (3),Sapphire,11348-01-20G,Radeon RX 9070 XT,16 GB,GDDR6,2520 MHz,3060 MHz,PCIe x16,Black,FreeSync,331 mm,330 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+ASRock Steel Legend         (7),ASRock,"RX9070XT SL 16G, 90-GA5DZZ-00UANF",Radeon RX 9070 XT,16 GB,GDDR6,2400 MHz,2970 MHz,PCIe x16,White / Gray,FreeSync,298 mm,304 W,2,3,3 Fans,2 x PCIe 8-pin,,
+Asus PRIME OC         (2),Asus,"prime-rx9070xt-o16g, 90YV0L71-M0NA00",Radeon RX 9070 XT,16 GB,GDDR6,2460 MHz,3030 MHz,PCIe x16,Black,FreeSync,312 mm,304 W,2,3,3 Fans,3 x PCIe 8-pin,,
+Gigabyte GAMING OC         (10),Gigabyte,GV-R77XTGAMING OC-12GD,Radeon RX 7700 XT,12 GB,GDDR6,1700 MHz,2599 MHz,PCIe x16,Black,FreeSync,302 mm,245 W,2,3,3 Fans,2 x PCIe 8-pin,,
+Asus ROG Astral OC         (2),Asus,"rog-astral-rtx5090-o32g-gaming, 90YV0LW0-M0NA00",GeForce RTX 5090,32 GB,GDDR7,2010 MHz,2610 MHz,PCIe x16,Black / Silver,G-Sync,358 mm,575 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+XFX GTS XXX         (44),XFX,RX-580P8DFD6,Radeon RX 580,8 GB,GDDR5,1366 MHz,1386 MHz,PCIe x16,Black / Red,FreeSync,270 mm,185 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Gigabyte AORUS MASTER         (4),Gigabyte,GV-N5090AORUSM ICE-32GD,GeForce RTX 5090,32 GB,GDDR7,2010 MHz,2655 MHz,PCIe x16,White,G-Sync,360 mm,575 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+ASRock Challenger         (6),ASRock,"RX6600 CLW 8G, 90-GA4UZZ-00UANF",Radeon RX 6600,8 GB,GDDR6,1626 MHz,2491 MHz,PCIe x16,White,FreeSync,269 mm,132 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Sapphire 21323-01-20G         (6),Sapphire,21323-01-20G,Radeon RX 7900 XT,20 GB,GDDR6,2000 MHz,2400 MHz,PCIe x16,Black,FreeSync,276 mm,308 W,2,3,3 Fans,2 x PCIe 8-pin,,
+XFX Speedster QICK 319 Core         (11),XFX,RX-78TQICKF9,Radeon RX 7800 XT,16 GB,GDDR6,1295 MHz,2430 MHz,PCIe x16,Black,FreeSync,335 mm,263 W,2,3,3 Fans,2 x PCIe 8-pin,,
+MSI SHADOW 3X OC         (1),MSI,"GeForce RTX 5080 16G SHADOW 3X OC, G5080-16S3C",GeForce RTX 5080,16 GB,GDDR7,2300 MHz,2655 MHz,PCIe x16,Black,G-Sync,303 mm,360 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Asus TUF GAMING OC         (3),Asus,"tuf-rtx5070ti-o16g-gaming, 90YV0MD0-M0NA00, 90YV0MD0-M0AA00",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2610 MHz,PCIe x16,Black / Silver,G-Sync,329 mm,300 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte GAMING OC         (0),Gigabyte,GV-N506TGAMING OC-16GD,GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2647 MHz,PCIe x16,Black,G-Sync,281 mm,180 W,2,2,3 Fans,1 x PCIe 8-pin,,
+Sapphire PULSE         (34),Sapphire,11330-02-20G,Radeon RX 7800 XT,16 GB,GDDR6,1295 MHz,,PCIe x16,Black / Red,FreeSync,280 mm,266 W,2,3,2 Fans,2 x PCIe 8-pin,,
+Asus Dual GeForce RTX 3060 V2 OC Edition         (5),Asus,"DUAL-RTX3060-O12G-V2, 90YV0GB2-M0NA10",GeForce RTX 3060 12GB,12 GB,GDDR6,1320 MHz,1867 MHz,PCIe x16,Black,G-Sync,200 mm,170 W,2,2,2 Fans,1 x PCIe 8-pin,,3
+Gigabyte WINDFORCE SFF         (0),Gigabyte,GV-N5070WF3-12GD,GeForce RTX 5070,12 GB,GDDR7,2160 MHz,2512 MHz,PCIe x16,Black,G-Sync,282 mm,250 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte WINDFORCE SFF         (2),Gigabyte,GV-N507TWF3-16GD,GeForce RTX 5070 Ti,16 GB,GDDR7,2452 MHz,,PCIe x16,Black,G-Sync,304 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Asus DUAL EVO OC         (8),Asus,"DUAL-RTX4060-O8G-EVO, 90YV0JC7-M0NA00, 90YV0JC7-MVAA00",GeForce RTX 4060,8 GB,GDDR6,1830 MHz,2535 MHz,PCIe x16,Black,G-Sync,227 mm,115 W,2,3,2 Fans,1 x PCIe 8-pin,1,3
+Gigabyte GAMING OC         (11),Gigabyte,"GV-R76GAMING OC-8GD, RX 7600 GAMING OC 8G, Radeon RX 7600 GAMING OC 8G",Radeon RX 7600,8 GB,GDDR6,1720 MHz,2755 MHz,PCIe x16,Black / Silver,FreeSync,282 mm,165 W,2,3,3 Fans,1 x PCIe 8-pin,2,2
+XFX Speedster SWFT 210         (0),XFX,RX-76TSWFTFP,Radeon RX 7600 XT,16 GB,GDDR6,1720 MHz,2755 MHz,PCIe x16,Black,FreeSync,272 mm,190 W,2,3,2 Fans,2 x PCIe 8-pin,,
+PowerColor RX7800XT 16G-P         (3),PowerColor,RX7800XT 16G-P,Radeon RX 7800 XT,16 GB,GDDR6,1295 MHz,2430 MHz,PCIe x16,Black,FreeSync,260 mm,263 W,2,3,2 Fans,2 x PCIe 8-pin,,
+Asus ROG Astral OC         (5),Asus,"rog-astral-rtx5080-o16g-gaming, 90YV0LV0-M0NA00",GeForce RTX 5080,16 GB,GDDR7,2300 MHz,,PCIe x16,Black / Silver,G-Sync,358 mm,360 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte WINDFORCE OC         (0),Gigabyte,GV-N506TWF2OC-16GD,GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2587 MHz,PCIe x8,Black,G-Sync,208 mm,180 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Gigabyte GAMING OC         (3),Gigabyte,GV-N5080GAMING OC-16GD,GeForce RTX 5080,16 GB,GDDR7,2300 MHz,,PCIe x16,Black,G-Sync,340 mm,360 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte AERO OC         (3),Gigabyte,GV-N507TAERO OC-16GD,GeForce RTX 5070 Ti,16 GB,GDDR7,2588 MHz,,PCIe x16,White / Silver,G-Sync,340 mm,300 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+NVIDIA Founders Edition         (62),NVIDIA,900-1G142-2520-000,GeForce RTX 3060 Ti,8 GB,GDDR6,1410 MHz,1670 MHz,PCIe x16,Black / Silver,G-Sync,242 mm,200 W,2,2,2 Fans,1 x PCIe 12-pin,,
+Sapphire PURE         (3),Sapphire,11348-02-20G,Radeon RX 9070 XT,16 GB,GDDR6,2460 MHz,3010 MHz,PCIe x16,White,FreeSync,320 mm,317 W,3,3,3 Fans,2 x PCIe 8-pin,,
+MSI GAMING TRIO OC         (6),MSI,"GeForce RTX 5090 32G GAMING TRIO OC, G5090-32GTC, RTX 5090 32G GAMING TRIO OC, 912-V530-014, V530-014R",GeForce RTX 5090,32 GB,GDDR7,2010 MHz,,PCIe x16,Black / Silver,G-Sync,359 mm,575 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+ASRock Phantom Gaming OC         (10),ASRock,"RX7900XTX PG 24GO, 90-GA3YZZ-00UANF",Radeon RX 7900 XTX,24 GB,GDDR6,2300 MHz,2615 MHz,PCIe x16,Black,FreeSync,330 mm,355 W,2,3,3 Fans,3 x PCIe 8-pin,,
+PowerColor Reaper         (2),PowerColor,"RX9070XT 16G-A, RX9070XT 16GB-A",Radeon RX 9070 XT,16 GB,GDDR6,2400 MHz,2970 MHz,PCIe x16,Black / Red,FreeSync,289 mm,304 W,2,2,3 Fans,2 x PCIe 8-pin,,
+XFX Speedster MERC 310 Black Edition         (56),XFX,RX-79XMERCB9,Radeon RX 7900 XTX,24 GB,GDDR6,2300 MHz,2615 MHz,PCIe x16,Black / Silver,FreeSync,344 mm,355 W,2,3,3 Fans,3 x PCIe 8-pin,,
+Gigabyte WINDFORCE         (0),Gigabyte,GV-N506TWF2-16GD,GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2572 MHz,PCIe x8,Black,G-Sync,208 mm,180 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Gigabyte WINDFORCE OC         (26),Gigabyte,GV-N4070WF3OC-12GD,GeForce RTX 4070,12 GB,GDDR6X,1920 MHz,2490 MHz,PCIe x16,Black,G-Sync,261 mm,200 W,2,3,3 Fans,1 x PCIe 8-pin,1,
+Asus PRIME         (1),Asus,"prime-rtx5060ti-16g, 90YV0MH3-M0NA00",GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2602 MHz,PCIe x16,Black,G-Sync,304 mm,180 W,2,3,3 Fans,1 x PCIe 8-pin,,
+Gigabyte GAMING OC         (1),Gigabyte,GV-N5090GAMING OC-32GD,GeForce RTX 5090,32 GB,GDDR7,2010 MHz,2550 MHz,PCIe x16,Black,G-Sync,342 mm,575 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte AERO OC SFF         (7),Gigabyte,GV-N5080AERO OC-16GD,GeForce RTX 5080,16 GB,GDDR7,2300 MHz,,PCIe x16,White / Silver,G-Sync,304 mm,360 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+XFX Speedster SWFT 210         (34),XFX,RX-66XL8LFDQ,Radeon RX 6600,8 GB,GDDR6,1626 MHz,2491 MHz,PCIe x16,Black,FreeSync,241 mm,132 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Asus PRIME OC         (2),Asus,"prime-rtx5070ti-o16g, 90YV0MF0-M0NA00",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2527 MHz,PCIe x16,Black / White,G-Sync,306 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Asus TUF GAMING OC         (1),Asus,"tuf-rtx5070-o12g-gaming, 90YV0LZ0-M0NA00",GeForce RTX 5070,12 GB,GDDR7,2160 MHz,,PCIe x16,Black / Silver,G-Sync,329 mm,250 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+PowerColor Hellhound OC         (3),PowerColor,RX9070XT 16G-L/OC,Radeon RX 9070 XT,16 GB,GDDR6,2400 MHz,3010 MHz,PCIe x16,Black,FreeSync,327 mm,304 W,2,3,3 Fans,2 x PCIe 8-pin,,
+NVIDIA Founders Edition         (4),NVIDIA,900-1G146-2570-000,GeForce RTX 5070,12 GB,GDDR7,2160 MHz,2510 MHz,PCIe x16,Black / Gray,G-Sync,242 mm,250 W,2,2,2 Fans,1 x PCIe 16-pin 12VHPWR,,
+XFX Quicksilver         (1),XFX,RX-97TQICKB9,Radeon RX 9070 XT,16 GB,GDDR6,2400 MHz,2970 MHz,PCIe x16,Black,FreeSync,350 mm,304 W,2,4,3 Fans,2 x PCIe 8-pin,,
+XFX Speedster MERC 310         (16),XFX,RX-79TMERCU9,Radeon RX 7900 XT,20 GB,GDDR6,2000 MHz,2535 MHz,PCIe x16,Black / Silver,FreeSync,344 mm,300 W,2,3,3 Fans,2 x PCIe 8-pin,,
+NVIDIA Founders Edition         (34),NVIDIA,900-1G136-2530-000,GeForce RTX 4090,24 GB,GDDR6X,2230 MHz,2520 MHz,PCIe x16,Black / Silver,G-Sync,304 mm,450 W,3,3,2 Fans,1 x PCIe 16-pin 12VHPWR,1,3
+MSI SHADOW 2X OC         (1),MSI,"RTX 5070 12G SHADOW 2X OC, GEFORCE RTX 5070 12G SHADOW 2X OC",GeForce RTX 5070,12 GB,GDDR7,2557 MHz,,PCIe x16,Black,G-Sync,231 mm,250 W,2,3,2 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte AORUS XTREME WATERFORCE         (0),Gigabyte,GV-N5090AORUSX W-32GD,GeForce RTX 5090,32 GB,GDDR7,2010 MHz,2655 MHz,PCIe x16,Black,G-Sync,246 mm,575 W,2,2,360 mm Radiator,1 x PCIe 16-pin 12VHPWR,,
+Sapphire PULSE         (4),Sapphire,11349-03-20G,Radeon RX 9070,16 GB,GDDR6,2070 MHz,2520 MHz,PCIe x16,Black,FreeSync,280 mm,220 W,2,3,2 Fans,2 x PCIe 8-pin,,
+XFX Swift         (3),XFX,RX-97TSWF3W9,Radeon RX 9070 XT,16 GB,GDDR6,1660 MHz,2970 MHz,PCIe x16,White,FreeSync,325 mm,304 W,2,4,3 Fans,2 x PCIe 8-pin,,
+Gigabyte AORUS ELITE         (2),Gigabyte,"GV-R9070XTAORUS E-16GD, AORUS Radeon RX 9070 XT ELITE 16G, GV-R9070XTAOE-16GD, R9070XTAORUS E 16GD",Radeon RX 9070 XT,16 GB,GDDR6,2570 MHz,3100 MHz,PCIe x16,Black,FreeSync,339 mm,304 W,2,3,3 Fans,3 x PCIe 8-pin,,
+Asus PRIME         (1),Asus,"prime-rtx5070ti-16g, 90YV0MF1-M0NA00, 90YV0MF1-M0AA00",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2482 MHz,PCIe x16,Black / White,G-Sync,306 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+ONIX LUMI OC         (0),ONIX,8346-00278,Arc B580,12 GB,GDDR6,2670 MHz,2740 MHz,PCIe x16,White / Silver,None,260 mm,203 W,2,3,2 Fans,1 x PCIe 8-pin,,
+NVIDIA Founders Edition         (4),NVIDIA,900-1G144-2545-000,GeForce RTX 5080,16 GB,GDDR7,2300 MHz,2620 MHz,PCIe x16,Black / Gray,G-Sync,304 mm,360 W,2,3,2 Fans,1 x PCIe 16-pin 12VHPWR,,
+MSI GAMING TRIO OC PLUS         (1),MSI,"GeForce RTX 5070 Ti 16G GAMING TRIO OC PLUS, RTX 5070 Ti 16G GAMING TRIO OC PLUS, G507T-16GTCP, 912-V531-056, V531-058R",GeForce RTX 5070 Ti,16 GB,GDDR7,2300 MHz,2580 MHz,PCIe x16,Black,G-Sync,338 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Gigabyte GAMING OC         (3),Gigabyte,GV-N4060GAMING OC-8GD,GeForce RTX 4060,8 GB,GDDR6,1830 MHz,,PCIe x16,Black,G-Sync,281 mm,115 W,2,2,3 Fans,1 x PCIe 8-pin,2,2
+Gigabyte GAMING OC         (2),Gigabyte,"GV-R9070GAMING OC-16GD, R9070GAMING OC 16GD, Radeon RX 9070 GAMING OC 16G, 9VR9070GO-00-G10",Radeon RX 9070,16 GB,GDDR6,2070 MHz,2700 MHz,PCIe x16,Black,FreeSync,288 mm,220 W,2,3,3 Fans,2 x PCIe 8-pin,,
+Gigabyte AERO OC         (8),Gigabyte,GV-N4060AERO OC-8GD,GeForce RTX 4060,8 GB,GDDR6,1830 MHz,,PCIe x16,White,G-Sync,281 mm,115 W,2,2,3 Fans,1 x PCIe 8-pin,2,2
+PNY VCQGV100-PB         (0),PNY,VCQGV100-PB,Quadro GV100,32 GB,HBM2,1200 MHz,1447 MHz,PCIe x16,Black / Gold,None,267 mm,250 W,2,2,1 Fan,1 x PCIe 8-pin + 1 x PCIe 6-pin,,
+Zotac Twin Edge         (1),Zotac,ZT-B50620E-10M,GeForce RTX 5060 Ti,16 GB,GDDR7,2410 MHz,2572 MHz,PCIe x16,Black,G-Sync,220 mm,180 W,2,2,2 Fans,1 x PCIe 8-pin,,
+Asus DUAL EVO OC         (3),Asus,"DUAL-RTX4060TI-O16G-EVO, 90YV0JH8-M0NA00",GeForce RTX 4060 Ti,16 GB,GDDR6,2310 MHz,2625 MHz,PCIe x16,Black,G-Sync,227 mm,165 W,2,3,2 Fans,1 x PCIe 8-pin,1,3
+PowerColor Hellhound OC         (2),PowerColor,RX9070 16G-L/OC,Radeon RX 9070,16 GB,GDDR6,2070 MHz,2590 MHz,PCIe x16,Black,FreeSync,327 mm,220 W,2,2,3 Fans,2 x PCIe 8-pin,,
+Asus TUF GAMING OC         (4),Asus,"tuf-rx9070xt-o16g-gaming, 90YV0L70-M0NA00",Radeon RX 9070 XT,16 GB,GDDR6,2520 MHz,3080 MHz,PCIe x16,Black / Silver,FreeSync,330 mm,304 W,2,4,3 Fans,3 x PCIe 8-pin,,
+Sapphire PULSE         (2),Sapphire,11339-04-20G,Radeon RX 7600 XT,16 GB,GDDR6,1720 MHz,2810 MHz,PCIe x16,Black / Red,FreeSync,250 mm,190 W,2,3,2 Fans,2 x PCIe 8-pin,,
+Asus DUAL OC         (0),Asus,"dual-rtx3050-o6g, 90YV0K60-M0NA00",GeForce RTX 3050 6GB,6 GB,GDDR6,1040 MHz,1537 MHz,PCIe x16,Black,G-Sync,201 mm,70 W,2,2,2 Fans,None,,1
+Asus DUAL EVO OC         (0),Asus,"dual-rx7600-o8g-evo, 90YV0LD0-M0NA00",Radeon RX 7600,8 GB,GDDR6,1720 MHz,2715 MHz,PCIe x16,Black,FreeSync,229 mm,165 W,2,3,2 Fans,1 x PCIe 8-pin,,3
+XFX Speedster SWFT 309         (31),XFX,RX-67XTYJFDV,Radeon RX 6700 XT,12 GB,GDDR6,2321 MHz,2581 MHz,PCIe x16,Black,FreeSync,304 mm,230 W,2,2,3 Fans,2 x PCIe 8-pin,,
+Gigabyte GAMING OC         (34),Gigabyte,GV-N3070GAMING OC8GD,GeForce RTX 3070,8 GB,GDDR6,1500 MHz,1815 MHz,PCIe x16,Black / Silver,G-Sync,286 mm,220 W,2,3,3 Fans,1 x PCIe 8-pin + 1 x PCIe 6-pin,,
+Gigabyte AORUS MASTER         (2),Gigabyte,GV-N5090AORUS M-32GD,GeForce RTX 5090,32 GB,GDDR7,2010 MHz,2655 MHz,PCIe x16,Black,G-Sync,360 mm,575 W,3,4,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+Asus TUF GAMING OC         (14),Asus,"tuf-rtx4070tis-o16g-gaming, 90YV0KF0-M0AA00, 90YV0KF0-M0NA00",GeForce RTX 4070 Ti SUPER,16 GB,GDDR6X,2340 MHz,2670 MHz,PCIe x16,Black,G-Sync,305 mm,285 W,2,4,3 Fans,1 x PCIe 16-pin 12VHPWR,2,3
+MSI GAMING TRIO OC WHITE         (0),MSI,"GeForce RTX 5070 12G GAMING TRIO OC WHITE, RTX 5070 12G GAMING TRIO OC WHITE, G5070-12GTCW, V532-021R",GeForce RTX 5070,12 GB,GDDR7,2160 MHz,,PCIe x16,White,G-Sync,338 mm,250 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+XFX Speedster QICK 319 Core         (22),XFX,RX-675XYJFDP,Radeon RX 6750 XT,12 GB,GDDR6,2150 MHz,2600 MHz,PCIe x16,Black,FreeSync,323 mm,250 W,2,3,3 Fans,2 x PCIe 8-pin,,
+Asus DUAL OC         (8),Asus,"90YV0JJ1-M0AA00, DUAL-RX7800XT-O16G, 90YV0JJ1-M0NA00",Radeon RX 7800 XT,16 GB,GDDR6,1295 MHz,2520 MHz,PCIe x16,Black,FreeSync,280 mm,263 W,2,3,2 Fans,2 x PCIe 8-pin,,
+MSI VENTUS 2X XS OC         (1),MSI,"RTX 3050 Ventus 2X XS 8G OC, GeForce RTX 3050 Ventus 2X XS 8G OC, V809-4266R, 912-V809-4287",GeForce RTX 3050 8GB,8 GB,GDDR6,1550 MHz,1807 MHz,PCIe x16,Black / Gray,G-Sync,205 mm,115 W,2,3,2 Fans,1 x PCIe 6-pin,,1
+PowerColor Reaper         (1),PowerColor,"RX9070 16G-A, RX9070 16GB-A",Radeon RX 9070,16 GB,GDDR6,2070 MHz,2520 MHz,PCIe x16,Black,FreeSync,289 mm,220 W,2,2,3 Fans,2 x PCIe 8-pin,,
+Asus DUAL EVO OC         (3),Asus,"DUAL-RTX4070-O12G-EVO, 90YV0J15-M0NA00",GeForce RTX 4070,12 GB,GDDR6X,1920 MHz,2550 MHz,PCIe x16,Black,G-Sync,227 mm,200 W,2,3,2 Fans,1 x PCIe 8-pin,1,3
+Asus DUAL OC V2         (1),Asus,"DUAL-RTX4060-O8G-V2, 90YV0JC4-M0NB00, 90YV0JC4-M0NA00",GeForce RTX 4060,8 GB,GDDR6,1830 MHz,2535 MHz,PCIe x16,Black,G-Sync,202 mm,115 W,2,2,2 Fans,1 x PCIe 8-pin,1,3
+Gigabyte WINDFORCE OC SFF         (1),Gigabyte,GV-N507TWF3OC-16GD,GeForce RTX 5070 Ti,16 GB,GDDR7,2497 MHz,,PCIe x16,Black,G-Sync,304 mm,300 W,2,3,3 Fans,1 x PCIe 16-pin 12VHPWR,,
+NVIDIA Founders Edition         (3),NVIDIA,900-1G141-2560-000,GeForce RTX 4060 Ti,8 GB,GDDR6,2310 MHz,2540 MHz,PCIe x16,Black / Silver,G-Sync,244 mm,165 W,2,2,2 Fans,1 x PCIe 16-pin 12VHPWR,,
+Sapphire NITRO+         (52),Sapphire,"11322-01-20G, 11322-01-40G",Radeon RX 7900 XTX,24 GB,GDDR6,2300 MHz,2680 MHz,PCIe x16,Silver / Black,FreeSync,320 mm,420 W,3,4,3 Fans,3 x PCIe 8-pin,,
+Sapphire PULSE         (12),Sapphire,11324-01-20G,Radeon RX 7600,8 GB,GDDR6,1720 MHz,2755 MHz,PCIe x16,Black / Red,FreeSync,240 mm,185 W,2,3,2 Fans,1 x PCIe 8-pin,,

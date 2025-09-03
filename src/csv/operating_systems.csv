@@ -1,0 +1,63 @@
+name,Manufacturer,Model,Part #,Mode,Version,Maximum Supported Memory
+Microsoft Windows 11 Home OEM - DVD 64-bit         (138),Microsoft,Microsoft Windows 11 Home 64-bit - OEM (DVD),"KW9-00633, KW9-00632",64-bit,Windows 11 Home,128 GB
+Microsoft Windows 11 Pro OEM - DVD 64-bit         (132),Microsoft,Microsoft Windows 11 Pro 64-bit - OEM (DVD),"FQC-10529, FQC-10528",64-bit,Windows 11 Pro,2048 GB
+Microsoft Windows 11 Home Retail - USB 64-bit         (72),Microsoft,Windows 11 Home 64-bit (USB),"HAJ-00108, HAJ-00090",64-bit,Windows 11 Home,128 GB
+Microsoft Windows 11 Pro Retail - Download 64-bit         (65),Microsoft,Windows 11 Pro 64-bit (Download),FQC-10572,64-bit,Windows 11 Pro,2048 GB
+Microsoft Windows 11 Home Retail - Download 64-bit         (40),Microsoft,Windows 11 Home 64-bit (Download),KW9-00664,64-bit,Windows 11 Home,128 GB
+Microsoft Windows 11 Pro Retail - USB 64-bit         (28),Microsoft,Windows 11 Pro 64-bit (USB),"HAV-00162, HAV-00163",64-bit,Windows 11 Pro,2048 GB
+Microsoft Windows 10 Home OEM - DVD 64-bit         (1069),Microsoft,Microsoft Windows 10 Home OEM (DVD),KW9-00140,64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Pro Retail - USB 32/64-bit         (26),Microsoft,Microsoft Windows 10 Pro (USB),HAV-00059,32/64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 10 Home Retail - USB 32/64-bit         (83),Microsoft,Microsoft Windows 10 Home (USB),KW9-00016,32/64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Pro OEM - DVD 64-bit         (754),Microsoft,Microsoft Windows 10 Pro OEM (DVD),FQC-08930,64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 10 Pro Retail - USB 32/64-bit         (9),Microsoft,Microsoft Windows 10 Pro (USB),FQC-08789,32/64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 10 Home Retail - USB 32/64-bit         (18),Microsoft,Microsoft Windows 10 Home (USB),HAJ-00052,32/64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Home Retail - Download 32/64-bit         (75),Microsoft,Microsoft Windows 10 Home (Download),KW9-00265,32/64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Pro Retail - Download 32/64-bit         (56),Microsoft,Microsoft Windows 10 Pro (Download),FQC-09131,32/64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 7 Home Premium Full 32/64-bit         (32),Microsoft,,GFC-00019,32/64-bit,Windows 7 Home Premium,16 GB
+Microsoft Windows 10 Home OEM - DVD 64-bit         (79),Microsoft,Microsoft Windows 10 Home OEM (DVD),"KW9-00139, MS-KW9-00139",64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Pro OEM - DVD 32-bit         (0),Microsoft,Microsoft Windows 10 Pro OEM (DVD),FQC-08970,32-bit,Windows 10 Pro,4 GB
+Microsoft Windows 8.1 32/64-bit         (113),Microsoft,,WN7-00578,32/64-bit,Windows 8.1,128 GB
+Microsoft Windows 10 Pro French CDN - Retail - DVD 64-bit         (8),Microsoft,Microsoft Windows Pro 10 French Canadian (DVD),FQC-08921,64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 10 Pro Retail - USB 32/64-bit         (18),Microsoft,Microsoft Windows 10 Pro (USB),FQC-08788,32/64-bit,Windows 10 Pro,2048 GB
+Microsoft Windows 10 Home French OEM - DVD 64-bit         (2),Microsoft,Microsoft Windows Home 10 French (OEM/DVD),KW9-00145,64-bit,Windows 10 Home,128 GB
+Microsoft Windows 10 Home OEM - DVD 32-bit         (1),Microsoft,Microsoft Windows 10 Home OEM (DVD),KW9-00186,32-bit,Windows 10 Home,4 GB
+Microsoft Windows 10 Home French - USB 32/64-bit         (1),,,,,,
+Microsoft Windows 7 Professional Full 32/64-bit         (19),,,,,,
+Microsoft Windows 8.1 Pro OEM 64-bit         (181),,,,,,
+Microsoft Windows 7 Ultimate SP1 OEM 64-bit         (221),,,,,,
+Microsoft Windows 8 Pro OEM 32-bit         (1),,,,,,
+Microsoft Windows 7 Home Premium SP1 32-bit         (4),,,,,,
+Microsoft Windows 7 Professional SP1 OEM 64-bit         (299),,,,,,
+Microsoft Windows 7 Ultimate Full 32/64-bit         (41),,,,,,
+Microsoft Windows 8.1 Pro DE OEM 64-bit         (0),,,,,,
+Microsoft Windows 7 Home Premium SP1 64-bit         (0),,,,,,
+Microsoft Windows 7 Pro SP1 DE 64-bit         (1),,,,,,
+Microsoft Windows 7 Ultimate SP1 OEM 32-bit         (4),,,,,,
+Microsoft Windows 7 Professional SP1 OEM 32-bit         (0),,,,,,
+Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 32-bit         (0),,,,,,
+Microsoft Windows 7 Ultimate SP1 3-Pack 32-bit         (0),,,,,,
+Microsoft Windows 7 Home Premium SP1 OEM 64-bit         (768),,,,,,
+Microsoft Windows 7 Ultimate 64-bit         (3),,,,,,
+Microsoft Windows 7 Pro SP1 DE OEM 64-bit         (0),,,,,,
+Microsoft Windows 8.1 OEM 64-bit         (560),,,,,,
+Microsoft Windows 7 Ultimate SP1 OEM 3-Pack 64-bit         (3),,,,,,
+Microsoft Windows 8 OEM 64-bit         (20),,,,,,
+Microsoft Windows 7 Professional SP1 30-Pack 32-bit         (0),,,,,,
+Microsoft Windows 7 Professional SP1 OEM 3-Pack 32-bit         (0),,,,,,
+Microsoft Windows 7 Professional SP1 OEM 3-Pack 64-bit         (3),,,,,,
+Microsoft Windows 8.1 Pro 32/64-bit         (93),,,,,,
+Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 64-bit         (6),,,,,,
+Microsoft Windows 8 OEM 32-bit         (1),,,,,,
+Microsoft Windows 8 OEM 64-bit         (182),,,,,,
+Microsoft Windows 8.1 Pro OEM 64-bit         (158),,,,,,
+Microsoft Windows 8.1 OEM 32-bit         (0),,,,,,
+Microsoft Windows 8 Pro OEM 64-bit         (105),,,,,,
+Microsoft Windows 8 Pro OEM 32-bit         (0),,,,,,
+Microsoft Windows 8.1 Pro OEM 32-bit         (0),,,,,,
+Microsoft Windows 8.1 OEM 64-bit         (159),,,,,,
+Microsoft Windows 8 Pro DE OEM 64-bit         (0),,,,,,
+Microsoft Windows 8.1 DE OEM 64-bit         (0),,,,,,
+Microsoft Windows 8.1 OEM 32-bit         (0),,,,,,
+Microsoft Windows 8.1 Pro OEM 32-bit         (0),,,,,,
+Microsoft Windows 8 OEM 32-bit         (0),,,,,,
+Microsoft Windows 8 Pro OEM 64-bit         (25),,,,,,

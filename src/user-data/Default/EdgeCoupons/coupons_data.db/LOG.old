@@ -1,0 +1,6 @@
+2025/05/26-12:00:34.468 1928 Reusing MANIFEST C:\Users\sande\Downloads\Otsuka\pc-part-dataset-main\src\user-data\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/05/26-12:00:34.471 1928 Recovering log #10
+2025/05/26-12:00:34.472 1928 Reusing old log C:\Users\sande\Downloads\Otsuka\pc-part-dataset-main\src\user-data\Default\EdgeCoupons/coupons_data.db/000010.log 
+2025/05/26-12:00:34.626 5a10 Level-0 table #14: started
+2025/05/26-12:00:34.629 5a10 Level-0 table #14: 670896 bytes OK
+2025/05/26-12:00:34.632 5a10 Delete type=0 #10

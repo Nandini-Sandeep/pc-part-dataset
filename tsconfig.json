@@ -2,9 +2,9 @@
 	"compilerOptions": {
 		"strict": true,
 		"lib": ["es2023", "dom"],
-		"module": "Node16",
-		"target": "es2022",
-		"moduleResolution": "node16",
+		"module": "ESNext",
+		"target": "ES2020",
+		"moduleResolution": "Node",
 		"resolveJsonModule": true,
 		"allowUnusedLabels": false,
 		"allowUnreachableCode": false,

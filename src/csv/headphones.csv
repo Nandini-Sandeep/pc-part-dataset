@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Type,Frequency Response,Microphone,Wireless,Enclosure Type,Color,Active Noise Cancelling,Connection,Channels,Impedance,Sensitivity at 1 V RMS
+HiFiMAN Susvara         (0),HiFiMAN,Susvara,Circumaural,6 Hz - 75 kHz,No,No,Open,Silver / Brown,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,60 Ω,83 dB
+HP HyperX Cloud II         (128),HP,"KHX-HSCP-RD, 4P5M0AA",Circumaural,15 Hz - 25 kHz,Yes,No,Closed,Black / Red,No,"Stereo 3.5mm Audio, USB Type-A",7.1,60 Ω,98 dB
+Razer BlackShark V2 X         (22),Razer,RZ04-03240100-R3U1,Circumaural,12 Hz - 28 kHz,Yes,No,Closed,Black / Green,No,Stereo 3.5mm Audio,7.1,32 Ω,100 dB
+"SteelSeries Arctis Nova Pro Wireless for PC, PS5, and PS4         (6)",SteelSeries,61520,Circumaural,10 Hz - 40 kHz,Yes,Yes,Closed,Black,Yes,"Bluetooth, Wireless (Proprietary)",2.0,38 Ω,93 dB
+Logitech G435         (4),Logitech,981-001049,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black / Yellow,No,USB Type-C,2.0,45 Ω,83.1 dB
+Logitech PRO X 2 LIGHTSPEED         (3),Logitech,"981-001262, 981-001263, 981-001264",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-C, Wireless (Proprietary)",2.0,38 Ω,87.8 dB
+Logitech PRO X 2 LIGHTSPEED         (1),Logitech,"981-001268, 981-001270, 981-001269",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White,No,"Stereo 3.5mm Audio, USB Type-C, Wireless (Proprietary)",2.0,38 Ω,87.8 dB
+Corsair VOID RGB ELITE         (11),Corsair,"CA-9011202-NA, CA-9011202-EU",Circumaural,20 Hz - 30 kHz,Yes,Yes,Closed,White,No,USB Type-A,7.1,32 Ω,116 dB
+Logitech ASTRO A50 X         (0),Logitech,"939-002126, 939-002128",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,USB Type-C,2.0,,
+Beyerdynamic DT 770 PRO         (28),Beyerdynamic,DT 770 PRO,Circumaural,5 Hz - 35 kHz,No,No,Closed,Gray,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,250 Ω,96 dB
+Sennheiser HD 820         (0),Sennheiser,507435,Circumaural,6 Hz - 48 kHz,No,No,Closed,Black,No,Stereo 6.3mm Audio,2.0,300 Ω,103 dB
+SteelSeries Arctis Nova 1         (2),SteelSeries,61606,Circumaural,20 Hz - 22 kHz,Yes,No,Closed,Black,No,Stereo 3.5mm Audio,2.0,36 Ω,93 dB
+Logitech Pro X         (22),Logitech,981-000817,Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black,No,USB Type-A,7.1,35 Ω,91.7 dB
+HP HyperX Cloud III         (0),HP,77Z45AA,Circumaural,10 Hz - 21 kHz,Yes,Yes,Closed,Black,No,"USB Type-A, Wireless (Proprietary)",2.0,,
+Final D8000         (0),Final,FI-D8PAL,Circumaural,,No,No,Closed,Black / Silver,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,60 Ω,98 dB
+Sony XM5         (2),Sony,WH1000XM5/B,Circumaural,4 Hz - 40 kHz,Yes,Yes,Closed,Black,Yes,USB Type-C,2.0,48 Ω,102 dB
+Corsair VOID RGB ELITE         (25),Corsair,"CA-9011201-NA, CA-9011201-EU",Circumaural,20 Hz - 30 kHz,Yes,Yes,Closed,Black,No,USB Type-A,7.1,32 Ω,116 dB
+Razer BlackShark V2 Pro (2023)         (3),Razer,"RZ04-04530100-R3U1, RZ04-04530100-R3M1, RZ04-04530100",Circumaural,12 Hz - 28 kHz,Yes,Yes,Closed,Black,No,"Bluetooth, Wireless (Proprietary)",2.0,32 Ω,100 dB
+SteelSeries Arctis Nova 7         (6),SteelSeries,61553,Circumaural,20 Hz - 22 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-C, Wireless (Proprietary)",2.0,36 Ω,93 dB
+Logitech ASTRO A50 X         (0),Logitech,"939-002132, 939-002134",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White,No,USB Type-C,2.0,,
+Asus ROG Delta II         (0),Asus,"A701 ROG DELTA II/BLK, 90YH03W0-BHAA00, ROG DELTA II A701",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, Bluetooth, Wireless (Proprietary)",2.0,32 Ω,
+Corsair Virtuoso RGB         (9),Corsair,"CA-9011186-NA, CA-9011186-EU",Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,White,No,USB Type-A,7.1,32 Ω,109 dB
+HP HyperX Cloud Alpha         (1),HP,4P5D4AA,Circumaural,15 Hz - 21 kHz,Yes,Yes,Closed,Black / Red,No,USB Type-A,2.0,62 Ω,103 dB
+Beyerdynamic DT 990 Pro 250          (19),Beyerdynamic,"AMS-DT-990-PRO-250, DT-990-PRO-250",Circumaural,5 Hz - 35 kHz,No,No,Open,Black / Gray,No,Stereo 3.5mm Audio,2.0,250 Ω,96 dB
+Razer Kraken V4 Pro         (0),Razer,RZ04-05160100-R3U1,Circumaural,20 Hz - 28 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, Bluetooth, USB Type-A, Wireless (Proprietary)",2.0,32 Ω,98 dB
+Logitech G733         (13),Logitech,981-000863,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"USB Type-A, USB Type-C",2.0,39 Ω,87.5 dB
+Logitech G432         (13),Logitech,"981-000769, 981-000770",Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black / Blue,No,USB Type-A,7.1,39 Ω,107 dB
+SteelSeries Arctis Nova 5         (2),SteelSeries,61670,Circumaural,20 Hz - 22 kHz,Yes,Yes,Closed,Black,No,"Bluetooth, USB Type-C, Wireless (Proprietary)",2.0,36 Ω,93 dB
+Sennheiser HD 560S         (8),Sennheiser,HD 560S,Circumaural,6 Hz - 38 kHz,No,No,Open,Black,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,120 Ω,110 dB
+HP HyperX Cloud Stinger 2 Core         (0),HP,683L9AA,Circumaural,10 Hz - 25 kHz,Yes,No,Closed,Black,No,Stereo 3.5mm Audio,2.0,,95 dB
+HP HyperX Cloud Alpha         (33),HP,"HX-HSCA-RD/AM, HX-HSCA-RD/EM, 4P5L1AA#ABL, 4P5L1AB",Circumaural,13 Hz - 27 kHz,Yes,No,Closed,Black / Red,No,Stereo 3.5mm Audio,2.0,65 Ω,98 dB
+Sennheiser HD 800 S         (2),Sennheiser,"HD 800 S, 506911",Circumaural,4 Hz - 51 kHz,No,No,Open,Black / Silver,No,Stereo 6.3mm Audio,2.0,300 Ω,
+HiFiMAN HE1000 Stealth         (0),HiFiMAN,HE1000-Stealth,Circumaural,8 Hz - 65 kHz,No,No,Open,Silver / Brown,No,Stereo 6.3mm Audio,2.0,32 Ω,93 dB
+Logitech G735         (1),Logitech,"981-001082, 981-001083",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White,No,"Bluetooth, Wireless (Proprietary)",2.0,,
+Yamaha EPH-20PI         (0),Yamaha,EPH-20PI,In Ear,20 Hz - 21 kHz,No,No,Closed,Black / Pink,No,Stereo 3.5mm Audio,2.0,17 Ω,103 dB
+Corsair VIRTUOSO MAX         (0),Corsair,CA-9011372-WW,Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,Black,Yes,"Bluetooth, Wireless (Proprietary)",2.0,32 Ω,118 dB
+HP HyperX Cloud III         (1),HP,77Z46AA,Circumaural,10 Hz - 21 kHz,Yes,Yes,Closed,Black / Red,No,"USB Type-A, Wireless (Proprietary)",2.0,,
+Razer Barracuda X         (6),Razer,RZ04-04430100-R3U1,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-C",7.1,32 Ω,96 dB
+Beyerdynamic DT990 Premium Limited-Edition         (3),Beyerdynamic,713368,Circumaural,5 Hz - 35 kHz,No,No,Open,Black,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,250 Ω,96 dB
+Logitech Pro X         (10),Logitech,"981-000906, 981-000907",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,USB Type-A,2.0,32 Ω,91.7 dB
+Philips SHP9500         (26),Philips,"SHP9500, SHB9500//00",Circumaural,12 Hz - 35 kHz,No,No,Open,Black,No,Stereo 3.5mm Audio,2.0,32 Ω,101 dB
+Corsair HS65 SURROUND         (4),Corsair,"CA-9011270-NA, CA-9011270-EU",Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-A",7.1,32 Ω,118 dB
+Beyerdynamic DT1990 Pro         (4),Beyerdynamic,DT1990 Pro,Circumaural,5 Hz - 40 kHz,No,No,Open,Black,No,Stereo 6.3mm Audio,2.0,250 Ω,102 dB
+SteelSeries Arctis Pro         (24),SteelSeries,61473,Circumaural,10 Hz - 40 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-A",2.0,32 Ω,102 dB
+Audio-Technica ATH-M50x         (68),Audio-Technica,ATH-M50x,Circumaural,15 Hz - 28 kHz,No,No,Closed,Black / Silver,No,Stereo 3.5mm Audio,2.0,38 Ω,99 dB
+Razer Barracuda Pro         (0),Razer,RZ04-03780100-R3U1,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,Yes,"Stereo 3.5mm Audio, USB Type-C",7.1,32 Ω,96 dB
+Audeze Maxwell for Xbox Series X|S         (4),Audeze,207-MW-1120-01,Circumaural,10 Hz - 50 kHz,Yes,Yes,Closed,Black / Green,No,"Stereo 3.5mm Audio, USB Type-C, Wireless (Proprietary)",2.0,,
+"SteelSeries Arctis Nova Pro Wireless for PC, PS5, and PS4         (1)",SteelSeries,61524,Circumaural,10 Hz - 40 kHz,Yes,Yes,Closed,White / Silver,Yes,"Bluetooth, Wireless (Proprietary)",2.0,38 Ω,93 dB
+Razer Kraken V3 X         (5),Razer,"RZ04-03750300-R3U1, RZ04-03750300-R3M1",Circumaural,12 Hz - 28 kHz,Yes,No,Closed,Black,No,USB Type-A,7.1,32 Ω,103 dB
+Corsair HS80 RGB         (4),Corsair,"CA-9011235-NA, CA-9011235-EU",Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,Black,No,USB Type-A,2.0,32 Ω,116 dB
+Sennheiser HD 660S2         (1),Sennheiser,700240,Circumaural,8 Hz - 41.5 kHz,No,No,Open,Black,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,300 Ω,104 dB
+HP HyperX Cloud II         (7),HP,"HHSC2X-BA-RD/G, 4P5K4AA",Circumaural,15 Hz - 20 kHz,Yes,Yes,Closed,Black / Red,No,USB Type-A,7.1,60 Ω,104 dB
+Audeze Maxwell for PlayStation 5         (2),Audeze,208-MW-1120-01,Circumaural,10 Hz - 50 kHz,Yes,Yes,Closed,Black / Blue,No,"Stereo 3.5mm Audio, USB Type-C, Wireless (Proprietary)",2.0,,
+HiFiMAN HE1000         (0),HiFiMAN,HE1000,Circumaural,8 Hz - 65 kHz,No,No,Open,Silver / Brown,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,35 Ω,90 dB
+SteelSeries Arctis Nova 1         (0),SteelSeries,61607,Circumaural,20 Hz - 22 kHz,Yes,No,Closed,White,No,Stereo 3.5mm Audio,2.0,36 Ω,93 dB
+Patriot V360         (2),Patriot,PV3607UMLK,Circumaural,,Yes,No,Closed,Black / Red,No,,7.1,,
+Razer BlackShark V2 Pro (2023)         (2),Razer,"RZ04-04530200-R3U1, RZ04-04530200-R3M1, RZ04-04530200",Circumaural,12 Hz - 28 kHz,Yes,Yes,Closed,White / Black,No,"Bluetooth, Wireless (Proprietary)",2.0,32 Ω,100 dB
+Logitech G733         (4),Logitech,981-000882,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White / Gray,No,"USB Type-A, USB Type-C",2.0,39 Ω,87.5 dB
+Sennheiser HD 650         (14),Sennheiser,"HD650, 508825",Circumaural,10 Hz - 39.5 kHz,No,No,Open,Black,No,Stereo 3.5mm Audio,2.0,300 Ω,103 dB
+Turtle Beach EAR FORCE Recon 50X         (3),Turtle Beach,"TBS-2303-01, TBS-2303-02",Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black / Green,No,Stereo 3.5mm Audio,2.0,32 Ω,
+Syba CM-502         (0),Syba,CL-CM-502,Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black / Silver,No,Stereo 3.5mm Audio,2.0,32 Ω,108 dB
+Sony WH1000XM4         (6),Sony,WH1000XM4/B,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,Yes,"Stereo 3.5mm Audio, USB Type-C",2.0,,105 dB
+Logitech ASTRO A50 (GEN 5)         (0),Logitech,"939-002217, 939-002224, 939-002225",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black / Red,No,"Bluetooth, USB Type-C, Wireless (Proprietary)",2.0,,78 dB
+Beyerdynamic DT 900 Pro X         (4),Beyerdynamic,"DT900ProX, 729906",Circumaural,5 Hz - 40 kHz,No,No,Open,Black / Gray,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,48 Ω,
+Razer Barracuda X         (3),Razer,RZ04-04430200-R3U1,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White / Gray,No,"Stereo 3.5mm Audio, USB Type-C",7.1,32 Ω,96 dB
+Turtle Beach Stealth 700 Gen 2 MAX         (1),Turtle Beach,TBS-2790-01,Circumaural,20 Hz - 22 kHz,Yes,Yes,Closed,Black / Silver,No,USB Type-A,5.1,,
+Logitech G535 LIGHTSPEED         (2),Logitech,"981-000971, 981-000973, 981-000972",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black / Blue,No,,2.0,36 Ω,87.5 dB
+SteelSeries Arctis 1         (14),SteelSeries,"Arctis 1 Wireless, 61512",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,,2.0,32 Ω,98 dB
+Corsair VIRTUOSO RGB Wireless XT         (5),Corsair,"CA-9011188-NA, CA-9011188-EU",Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,Black / Silver,No,USB Type-A,2.0,32 Ω,109 dB
+HP HyperX Cloud III         (0),HP,727A8AA,Circumaural,10 Hz - 21 kHz,Yes,No,Closed,Black,No,USB Type-A,2.0,,
+Astro A50 + Base Station         (4),Astro,939-001680,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black / Gold,No,Stereo 3.5mm Audio,2.0,,118 dB
+SteelSeries Arctis Nova Pro         (0),SteelSeries,61527,Circumaural,10 Hz - 40 kHz,Yes,No,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-C",2.0,38 Ω,93 dB
+HP HyperX Cloud III         (0),HP,727A9AA,Circumaural,10 Hz - 21 kHz,Yes,No,Closed,Black / Red,No,USB Type-A,2.0,,
+DROP Drop + Sennheiser PC38X         (6),DROP,PC38X Black,Circumaural,10 Hz - 30 kHz,Yes,No,Open,Black,No,Stereo 3.5mm Audio,2.0,28 Ω,28 dB
+SteelSeries Arctis Pro Wireless         (2),SteelSeries,61474,Circumaural,10 Hz - 40 kHz,Yes,Yes,Closed,White,No,"Stereo 3.5mm Audio, USB Type-A",2.0,32 Ω,102 dB
+Corsair HS80 MAX WIRELESS         (1),Corsair,"CA-9011295-NA, CA-9011295-EU, CA-9011295-AP",Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,Gray / Black,No,USB Type-A,2.0,32 Ω,116 dB
+Beyerdynamic DT 1770 PRO         (5),Beyerdynamic,DT 1770 PRO,Circumaural,5 Hz - 40 kHz,No,No,Closed,Black,No,Stereo 6.3mm Audio,2.0,250 Ω,102 dB
+"SteelSeries Arctis Nova Pro Wireless for Xbox X|S, and Xbox One         (4)",SteelSeries,61521,Circumaural,10 Hz - 40 kHz,Yes,Yes,Closed,Black,Yes,"Bluetooth, Wireless (Proprietary)",2.0,38 Ω,93 dB
+Logitech ASTRO A10         (2),Logitech,"939-002055, 939-002057",Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black,No,Stereo 3.5mm Audio,2.0,,102 dB
+Razer Kraken V3 Pro         (1),Razer,"RZ04-03460100-R3U1, RZ04-03460100-R3M1",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-A",7.1,32 Ω,96 dB
+Razer Kraken Kitty         (1),Razer,"RZ04-02980200-R3M1, RZ04-02980200",Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Pink,No,USB Type-A,2.0,32 Ω,109 dB
+Corsair HS80 RGB         (0),Corsair,"CA-9011238-NA, CA-9011238-AP, CA-9011238-EU",Circumaural,20 Hz - 40 kHz,Yes,No,Closed,White,No,USB Type-A,7.1,32 Ω,116 dB
+HP HyperX Cloud Stinger 2         (0),HP,519T1AA,Circumaural,10 Hz - 28 kHz,Yes,No,Closed,Black,No,Stereo 3.5mm Audio,2.0,,97.5 dB
+Logitech G935         (5),Logitech,"981-000742, 981-000744",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black / Blue,No,USB Type-A,7.1,39 Ω,93 dB
+HP HyperX Cloud Stinger Core - Wireless         (0),HP,4P4F0AA,Circumaural,10 Hz - 21 kHz,Yes,Yes,Closed,Black,No,USB Type-A,7.1,16 Ω,103 dB
+Apple MD827LL/A         (6),Apple,MD827LL/A,Earbud,,Yes,No,Closed,White,No,Stereo 3.5mm Audio,2.0,,
+Corsair VOID WIRELESS v2         (0),Corsair,CA-9011379-WW,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Bluetooth, Wireless (Proprietary)",2.0,32 Ω,116 dB
+Sony XM5         (1),Sony,WH1000XM5/S,Circumaural,4 Hz - 40 kHz,Yes,Yes,Closed,Silver,Yes,USB Type-C,2.0,48 Ω,102 dB
+Sennheiser HD 599         (11),Sennheiser,"HD 599, 506831",Circumaural,12 Hz - 38.5 kHz,No,No,Open,White / Brown,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,50 Ω,106 dB
+Logitech ASTRO A50 (GEN 5)         (1),Logitech,"939-002229, 939-002231, 939-002230",Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,White / Red,No,"Bluetooth, USB Type-C, Wireless (Proprietary)",2.0,,78 dB
+SteelSeries ARCTIS 7 2019 Edition         (27),SteelSeries,61505,Circumaural,20 Hz - 20 kHz,Yes,Yes,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-A",7.1,32 Ω,98 dB
+Beyerdynamic MMX 300 (2nd Generation)         (5),Beyerdynamic,718300,Circumaural,5 Hz - 35 kHz,Yes,No,Closed,Black,No,"Stereo 3.5mm Audio, Stereo 6.3mm Audio",2.0,32 Ω,96 dB
+SteelSeries Arctis Nova 3         (2),SteelSeries,61631,Circumaural,20 Hz - 22 kHz,Yes,No,Closed,Black,No,"Stereo 3.5mm Audio, USB Type-C",2.0,36 Ω,93 dB
+Razer BlackShark V2         (11),Razer,RZ04-03230100-R3U1,Circumaural,12 Hz - 28 kHz,Yes,No,Closed,Black / Green,No,"Stereo 3.5mm Audio, USB Type-A",2.0,32 Ω,100 dB
+Sennheiser HD 598         (26),Sennheiser,"HD 598, 506799",Circumaural,12 Hz - 38.5 kHz,No,No,Open,Brown,No,Stereo 3.5mm Audio,2.0,50 Ω,112 dB
+Corsair Virtuoso RGB         (6),Corsair,"CA-9011185-NA, VIRTUOSO RGB, CA-9011185-EU",Circumaural,20 Hz - 40 kHz,Yes,Yes,Closed,Black,No,USB Type-A,7.1,32 Ω,109 dB
+Logitech G PRO         (13),Logitech,981-000811,Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black,No,USB Type-A,2.0,35 Ω,91.7 dB
+Razer BlackShark V2 Pro         (15),Razer,RZ04-03220100-R3U1,Circumaural,12 Hz - 28 kHz,Yes,Yes,Closed,Black,No,Stereo 3.5mm Audio,2.0,32 Ω,100 dB
+Razer Kraken X         (33),Razer,RZ04-02890100-R3U1,Circumaural,12 Hz - 28 kHz,Yes,No,Closed,Black,No,,7.1,32 Ω,109 dB
+Astro Gaming A40 TR + MixAmp Pro TR         (2),Astro,939-001533,Circumaural,20 Hz - 20 kHz,Yes,No,Closed,Black / Gold,No,Stereo 3.5mm Audio,7.1,48 Ω,

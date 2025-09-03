@@ -1,0 +1,78 @@
+name,Manufacturer,Model,Part #,Channels,Digital Audio,Signal-To-Noise Ratio,Sample Rate,Chipset,Interface,Color
+Creative Labs Sound BlasterX AE-5 Plus         (15),Creative Labs,Sound BlasterX AE-5 Plus,70SB174000003,5.1,32-bit,122 dB,384 kHz,Sound Core3D,PCIe x1,Black
+Creative Labs Sound Blaster AE-9         (1),Creative Labs,Sound Blaster AE-9,"70SB178000000, SB1780, AE-9",7.1,32-bit,129 dB,384 kHz,Sound Core3D,PCIe x1,Gray
+Creative Labs ZXR         (8),Creative Labs,ZXR,70SB151000000,5.1,24-bit,124 dB,192 kHz,,PCIe x1,
+Asus Xonar SE         (3),Asus,,"Xonar SE, 90YA00T0-M0UA00",5.1,24-bit,120 dB,192 kHz,,PCIe x1,Black
+Creative Labs Sound Blaster Audigy Rx         (14),Creative Labs,Sound Blaster Audigy Rx,70SB155000001,7.1,24-bit,106 dB,192 kHz,Creative E-MU,PCIe x1,Black
+Creative Labs Sound Blaster Z SE         (5),Creative Labs,Sound Blaster Z SE,70SB150000004,5.1,24-bit,116 dB,192 kHz,Sound Core3D,PCIe x1,Red / Black
+Creative Labs Sound Blaster AE-7         (4),Creative Labs,Sound Blaster AE-7,"SB1800, AE-7",5.1,32-bit,127 dB,384 kHz,Sound Core3D,PCIe x1,Gray
+Creative Labs Sound Blaster Audigy Fx V2         (1),Creative Labs,Sound Blaster Audigy Fx V2,"70SB187000000, SB1870",5.1,24-bit,120 dB,192 kHz,,PCIe x1,Black
+EVGA NU         (1),EVGA,NU,712-P1-AN01-KR,5.1,24-bit,123 dB,192 kHz,,PCIe x1,Silver / Black
+Asus Essence STX II 7.1         (0),Asus,,"Essence STX II 7.1, XONAR ESSENCE STX II 7.1, 90YA00MN-M0UA00, 90YA00NN-M0UA00",7.1,24-bit,124 dB,192 kHz,ASUS AV100,PCIe x1,
+Asus STRIX RAID PRO         (0),Asus,,"STRIX RAID PRO, 90YB00I0-M1UA00, 90YB00I0-M0UA00",7.1,24-bit,116 dB,192 kHz,,PCIe x1,
+Asus STRIX RAID DLX         (0),Asus,,"STRIX RAID DLX, 90YB00H0-M0UA00, 90YB00H0-M1UA00",7.1,24-bit,124 dB,192 kHz,,PCIe x1,
+Asus Xonar Essence STX         (18),Asus,,"Xonar Essence STX, 90-YAA0C0-0UAN00Z, 90-YAA0C0-0AAN0BZ",7.1,24-bit,124 dB,192 kHz,ASUS AV100,PCIe x1,
+Asus Xonar AE         (0),Asus,Xonar AE,"90YA00P0-M0UA00, Xonar AE",7.1,24-bit,110 dB,192 kHz,,PCIe x1,Black / White
+Creative Labs Sound Blaster Zx         (24),Creative Labs,Sound Blaster Zx,70SB150600000,5.1,24-bit,116 dB,192 kHz,,PCIe x1,
+Creative Labs Sound BlasterX AE-5 Plus Pure         (0),Creative Labs,Sound BlasterX AE-5 Plus Pure,70SB174000004,5.1,32-bit,122 dB,384 kHz,Sound Core3D,PCIe x1,White / Black
+Asus STRIX SOAR         (3),Asus,,"STRIX SOAR, 90YB00J0-M1UA00",7.1,24-bit,116 dB,192 kHz,,PCIe x1,
+Creative Labs 70SB157000000         (3),Creative Labs,,70SB157000000,5.1,,106 dB,,,PCIe x1,
+Creative Labs Sound Blaster Z w/Shield         (35),Creative Labs,Sound Blaster Z w/Shield,70SB150000000,5.1,24-bit,116 dB,192 kHz,Sound Core3D,PCIe x1,Red / Black
+Asus Essence STX II         (7),Asus,,"Essence STX II, Xonar Essence STX II",2.0,24-bit,124 dB,192 kHz,ASUS AV100,PCIe x1,
+Creative Labs Sound Blaster Audigy Fx         (5),Creative Labs,Sound Blaster Audigy Fx,30SB157000001,5.1,24-bit,106 dB,192 kHz,,PCIe x1,Black
+Creative Labs Sound BlasterX AE-5         (0),Creative Labs,Sound BlasterX AE-5,70SB174000000,5.1,32-bit,122 dB,384 kHz,Sound Core3D,PCIe x1,Black
+Creative Labs Sound Blaster X-Fi Titanium HD         (10),Creative Labs,Sound Blaster X-Fi Titanium HD,"70SB127000002, SBXFI-TITAN-HD",7.1,24-bit,122 dB,96 kHz,X-Fi,PCIe x1,
+Creative Labs Sound BlasterX AE-5 Pure         (0),Creative Labs,Sound BlasterX AE-5 Pure,70SB174000001,5.1,32-bit,122 dB,384 kHz,Sound Core3D,PCIe x1,White / Black
+EVGA NU AUDIO PRO         (1),EVGA,NU AUDIO PRO,712-P1-AN11-KR,2.0,32-bit,123 dB,384 kHz,,PCIe x1,Orange / Black
+Asus Xonar DGX         (24),Asus,,"Xonar DGX, 90-YAA0Q0-0UAN0BZ, 90-YAA0Q1-0UAN0BZ",5.1,24-bit,105 dB,96 kHz,C-Media CMI8786,PCIe x1,
+Creative Labs Sound Blaster X-Fi Xtreme Audio         (2),Creative Labs,Sound Blaster X-Fi Xtreme Audio,SB1042VP,7.1,24-bit,100 dB,96 kHz,,PCIe x1,
+Asus Xonar DX         (20),Asus,,"Xonar DX, 90-YAA060-1UAN00Z",7.1,24-bit,116 dB,192 kHz,ASUS AV100,PCIe x1,
+Creative Labs Sound Blaster Z         (8),Creative Labs,Sound Blaster Z,70SB150200000,5.1,24-bit,116 dB,192 kHz,,PCIe x1,Black / Red
+SIIG DP SoundWave         (0),SIIG,DP SoundWave,IC-510211-S1,5.1,24-bit,,,,PCIe x1,
+Asus Xonar DSX         (13),Asus,,Xonar DSX,7.1,24-bit,107 dB,192 kHz,ASUS AV66,PCIe x1,
+Asus Xonar Essence ST         (1),Asus,,Xonar Essence ST,7.1,24-bit,124 dB,192 kHz,ASUS AV100,PCI,
+Creative Labs SB X-Fi Xtreme Audio         (2),Creative Labs,SB X-Fi Xtreme Audio,70SB104000000,7.1,24-bit,100 dB,96 kHz,,PCIe x1,
+Creative Labs Sound Blaster Z OEM         (4),Creative Labs,Sound Blaster Z OEM,30SB150200000,5.1,24-bit,116 dB,192 kHz,,PCIe x1,Black / Red
+Asus Xonar DG         (32),Asus,Xonar DG,"XONAR_DG, 90-YAA0K0-0UAN0BZ",5.1,24-bit,105 dB,96 kHz,C-Media CMI8786,PCI,
+Asus Xonar Phoebus         (5),Asus,,Xonar Phoebus,7.1,24-bit,118 dB,96 kHz,C-Media CMI8888DHT,PCIe x1,
+Creative Labs 70SB135A00002         (1),Creative Labs,,70SB135A00002,5.1,24-bit,102 dB,96 kHz,Sound Core3D,PCIe x1,
+Diamond XtremeSound XS51         (0),Diamond,XtremeSound XS51,XS51,5.1,16-bit,,48 kHz,,PCI,
+Creative Labs Sound Blaster Audigy2 ZS         (0),Creative Labs,Sound Blaster Audigy2 ZS,SB0350,5.1,24-bit,,192 kHz,Audigy2,PCI,Black
+Creative Labs Sound Blaster Audigy SE         (5),Creative Labs,Sound Blaster Audigy SE,70SB057000001,7.1,24-bit,,96 kHz,Audigy SE,PCI,Black
+Creative Labs Recon3D Fatal1ty Professional         (4),Creative Labs,Recon3D Fatal1ty Professional,"70SB135600000, SB-RECON3D-FPRO",5.1,24-bit,102 dB,96 kHz,Sound Core3D,PCIe x1,
+Creative Labs Recon3D PCIe         (4),Creative Labs,Recon3D PCIe,"70SB135000000, SB-RECON3D-PCIE",5.1,24-bit,102 dB,96 kHz,Sound Core3D,PCIe x1,
+Creative Labs Sound Blaster X-Fi         (0),Creative Labs,Sound Blaster X-Fi,SB0670,7.1,24-bit,109 dB,192 kHz,,PCI,Black
+PPA International 1431v         (0),PPA International,,1431v,5.1,16-bit,,,,PCI,
+Asus Xonar D1         (5),Asus,,"Xonar D1, 90-YAA0B0-0UAN00Z",7.1,24-bit,116 dB,192 kHz,ASUS AV100,PCI,
+Rosewill RC-703         (0),Rosewill,,RC-703,7.1,,,44.1 kHz,,PCIe x1,
+SIIG IC-510111-S2         (0),SIIG,,IC-510111-S2,5.1,24-bit,90 dB,96 kHz,VIA VT1723,PCIe x1,
+HT Omega Claro Halo         (1),HT Omega,,Claro Halo,5.1,24-bit,,192 kHz,C-Media CMI8788,PCI,
+Creative Labs Sound Blaster Audigy SE OEM         (5),Creative Labs,Sound Blaster Audigy SE OEM,30SB057000000,7.1,24-bit,100 dB,96 kHz,,PCI,Black
+Turtle Beach TBS-3429         (0),Turtle Beach,,TBS-3429,5.1,24-bit,,48 kHz,,PCI,
+Syba SD-PEX63034         (0),Syba,,SD-PEX63034,7.1,24-bit,,48 kHz,,PCIe x1,
+PowerColor DEVIL HDX 7.1         (0),PowerColor,DEVIL HDX 7.1,SCM888-DHDX,7.1,,124 dB,192 kHz,,PCIe x1,
+HT Omega Claro Halo XT         (0),HT Omega,,Claro Halo XT,7.1,24-bit,,192 kHz,C-Media CMI8788,PCI,
+HT Omega eClaro         (1),HT Omega,,eClaro,7.1,24-bit,,192 kHz,C-Media CMI8788,PCIe x1,
+Asus Xonar DS         (1),Asus,,Xonar DS,7.1,24-bit,107 dB,192 kHz,ASUS AV200,PCI,
+SIIG LP-000022-S2         (0),SIIG,,LP-000022-S2,5.1,24-bit,90 dB,96 kHz,VIA VT1723,PCI,
+M-Audio US41500C         (0),M-Audio,US41500C,AUDIOPHILE2496,2.0,24-bit,104 dB,96 kHz,,PCI,
+SIIG IC-510012-S2         (2),SIIG,,IC-510012-S2,5.1,16-bit,68 dB,,,PCI,
+HT Omega FENIX         (0),HT Omega,,FENIX,7.1,24-bit,,192 kHz,,PCIe x1,
+Creative Labs Sound Blaster Audigy Rx OEM         (0),Creative Labs,Sound Blaster Audigy Rx OEM,30SB155000001,7.1,24-bit,106 dB,192 kHz,Creative E-MU,PCIe x1,Black
+Creative Labs Sound Blaster X-Fi Xtreme Audio         (1),Creative Labs,Sound Blaster X-Fi Xtreme Audio,30SB079200000,7.1,24-bit,108 dB,96 kHz,,PCI,
+Encore ENM232-6VIA         (0),Encore,,ENM232-6VIA,5.1,24-bit,,96 kHz,VIA VT1723,PCI,
+HT Omega STRIKER         (0),HT Omega,,STRIKER,7.1,,,,C-Media CMI8770,PCI,
+Vantec UGT-S100         (1),Vantec,,UGT-S100,7.1,,,48 kHz,,PCI,
+HT Omega CLARO II         (0),HT Omega,,CLARO II,7.1,24-bit,120 dB,192 kHz,C-Media CMI8788,PCI,
+Rosewill RC-701         (1),Rosewill,,RC-701,5.1,,,,C-Media CMI8738,PCI,
+StarTech PCISOUND5CH         (1),StarTech,,PCISOUND5CH,5.1,24-bit,,48 kHz,C-Media CMI8738,PCI,
+StarTech PCISOUND4CH         (0),StarTech,,PCISOUND4CH,4.0,16-bit,,48 kHz,C-Media CMI8738,PCI,
+Diamond XtremeSound XS71         (0),Diamond,XtremeSound XS71,XS71,7.1,16-bit,,96 kHz,,PCI,
+Asus Xonar Essence         (1),Asus,Xonar Essence,90-YAA0E0-0UAN00Z,7.1,24-bit,124 dB,192 kHz,ASUS AV100,PCI,
+Encore ENM232-8VIA         (0),Encore,,ENM232-8VIA,7.1,24-bit,,96 kHz,VIA VT1723,PCI,
+Asus Xonar DS         (0),Asus,Xonar DS,90-YAA0F0-0UAN00Z,7.1,24-bit,107 dB,192 kHz,ASUS AV200,PCI,
+Creative Labs Recon3D Fatal1ty Champion         (1),Creative Labs,Recon3D Fatal1ty Champion,"70SB135400000, SB-RECON3D-FAC",5.1,24-bit,102 dB,96 kHz,Sound Core3D,PCIe x1,
+Rosewill RC-702         (0),Rosewill,,RC-702,7.1,16-bit,,96 kHz,C-Media CMI8768,PCI,
+StarTech PCISOUND4LP         (0),StarTech,,PCISOUND4LP,4.0,16-bit,,48 kHz,C-Media CMI8738,PCI,
+M-Audio Audiophile 192         (0),M-Audio,Audiophile 192,9900-50768-00,4.0,24-bit,,192 kHz,,PCI,
+SIIG IC-710012-S2         (0),SIIG,,IC-710012-S2,7.1,24-bit,92 dB,96 kHz,,PCI,

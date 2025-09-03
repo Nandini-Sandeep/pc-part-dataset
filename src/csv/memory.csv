@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Speed,Form Factor,Modules,Price / GB,Color,First Word Latency,CAS Latency,Voltage,Timing,ECC / Registered,Heat Spreader
+Corsair Vengeance RGB 32 GB         (63),Corsair,CMH32GX5M2E6000C36,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.918,Black,12 ns,36,1.4 V,36-44-44-96,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 16 GB         (500),Corsair,CMK16GX4M2B3200C16,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$2.374,Black / Yellow,10 ns,16,1.35 V,16-18-18-36,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 32 GB         (67),Corsair,CMK32GX5M2B6000C30,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.906,Black / Gray,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 RGB 64 GB         (29),G.Skill,F5-6400J3239G32GX2-TZ5RK,DDR5-6400,288-pin DIMM (DDR5),2 x 32GB,$3.422,Black / Silver,10 ns,32,1.4 V,32-39-39-102,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Create Expert 32 GB         (81),TEAMGROUP,CTCED532G6000HC30DC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.906,Black,10 ns,30,1.35 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB Pro 32 GB         (103),Corsair,CMW32GX4M2Z3600C18,DDR4-3600,288-pin DIMM (DDR4),2 x 16GB,$2.718,Black,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 32 GB         (106),Corsair,CMK32GX4M2D3600C18,DDR4-3600,288-pin DIMM (DDR4),2 x 16GB,$2.156,Black / Yellow,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Delta RGB 32 GB         (78),TEAMGROUP,FF4D532G6000HC30DC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.187,White,10 ns,30,1.35 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Flare X5 32 GB         (78),G.Skill,F5-6000J3636F16GX2-FX5,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.812,Black,12 ns,36,1.35 V,36-36-36-96,Non-ECC / Unbuffered,No
+Corsair Vengeance RGB 64 GB         (14),Corsair,CMH64GX5M2B6000C30,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.281,Black,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 Neo RGB 32 GB         (111),G.Skill,F5-6000J3038F16GX2-TZ5NR,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.593,Black,10 ns,30,1.35 V,30-38-38-96,Non-ECC / Unbuffered,No
+G.Skill Ripjaws V 32 GB         (133),G.Skill,F4-3200C16D-32GVK,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.625,Black,10 ns,16,1.35 V,16-18-18-38,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 32 GB         (65),Corsair,CMK32GX4M2E3200C16,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.625,Black / Yellow,10 ns,16,1.35 V,16-20-20-38,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Delta RGB 32 GB         (63),TEAMGROUP,FF3D532G6000HC30DC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.187,Black,10 ns,30,1.35 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 32 GB         (13),Corsair,CMH32GX5M2E6000C36W,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.897,White / Silver,12 ns,36,1.4 V,36-44-44-96,Non-ECC / Unbuffered,Yes
+G.Skill Flare X5 32 GB         (78),G.Skill,F5-6000J3038F16GX2-FX5,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.125,Black,10 ns,30,1.35 V,30-38-38-96,Non-ECC / Unbuffered,Yes
+Crucial Pro Overclocking 32 GB         (17),Crucial,CP2K16G60C36U5B,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.718,Black,12 ns,36,1.35 V,36-38-38-80,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Vulcan Z 16 GB         (113),TEAMGROUP,TLZGD416G3200HC16CDC01,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$1.687,Black,10 ns,16,1.35 V,16-18-18-38,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 32 GB         (11),Kingston,KF560C30BBEK2-32,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.593,Black,10 ns,30,1.4 V,,Non-ECC / Unbuffered,Yes
+Patriot Viper Venom 32 GB         (1),Patriot,PVV532G600C30K,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.593,Black / White,10 ns,30,1.35 V,30-40-40-76,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws V 64 GB         (0),G.Skill,F4-3200C14Q-64GVK,DDR4-3200,288-pin DIMM (DDR4),4 x 16GB,$21.116,Black,8.75 ns,14,1.35 V,,Non-ECC / Unbuffered,Yes
+Corsair Dominator Titanium 64 GB         (3),Corsair,CMP64GX5M2X6600C32W,DDR5-6600,288-pin DIMM (DDR5),2 x 32GB,$4.476,White,9.697 ns,32,1.4 V,32-39-39-76,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 64 GB         (8),Corsair,CMK64GX5M2B5200C40,DDR5-5200,288-pin DIMM (DDR5),2 x 32GB,$2.422,Black,15.385 ns,40,1.25 V,40-40-40-77,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 Neo RGB 64 GB         (36),G.Skill,F5-6000J3040G32GX2-TZ5NR,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.281,Black / Silver,10 ns,30,1.4 V,30-40-40-96,Non-ECC / Unbuffered,Yes
+Silicon Power GAMING 16 GB         (60),Silicon Power,SP016GXLZU320BDAJ5,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$1.623,Black / Gray,10 ns,16,1.35 V,,Non-ECC / Unbuffered,Yes
+Silicon Power Value Gaming 32 GB         (13),Silicon Power,"SP032GXLWU60AFDEAE, SP032GXLWU60AFDJ",DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.687,Black,10 ns,30,1.35 V,30-38-38-96,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 16 GB         (7),Kingston,KF552C40BBK2-16,DDR5-5200,288-pin DIMM (DDR5),2 x 8GB,$3.437,Black,15.385 ns,40,1.25 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB Pro 16 GB         (384),Corsair,CMW16GX4M2C3200C16,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$3.499,Black,10 ns,16,1.35 V,16-18-18-36,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 64 GB         (19),Corsair,CMK64GX4M2E3200C16,DDR4-3200,288-pin DIMM (DDR4),2 x 32GB,$1.453,Black / Yellow,10 ns,16,1.35 V,16-20-20-38,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 32 GB         (67),Corsair,CMH32GX5M2B6000Z30K,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.750,Gray,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Flare X5 64 GB         (24),G.Skill,F5-6000J3040G32GX2-FX5,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.047,Black,10 ns,30,1.4 V,30-40-40-96,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z RGB 32 GB         (31),G.Skill,F4-3600C18D-32GTZR,DDR4-3600,288-pin DIMM (DDR4),2 x 16GB,$2.187,Black,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Create Expert 32 GB         (29),TEAMGROUP,CTCWD532G6000HC30DC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.968,White,10 ns,30,1.35 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 32 GB         (5),Corsair,CMK32GX5M2E6000C36,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.812,Black,12 ns,36,1.4 V,36-44-44-96,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Vulcan 32 GB         (17),TEAMGROUP,FLBD532G6000HC30DC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.031,Black,10 ns,30,1.35 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 Royal Neo RGB 32 GB         (10),G.Skill,F5-6000J2836G16GX2-TR5NS,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$4.687,Silver,9.333 ns,28,1.4 V,28-36-36-96,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 32 GB         (5),Corsair,CMK32GX5M2E6000Z36,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.125,Black,12 ns,36,1.4 V,36-44-44-96,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 16 GB         (19),Kingston,KF432C16BBK216,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$2.744,Black,10 ns,16,1.35 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 192 GB         (0),Corsair,CMH192GX5M4B5200C38,DDR5-5200,288-pin DIMM (DDR5),4 x 48GB,$3.125,Black,14.615 ns,38,1.25 V,38-38-38-84,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 64 GB         (5),Kingston,KF560C30BBEK2-64,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.125,Black,10 ns,30,1.4 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 32 GB         (9),Corsair,CMH32GX5M2B6400C36,DDR5-6400,288-pin DIMM (DDR5),2 x 16GB,$2.812,Black,11.25 ns,36,1.4 V,36-48-48-104,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast RGB 32 GB         (9),Kingston,KF560C30BBEAK2-32,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.750,Black,10 ns,30,1.4 V,,Non-ECC / Unbuffered,Yes
+Crucial CP2K64G56C46U5 128 GB         (0),Crucial,CP2K64G56C46U5,DDR5-5600,288-pin DIMM (DDR5),2 x 64GB,$2.344,Black,16.429 ns,46,1.1 V,,Non-ECC / Unbuffered,Yes
+Corsair Dominator Titanium 64 GB         (1),Corsair,CMP64GX5M2X6600C32,DDR5-6600,288-pin DIMM (DDR5),2 x 32GB,$4.922,Black,9.697 ns,32,1.4 V,32-39-39-76,Non-ECC / Unbuffered,Yes
+Silicon Power GAMING 32 GB         (24),Silicon Power,SP032GXLZU320BDAJ7,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.405,Black,10 ns,16,1.35 V,16-18-18-36,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 64 GB         (3),Corsair,CMK64GX5M2B6000Z30,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.203,Black / Gray,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+Patriot Viper Venom 32 GB         (4),Patriot,PVV532G640C32K,DDR5-6400,288-pin DIMM (DDR5),2 x 16GB,$2.343,Black / White,10 ns,32,1.4 V,32-40-40-84,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws V 16 GB         (236),G.Skill,F4-3200C16D-16GVKB,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$2.062,Black,10 ns,16,1.35 V,,Non-ECC / Unbuffered,Yes
+Crucial Pro Overclocking 32 GB         (7),Crucial,CP2K16G60C36U5W,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.937,White,12 ns,36,1.35 V,36-38-38-80,Non-ECC / Unbuffered,Yes
+Silicon Power XPOWER Zenith Gaming 32 GB         (2),Silicon Power,"SP032GXLWU60AFDG, SU032GXLWU60AFDGSW, SU032GXLWU60AFDGAB",DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.593,White,10 ns,30,1.35 V,30-38-38-96,Non-ECC / Unbuffered,Yes
+Crucial Classic 16 GB         (1),Crucial,CT2K8G56C46U5,DDR5-5600,288-pin DIMM (DDR5),2 x 8GB,$2.749,Black,16.429 ns,46,1.1 V,,Non-ECC / Unbuffered,No
+G.Skill Trident Z5 RGB 48 GB         (0),G.Skill,F5-8400J4052G24GX2-TZ5RK,DDR5-8400,288-pin DIMM (DDR5),2 x 24GB,$5.416,Black,9.524 ns,40,1.4 V,40-52-52-134,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 128 GB         (0),Corsair,CMH128GX5M4B5600C40,DDR5-5600,288-pin DIMM (DDR5),4 x 32GB,$4.062,Black,14.286 ns,40,1.25 V,40-40-40-77,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 32 GB         (15),Kingston,KF432C16BBK2/32,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$2.031,Black,10 ns,16,1.35 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB Pro SL 32 GB         (42),Corsair,CMH32GX4M2D3600C18W,DDR4-3600,288-pin DIMM (DDR4),2 x 16GB,$2.187,White / Black,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Vulcan Z 32 GB         (25),TEAMGROUP,TLZGD432G3200HC16FDC01,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.593,Gray,10 ns,16,1.35 V,16-20-20-40,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 16 GB         (6),Corsair,CMK16GX5M2B5200C40,DDR5-5200,288-pin DIMM (DDR5),2 x 8GB,$4.061,Black,15.385 ns,40,1.25 V,40-40-40-77,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws S5 32 GB         (34),G.Skill,F5-6000J3040F16GX2-RS5K,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.281,Black,10 ns,30,1.35 V,30-40-40-96,Non-ECC / Unbuffered,Yes
+Silicon Power XPOWER Zenith Gaming 32 GB         (3),Silicon Power,"SP032GXLWU60AFDE, SU032GXLWU60AFDESK",DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.656,Black,10 ns,30,1.35 V,30-38-38-96,Non-ECC / Unbuffered,Yes
+Patriot Viper Venom 32 GB         (3),Patriot,PVV532G600C36K,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.406,Black / White,12 ns,36,1.25 V,36-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 RGB 32 GB         (40),G.Skill,F5-6400J3239G16GX2-TZ5RK,DDR5-6400,288-pin DIMM (DDR5),2 x 16GB,$3.593,Black,10 ns,32,1.4 V,32-39-39-102,Non-ECC / Unbuffered,Yes
+Patriot Viper Venom 64 GB         (1),Patriot,PVV564G640C32K,DDR5-6400,288-pin DIMM (DDR5),2 x 32GB,$2.422,Black / White,10 ns,32,1.4 V,32-40-40-84,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws V 16 GB         (201),G.Skill,F4-3600C16D-16GVKC,DDR4-3600,288-pin DIMM (DDR4),2 x 8GB,$2.437,Black,8.889 ns,16,1.35 V,16-19-19-39,Non-ECC / Unbuffered,Yes
+Crucial Pro 32 GB         (4),Crucial,CP2K16G56C46U5,DDR5-5600,288-pin DIMM (DDR5),2 x 16GB,$2.593,Black,16.429 ns,46,1.1 V,,Non-ECC / Unbuffered,Yes
+Crucial Pro 64 GB         (3),Crucial,CP2K32G56C46U5,DDR5-5600,288-pin DIMM (DDR5),2 x 32GB,$2.187,Black,16.429 ns,46,1.1 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 32 GB         (19),Corsair,CMK32GX5M2B6000Z30,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.437,Black / Silver,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+Silicon Power SP016GBLFU320B22 16 GB         (11),Silicon Power,SP016GBLFU320B22,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$1.561,,13.75 ns,22,1.2 V,,Non-ECC / Unbuffered,No
+G.Skill Ripjaws V 32 GB         (107),G.Skill,F4-3600C16D-32GVKC,DDR4-3600,288-pin DIMM (DDR4),2 x 16GB,$2.124,Black,8.889 ns,16,1.35 V,16-19-19-39,Non-ECC / Unbuffered,Yes
+Corsair Dominator Titanium 96 GB         (1),Corsair,CMP96GX5M2B6600C32,DDR5-6600,288-pin DIMM (DDR5),2 x 48GB,$4.281,Black,9.697 ns,32,1.4 V,32-39-39-76,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Create Classic 32 GB         (4),TEAMGROUP,CTCCD532G5600HC46DC01,DDR5-5600,288-pin DIMM (DDR5),2 x 16GB,$2.343,Black,16.429 ns,46,1.1 V,46-46-46-90,Non-ECC / Unbuffered,Yes
+Crucial Pro 32 GB         (10),Crucial,CP2K16G4DFRA32A,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.593,Black,13.75 ns,22,1.2 V,,Non-ECC / Unbuffered,Yes
+Corsair Dominator Titanium 32 GB         (8),Corsair,CMP32GX5M2B6000C30W,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$5.500,White,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Delta RGB 16 GB         (26),TEAMGROUP,TF4D416G3600HC18JDC01,DDR4-3600,288-pin DIMM (DDR4),2 x 8GB,$2.562,White,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+Patriot Venom 64 GB         (2),Patriot,PVV564G600C30K,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$2.500,Black,10 ns,30,1.35 V,30-40-40-76,Non-ECC / Unbuffered,Yes
+G.Skill Aegis 32 GB         (11),G.Skill,F4-3200C16D-32GIS,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.562,Red / Black,10 ns,16,1.35 V,16-18-18-38,Non-ECC / Unbuffered,No
+TEAMGROUP T-Force Delta RGB 64 GB         (6),TEAMGROUP,FF4D564G6000HC38ADC01,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$2.656,White,12.667 ns,38,1.35 V,38-38-38-78,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 RGB 32 GB         (10),G.Skill,F5-7200J3445G16GX2-TZ5RK,DDR5-7200,288-pin DIMM (DDR5),2 x 16GB,$4.062,Black,9.444 ns,34,1.4 V,34-45-45-115,Non-ECC / Unbuffered,Yes
+Silicon Power XPOWER Turbine 32 GB         (0),Silicon Power,"SP032GXLZU320FDA, SU032GXLZU320BDAAC",DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.343,Blue,10 ns,16,1.35 V,16-18-18-38,Non-ECC / Unbuffered,Yes
+ADATA XPG Lancer Blade 32 GB         (11),ADATA,AX5U6000C3016G-DTLABBK,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.437,Black,10 ns,30,1.35 V,,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z5 Neo RGB 64 GB         (2),G.Skill,F5-6000J2636G32GX2-TZ5NR,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,,Black,8.667 ns,26,1.4 V,26-36-36-96,Non-ECC / Unbuffered,Yes
+Corsair Vengeance 64 GB         (8),Corsair,CMK64GX5M2B6400C32,DDR5-6400,288-pin DIMM (DDR5),2 x 32GB,$3.594,Black / Gray,10 ns,32,1.4 V,32-40-40-84,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast RGB 32 GB         (7),Kingston,KF560C30BWEAK2-32,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.750,White,10 ns,30,1.4 V,,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 8 GB         (48),Corsair,CMK8GX4M1A2400C16,DDR4-2400,288-pin DIMM (DDR4),1 x 8GB,$2.498,Black / Yellow,13.333 ns,16,1.2 V,,Non-ECC / Unbuffered,Yes
+Kingston FURY Beast 16 GB         (0),Kingston,KF560C30BBEK2-16,DDR5-6000,288-pin DIMM (DDR5),2 x 8GB,$4.999,Black,10 ns,30,1.4 V,,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws S5 32 GB         (27),G.Skill,F5-6000J3636F16GX2-RS5K,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.812,Black,12 ns,36,1.35 V,36-36-36-96,Non-ECC / Unbuffered,Yes
+Lexar THOR OC 32 GB         (6),Lexar,LD5U16G60C32LG-RUD,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.375,Black / Gold,10.667 ns,32,1.35 V,32-38-38-76,Non-ECC / Unbuffered,Yes
+Corsair Dominator Titanium 96 GB         (0),Corsair,CMP96GX5M2B7000C40,DDR5-7000,288-pin DIMM (DDR5),2 x 48GB,$4.312,Black,11.429 ns,40,1.4 V,40-52-52-114,Non-ECC / Unbuffered,Yes
+Crucial CT2K16G48C40U5 32 GB         (3),Crucial,CT2K16G48C40U5,DDR5-4800,288-pin DIMM (DDR5),2 x 16GB,$2.156,Black,16.667 ns,40,1.1 V,,Non-ECC / Unbuffered,No
+G.Skill Trident Z5 Royal 64 GB         (3),G.Skill,F5-6400J3239G32GX2-TR5S,DDR5-6400,288-pin DIMM (DDR5),2 x 32GB,$3.750,Silver,10 ns,32,1.4 V,32-39-39-102,Non-ECC / Unbuffered,Yes
+G.Skill Trident Z RGB 16 GB         (136),G.Skill,F4-3600C18D-16GTZRX,DDR4-3600,288-pin DIMM (DDR4),2 x 8GB,$2.812,Black,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+Silicon Power SP016GLLTU160N22 16 GB         (2),Silicon Power,SP016GLLTU160N22,DDR3-1600,240-pin DIMM (DDR3),2 x 8GB,$0.999,Green,13.75 ns,11,1.35 V,,Non-ECC / Unbuffered,No
+Corsair Dominator Titanium 96 GB         (2),Corsair,CMP96GX5M2B6600C32W,DDR5-6600,288-pin DIMM (DDR5),2 x 48GB,$4.281,White,9.697 ns,32,1.4 V,32-39-39-76,Non-ECC / Unbuffered,Yes
+Patriot Viper Steel 32 GB         (9),Patriot,PVS432G320C6K,DDR4-3200,288-pin DIMM (DDR4),2 x 16GB,$1.562,Silver / Black,10 ns,16,1.35 V,16-18-18-36,Non-ECC / Unbuffered,Yes
+TEAMGROUP T-Force Delta RGB 32 GB         (0),TEAMGROUP,FF4D532G6000HC38GDC01,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$2.499,White,12.667 ns,38,1.25 V,38-46-46-76,Non-ECC / Unbuffered,Yes
+G.Skill Ripjaws S5 64 GB         (1),G.Skill,F5-6000J3636F32GX2-RS5K,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$2.422,Black,12 ns,36,1.35 V,36-36-36-96,Non-ECC / Unbuffered,Yes
+Corsair Vengeance LPX 16 GB         (132),Corsair,CMK16GX4M2D3600C18,DDR4-3600,288-pin DIMM (DDR4),2 x 8GB,$2.624,Black,10 ns,18,1.35 V,18-22-22-42,Non-ECC / Unbuffered,Yes
+Corsair Vengeance RGB 64 GB         (7),Corsair,CMH64GX5M2B6000C30W,DDR5-6000,288-pin DIMM (DDR5),2 x 32GB,$3.750,White / Silver,10 ns,30,1.4 V,30-36-36-76,Non-ECC / Unbuffered,Yes
+G.Skill Flare X5 32 GB         (1),G.Skill,F5-6000J2836G16GX2-FX5,DDR5-6000,288-pin DIMM (DDR5),2 x 16GB,$3.906,Black,9.333 ns,28,1.4 V,28-36-36-96,Non-ECC / Unbuffered,Yes
+G.Skill Aegis 16 GB         (33),G.Skill,F4-3200C16D-16GIS,DDR4-3200,288-pin DIMM (DDR4),2 x 8GB,$1.874,Red / Black,10 ns,16,1.35 V,16-18-18-38,Non-ECC / Unbuffered,No
+Kingston FURY Beast 32 GB         (7),Kingston,KF556C36BBEK2-32,DDR5-5600,288-pin DIMM (DDR5),2 x 16GB,$2.812,Black,12.857 ns,36,1.25 V,,Non-ECC / Unbuffered,Yes

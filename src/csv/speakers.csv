@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Configuration,Total Wattage,Frequency Response,Color,"Power (Front, Each)"
+Kanto TUK         (0),Kanto,CA-TUKMW,2.0,260 W,50 Hz - 20 kHz,White / Black,130 W
+Creative Labs Pebble 2.0         (36),Creative Labs,51MF1680AA000,2.0,4.4 W,100 Hz - 17 kHz,Black,2.2 W
+Kanto TUK         (0),Kanto,CA-TUKMB,2.0,260 W,50 Hz - 20 kHz,Black,130 W
+Creative Labs Pebble 2.0         (22),Creative Labs,51MF1680AA001,2.0,4.4 W,100 Hz - 17 kHz,White,2.2 W
+Logitech Z207 (Black)         (10),Logitech,980-001294,2.0,0.01 W,,Black,0.005 W
+Razer Leviathan V2 X         (2),Razer,"RZ05-04280100-R3U1, RZ05-04280100-R3M1",2.0,65 W,85 Hz - 20 kHz,Black,32.5 W
+Logitech Z906         (35),Logitech,980-000467,5.1,500 W,35 Hz - 20 kHz,,67 W
+Edifier MR4         (1),Edifier,"MR4-White, MR4w, MR4-WT",2.0,42 W,60 Hz - 20 kHz,White,21 W
+SteelSeries Arena 9 EU         (0),SteelSeries,61549,5.1,,35 Hz - 20 kHz,Black,
+Edifier MR4         (3),Edifier,"MR4-Black, MR4b, MR4-BK, MR4-BLK",2.0,42 W,60 Hz - 20 kHz,Black,21 W
+Logitech Z623         (92),Logitech,"980-000402, 980-000403, 980-000404, 980-000405",2.1,200 W,35 Hz - 20 kHz,,35 W
+Cyber Acoustics CA-2016WB         (2),Cyber Acoustics,CA-2016WB,2.0,3 W,260 Hz - 20 kHz,,1.5 W
+Logitech S150         (3),Logitech,"980-001004, 980-000028",2.0,2.4 W,90 Hz - 20 kHz,Black,1.2 W
+Creative Labs Pebble Plus         (3),Creative Labs,"MF0480, 51MF0480AA000",2.1,8 W,50 Hz - 20 kHz,Black,2 W
+Logitech X-540         (2),Logitech,"970223-0403, X-540",5.1,70 W,40 Hz - 20 kHz,,7.4 W
+Razer Leviathan V2 Pro         (0),Razer,"RZ05-04160100-R3U1, RZ05-04160100-R3G1",5.1,,40 Hz - 20 kHz,Black,
+Klipsch ProMedia 2.1         (39),Klipsch,ProMedia 2.1,2.1,120 W,31 Hz - 20 kHz,,35 W
+Creative Labs Pebble V2         (13),Creative Labs,"51MF1695AA000, Pebble V2",2.0,8 W,100 Hz - 17 kHz,Black / Copper,4 W
+Logitech G560         (20),Logitech,980-001300,2.1,120 W,40 Hz - 18 kHz,Black,30 W
+Logitech Z313         (93),Logitech,"980-000382, 980-000414",2.1,25 W,48 Hz - 20 kHz,,5 W
+SteelSeries Arena 9 US         (0),SteelSeries,61547,5.1,,35 Hz - 20 kHz,Black,
+NZXT Relay         (0),NZXT,"AP-SPKW2-US, AP-SPKW2, AP-SPKW2-EU, AP-SPKW2-AU",2.0,80 W,70 Hz - 20 kHz,White / Black,40 W
+NZXT Relay         (1),NZXT,"AP-SUB80-US, AP-SUB80-EU, AP-SUB80-AU, AP-SUB80",1.0,140 W,45 Hz - 150 Hz,Black,
+Creative Labs Pebble Pro         (1),Creative Labs,51MF1710AA001,2.0,30 W,80 Hz - 20 kHz,Black / Copper,15 W
+Sony HT-S100F Soundbar         (1),Sony,HT-S100F,2.0,44 W,20 Hz - 20 kHz,Black,22 W
+Creative Labs Stage Air V2         (2),Creative Labs,51MF8395AA000,2.0,10 W,80 Hz - 20 kHz,Black,5 W
+Razer Nommo V2 Pro         (0),Razer,"RZ05-04740100-R3U1, RZ05-04740100-R3G1",2.1,,40 Hz - 20 kHz,Black,
+Creative Labs Pebble V3         (2),Creative Labs,51MF1700AA001,2.0,8 W,100 Hz - 17 kHz,Black / Copper,4 W
+Audioengine A5+ Black         (7),Audioengine,A5Plus Black,2.0,150 W,50 Hz - 22 kHz,Black,75 W
+Creative Labs T60         (3),Creative Labs,"51MF1705AA001, 51MF1705AA000",2.0,60 W,50 Hz - 20 kHz,Black / Gold,30 W
+Kanto ORA         (0),Kanto,ORAMP,2.0,100 W,70 Hz - 22 kHz,Pink / Black,50 W
+Logitech Z407         (1),Logitech,980-001347,2.1,40 W,40 Hz - 20 kHz,Black,10 W
+Logitech Z150         (21),Logitech,980-000802,2.0,,,,
+NZXT Relay         (1),NZXT,"AP-SPKB2-US, AP-SPKB2-AU, AP-SPKB2, AP-SPKB2-EU",2.0,80 W,70 Hz - 20 kHz,Black,40 W
+Razer Leviathan V2         (1),Razer,"RZ05-03920100-R3U1, RZ05-03920100-R3M1",2.1,65 W,45 Hz - 20 kHz,Black,32.5 W
+Yamaha HS8         (2),Yamaha,HS8,2.0,120 W,38 Hz - 30 kHz,,
+Logitech Z323         (39),Logitech,"980-000354, 980-000355",2.1,30 W,55 Hz - 20 kHz,,6 W
+Razer NOMMO CHROMA         (11),Razer,RZ05-02460100-R3U1,2.0,,20 Hz - 20 kHz,Black,
+Creative Labs Pebble V3         (1),Creative Labs,51MF1700AA003,2.0,16 W,100 Hz - 17 kHz,White / Copper,8 W
+Klipsch R-51PM         (4),Klipsch,R-51PM,2.0,120 W,68 Hz - 21 kHz,Black,60 W
+Edifier S350DB         (0),Edifier,S350DB,2.1,150 W,40 Hz - 20 kHz,Black / Brown,40 W
+Audioengine A5+ White         (0),Audioengine,A5Plus White,2.0,150 W,50 Hz - 22 kHz,White,75 W
+Trust GXT 606 JAVV         (0),Trust,25108,2.0,6 W,160 Hz - 20 kHz,Black,3 W
+Cyber Acoustics CA-3090         (12),Cyber Acoustics,CA3090,2.1,10 W,160 Hz - 20 kHz,,2.5 W
+AmazonBasics V620         (0),AmazonBasics,V620BLACK,2.0,2.4 W,80 Hz - 20 kHz,Black,1.2 W
+Razer NOMMO PRO         (1),Razer,RZ05-02470100-R3U1,2.1,,35 Hz - 20 kHz,Black,
+Logitech Z625         (8),Logitech,"980-001258, 980-001256",2.1,200 W,,,35 W
+Edifier R1280DB-Brown         (5),Edifier,"R1280DB Brown, R1280DB, R1280DB WOOD",2.0,42 W,55 Hz - 20 kHz,Brown / Black,21 W
+Edifier R1700BT         (4),Edifier,"R1700BT, R1700BT-BROWN",2.0,66 W,60 Hz - 20 kHz,Black / Brown,33 W
+Creative Labs Sound Blaster GS5 RGB Soundbar         (0),Creative Labs,"MF8470, Sound Blaster GS5, 51MF8470AA000",2.0,60 W,65 Hz - 20 kHz,Black,30 W
+Trust Gemi         (0),Trust,22948,2.0,12 W,20 Hz - 20 kHz,Black,6 W
+Kanto ORA4         (1),Kanto,ORA4MW,2.0,140 W,60 Hz - 22 kHz,White,70 W
+Yamaha NS-SP1800         (0),Yamaha,NS-SP1800,5.1,550 W,28 Hz - 50 kHz,,100 W
+Logitech Z200         (86),Logitech,"980-000800, 980-000810, 980-000812",2.0,10 W,20 Hz - 20 kHz,,5 W
+AmazonBasics U213         (4),AmazonBasics,U213,2.0,2.2 W,103 Hz - 20 kHz,Black,1.1 W
+Edifier R1280DB-Black         (1),Edifier,R1280DB Black,2.0,42 W,55 Hz - 20 kHz,Black,21 W
+Kanto ORA         (0),Kanto,ORAMB,2.0,100 W,70 Hz - 22 kHz,Black,50 W
+SteelSeries Arena 7 US         (0),SteelSeries,61541,2.1,,35 Hz - 20 kHz,Black,
+Kanto ORA         (1),Kanto,ORAMW,2.0,100 W,70 Hz - 22 kHz,White / Black,50 W
+Bose Companion 2 Series III         (34),Bose,354495-1100,2.0,,,,
+Logitech Z207 (White)         (1),Logitech,980-001291,2.0,0.01 W,,White,0.005 W
+Edifier R980T         (5),Edifier,"R980T, R980T-BLACK",2.0,24 W,70 Hz - 20 kHz,Black,12 W
+Creative Labs T100         (1),Creative Labs,T100,2.0,40 W,50 Hz - 20 kHz,Black,20 W
+ADAM Audio T8V         (0),ADAM Audio,11103410,1.0,180 W,33 Hz - 25 kHz,Black,90 W
+Logitech Z533         (15),Logitech,980-001053,2.1,60 W,55 Hz - 20 kHz,,15 W
+Kanto YU2MB         (3),Kanto,YU2MB,2.0,50 W,80 Hz - 20 kHz,Black,25 W
+PreSonus Eris 3.5 2nd Gen         (2),PreSonus,2777500121,2.0,50 W,80 Hz - 20 kHz,Black / Blue,25 W
+Cyber Acoustics CA-2014rb         (2),Cyber Acoustics,CA-2014rb,2.0,4 W,85 Hz - 18 kHz,,2 W
+Logitech Z213         (31),Logitech,980-000941,2.1,7 W,65 Hz - 20 kHz,,1.5 W
+Creative Labs Sound Blaster Katana V2         (2),Creative Labs,MF8380,2.1,126 W,50 Hz - 20 kHz,,33 W
+Audioengine HD3-CHR         (0),Audioengine,HD3-CHR,2.0,60 W,65 Hz - 22 kHz,Red / Black,30 W
+Kanto ORA4         (0),Kanto,ORA4MB,2.0,140 W,60 Hz - 22 kHz,Black,70 W
+Creative Labs SBS E2900         (0),Creative Labs,51MF0490AA002,2.1,60 W,50 Hz - 20 kHz,Black,15 W
+Creative Labs Creative Stage V2         (0),Creative Labs,"MF8375, 51MF8375AA000",2.1,80 W,55 Hz - 20 kHz,Black,20 W
+Razer Nommo V2 X         (0),Razer,"RZ05-04760100-R3U1, RZ05-04760100-R3G1, RZ05-04760100",2.0,,75 Hz - 20 kHz,Black,
+Yamaha HS8 W         (1),Yamaha,HS8 W,1.0,120 W,38 Hz - 30 kHz,,
+Kanto YU2MW         (1),Kanto,YU2MW,2.0,50 W,80 Hz - 20 kHz,White / Black,25 W
+Yamaha HS5         (0),Yamaha,HS5,1.0,70 W,54 Hz - 30 kHz,,
+JBL C2PS         (0),JBL,C2PS,2.0,70 W,80 Hz - 20 kHz,Black,35 W
+Creative Labs Sound Blaster Katana V2X         (0),Creative Labs,51MF8400AA000,2.1,90 W,50 Hz - 20 kHz,Black,25 W
+Logitech Z333         (39),Logitech,980-001203,2.1,40 W,55 Hz - 20 kHz,,8 W
+Corsair Gaming Audio Series SP2500         (13),Corsair,"CA-SP211NA, SP2500, CA-SP211-UK, CA-SP211-EU",2.1,232 W,35 Hz - 20 kHz,,56 W
+Onkyo GX-30ARC         (0),Onkyo,GX30ARCWCUU,2.0,50 W,20 Hz - 20 kHz,White,25 W
+Logitech Z506         (69),Logitech,"980-000430, 980-000432, 980-000433, 980-000431",5.1,155 W,45 Hz - 20 kHz,,48 W
+Audioengine A2+B         (2),Audioengine,A2+B,2.0,60 W,65 Hz - 22 kHz,,30 W
+SteelSeries Arena 7 AU         (0),SteelSeries,61544,2.1,,35 Hz - 20 kHz,Black,
+Razer Leviathan         (6),Razer,RZ05-01260100-R3U1,5.1,60 W,180 Hz - 20 kHz,,15 W
+Cyber Acoustics CA-3810         (0),Cyber Acoustics,CA-3810,2.1,40 W,45 Hz - 20 kHz,Black,6.5 W
+PreSonus Eris E3.5 BT         (3),PreSonus,Eris E3.5 BT,2.0,50 W,80 Hz - 20 kHz,Black,25 W
+SteelSeries Arena 3 US         (1),SteelSeries,61534,2.0,,50 Hz - 20 kHz,Black,
+Edifier R33BT         (0),Edifier,R33BT,2.0,10 W,70 Hz - 20 kHz,Black,5 W
+Razer Nommo V2         (0),Razer,"RZ05-04750100-R3U1, RZ05-04750100-R3G1, RZ05-04750100",2.1,,40 Hz - 20 kHz,Black,
+Logitech Z130         (24),Logitech,"980-000417, 980-000420, 980-000418",2.0,5 W,140 Hz - 18 kHz,,2.5 W
+IK Multimedia IP-ILOUD-MM-IN         (0),IK Multimedia,IP-ILOUD-MM-IN,2.0,70 W,45 Hz - 22 kHz,Black,35 W
+Pioneer DM-50D-BT         (0),Pioneer,DM-50D-BT-W,2.0,50 W,60 Hz - 20 kHz,White,25 W
+Trust Asto Soundbar         (1),Trust,21046,2.0,24 W,20 Hz - 20 kHz,,12 W
+Audioengine A5+ Bamboo         (1),Audioengine,A5Plus Bamboo,2.0,150 W,50 Hz - 22 kHz,Brown / Black,75 W
+SteelSeries Arena 7 EU         (0),SteelSeries,61543,2.1,,35 Hz - 20 kHz,Black,
+JBL LSR305         (6),JBL,LSR305,2.0,82 W,43 Hz - 24 kHz,,41 W
+Audioengine A2+W         (7),Audioengine,A2+W,2.0,60 W,65 Hz - 22 kHz,,30 W

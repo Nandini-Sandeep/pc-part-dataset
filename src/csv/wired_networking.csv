@@ -1,0 +1,101 @@
+name,Manufacturer,Part #,Interface,Features
+TP-Link TG-3468         (17),TP-Link,TG-3468,PCIe x1,"Auto-Negotiation and Auto MDI/MDIX, Supports power down/link down power saving, DOS/Win98SE/Me/2000/XP/Vista/Linux/Novell Netware"
+StarTech ST10GPEXNDPI         (0),StarTech,ST10GPEXNDPI,PCIe x4,
+Asus XG-C100C         (7),Asus,"XG-C100C, 90IG0440-MO0R00, 90IG0760-MO0B00",PCIe x4,
+Intel X540-T2         (2),Intel,"X540T2, AXX10GBTWLIOM3",PCIe x8,Product Type:10Gigabit Ethernet Card
+StarTech ST1000SPEX42         (0),StarTech,ST1000SPEX42,PCIe x4,Product Type:Gigabit Ethernet Card
+TP-Link TX201         (2),TP-Link,TX201,PCIe x1,
+TP-Link TX401         (0),TP-Link,TX401,PCIe x4,
+Intel X550-T2         (0),Intel,X550-T2,PCIe x4,
+Intel X710-T2L         (0),Intel,X710T2L,PCIe x8,
+Intel X520-DA1         (1),Intel,E10G41BTDAG1P5,PCIe x8,
+Intel EXPI9301CTBLK         (9),Intel,EXPI9301CTBLK,PCIe x1,"High performance and reliability; low power, Delivers increased performance while significantly reducing CPU usage"
+TP-Link UE306         (0),TP-Link,UE306,USB Type-A 3.2 Gen 1,
+TRENDnet TRENDnet TEG-10GECTX 10 Gigabit PCIe Network Adapter         (0),TRENDnet,TEG-10GECTX,PCIe x4,
+Gigabyte GC-AQC107         (1),Gigabyte,GC-AQC107,PCIe x4,
+Intel E1G44HTBLK         (0),Intel,E1G44HTBLK,PCIe x4,Processor : Intel 82580
+Syba SD-PEX24055         (0),Syba,SD-PEX24055,PCIe x4,
+Intel E1G44ET2BLK         (0),Intel,E1G44ET2BLK,PCIe x4,
+Syba SD-PEX24066         (0),Syba,SD-PEX24066,PCIe x1,
+Intel I226T1         (0),Intel,I226T1,PCIe x1,
+Intel E1G44ET2         (0),Intel,E1G44ET2,PCIe x4,
+Intel E1G42ETBLK         (2),Intel,E1G42ETBLK,PCIe x4,
+StarTech ST10GSPEXNB2         (0),StarTech,ST10GSPEXNB2,PCIe x2,
+TRENDnet TEG-25GECTX         (0),TRENDnet,TEG-25GECTX,PCIe x1,
+Belkin F5D5000         (0),Belkin,F5D5000,PCI,"Sets up quickly with included Belkin software, Keeps resources available, even in sleep mode, Lets your PC share an Internet-access account, Adds your desktop PC to your home or office network, Installs easily into an available PCI slot, Configures using any web browser"
+Asus USB-C2500         (0),Asus,"USB-C2500, 90IG0650-MO0R0T",USB Type-A 3.2 Gen 1,
+QNAP QXG2G2TI225         (0),QNAP,QXG2G2TI225,PCIe x2,
+StarTech ST10GSPEXNDP2         (0),StarTech,ST10GSPEXNDP2,PCIe x4,
+Monoprice 112909         (0),Monoprice,112909,USB Type-C 3.2 Gen 2,
+StarTech ST10GSPEXNB         (0),StarTech,ST10GSPEXNB,PCIe x4,
+Syba SI-PEX24042         (0),Syba,SI-PEX24042,PCIe x1,
+StarTech USB32000SPT         (0),StarTech,USB32000SPT,USB Type-A 3.2 Gen 1,Product Type:Gigabit Ethernet Card
+QNAP QXG5G1T111C         (0),QNAP,QXG5G1T111C,PCIe x1,
+Intel X520-T2         (0),Intel,X520-T2,PCIe x8,
+Intel EXPI9301CT         (2),Intel,EXPI9301CT,PCIe x1,
+Intel EXPI9404PTLBLK-1PK         (1),Intel,EXPI9404PTLBLK-1PK,PCIe x4,Product Type:Gigabit Ethernet Card
+TP-Link UE300         (0),TP-Link,UE300,USB Type-A 3.2 Gen 1,"Fastest USB 3.0 and Gigabit solution ensure high speed transfer rate, Plug and Play in Windows (XP / Vista / 7 / 8 / 8.1), Mac OS X (10.9 / 10.10), Linux OS. Note: Driver required for Mac OS X (10.5-10.8), Foldable and Portable design ideally suits your Ultrabook"
+StarTech ST1000SPEX2L         (0),StarTech,ST1000SPEX2L,PCIe x1,"Chipset ID: Realtek RTL8111E, Card Type: Low Profile (SP bracket incl.), Auto MDIX: Yes, Full Duplex Support: Yes, Supported Protocols: CSMA/CD, OS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), 2000, Windows Server 2008 R2, 2003(32/64), Mac OS X (Intel based, tested up to 10.8), Linux, A single 10/100/1000Mbps compatible RJ45 Ethernet port, Gigabit detection and Link/Activity LED indicators, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3x and IEEE 802.3ab standards, Supports IEEE 802.1Q VLAN tagging, IEEE 802.1P Layer 2 Priority Encoding and IEEE 802.3x Full Duplex Flow Control, Jumbo frame support, Full and half duplex support, Supports Wake-on-LAN function, Crossover Detection & Auto-Correction (Auto MDI/MDI-X)"
+StarTech ST2GPEX         (0),StarTech,ST2GPEX,PCIe x1,
+Intel EXPI9404PTLBLK         (0),Intel,EXPI9404PTLBLK,PCIe x4,"Two Intel 82571GB Gigabit Controllers, Low-profile, Load balancing on multiple CPUs, Intel I/OAT, Virtualization, Interrupt moderation, Compatible with x4, x8, and x16 standard and low-profile PCI Express slots, Support for most network operating systems (NOS), Remote management support, Category-5 unshielded twisted pair (UTP), 4-pair cabling, RoHS compliant, lead-free technology, Intel PROSet Utility for Windows, Advanced cable diagnostics, Intel backing"
+TP-Link UE300C         (0),TP-Link,UE300C,USB Type-C,
+QLogic QLE3242-CU-CK         (0),QLogic,QLE3242-CU-CK,PCIe x8,"Card Height: Low-profile, Form Factor: Internal, Operating systems: Microsoft Windows Server; Red Hat Linux; Novell SLES; VMware ESX/ESXi; Oracle Solaris, OpenSolaris; Citrix XenServer., Throughput: 10Gbps full-duplex line rate per port., Ethernet Frame: 1500 byte or 9600 byte (jumbo frame)., Stateless Offload: IP, TCP, and UDP checksum offloads., Large and giant send offload (LSO, GSO)., Large receive offload (LRO)., Receive side scaling (RSS)., Interrupt coalescing., VMware NetQueue and Microsoft VMQ., Compliance: IEEE: 802.3ae (10Gb Ethernet), 802.1q (VLAN), 802.3ad (Link Aggregation), 802.1p (Priority Encoding), 802.3x (Flow Control), IPv4 (RFQ 791), IPv6 (RFC 2460)."
+Gigabyte GC-AQC113C 10G         (0),Gigabyte,GC-AQC113C 10G,PCIe x4,
+QNAP QXG-10G1T         (0),QNAP,QXG-10G1T,PCIe x4,
+SIIG LB-GE0311-S1         (0),SIIG,LB-GE0311-S1,PCIe x8,
+Edimax EU-4208         (0),Edimax,EU-4208,USB Type-A 2.0,"Operating System: Microsoft Windows XP / 2000 / Vista / 7, Mac OS X 10.x, RAM: Embedded 20KB SRAM for RX and 20KB SRAM for TX packet buffering, No external power adapter required, Low power consumption in idle mode and low traffic conditions., The Edimax EU-4208 USB 2.0 Fast Ethernet Adapter is specifically designed to give Fast Ethernet connectivity to your ultrabook, or any computer without an Ethernet port."
+StarTech ST1000SPEX2         (0),StarTech,ST1000SPEX2,PCIe x1,Product Type:Gigabit Ethernet Card
+Asus PCE-C2500         (0),Asus,PCE-C2500,PCIe x1,
+Intel EXPI9402PTG2P20         (0),Intel,EXPI9402PTG2P20,PCIe x4,
+Intel E1G44HT         (0),Intel,E1G44HT,PCIe x4,Processor : Intel 82580
+Intel E1G42ET         (0),Intel,E1G42ET,PCIe x4,
+QNAP QXG-2G1T-I225         (0),QNAP,QXG-2G1T-I225,PCIe x1,
+Intel E10G42BT         (0),Intel,E10G42BT,PCIe x8,"This 10 Gigabit X520-T2 Ethernet Server Adapter showcases Intel's third-generation standards-based 10GBASE-T adapter in a low profile PCI Express form factor., This new dual port adapter provides bandwidth-intensive applications highly affordable 10 Gigabit Ethernet (10GbE) network performance with cost-effective RJ-45 connections for distances up to 100 meters."
+Asus ROG AREION         (0),Asus,"AREION 10G, ROG AREION 10G",PCIe x4,
+StarTech ST1000SPEX4         (0),StarTech,"ST1000SPEX4, C734A2YG",PCIe x4,"Chipset ID: Realtek - RTL8111C, Buffer Size: 48KB (On Chip), OS Compatibility: Windows 2000/ XP (32/64-bit)/ Vista (32/64-bit)/ Server 2003 (32/64-bit)/ Server 2008 R2/ 7 (32/64-bit)/ 8 (32/64-bit), Win CE 4.2/ 5.0, Mac OS X (Intel based, tested up to 10.8), Unix and Linux, Jumbo Frame support, Support for IEEE 802.1Q VLAN tagging and IEEE 802.1P Layer 2 Priority Encoding, Crossover Detection & Auto-Correction (Auto MDIX), Microsoft NDIS5 Checksum Offload (IP, TCP, UDP) and Large send Offload Support, On-chip 48KB Transmit/Receive Buffer, Wake-on-LAN and Remote Wake-up Support, Supports Full Duplex Flow Control (IEEE 802.3x), Supports Pair Swap/Polarity/Skew Correction, PCI Express base specification 1.1 compliant, Supports PCI Message Signaled Interrupt (MSI)."
+SIIG LB-GE0211-S1         (0),SIIG,LB-GE0211-S1,PCIe x4,
+StarTech ST2000PEXPSE         (0),StarTech,ST2000PEXPSE,PCIe x1,Product Type:Gigabit Ethernet Card
+StarTech ST3300U3S         (0),StarTech,ST3300U3S,USB Type-A 3.2 Gen 1,"Connector Type(s): 1 - RJ-45 Female, 1 - USB 3.0 Micro-B (10 pin; SuperSpeed) Female, 3 - USB 3.0 A (9 pin; SuperSpeed) Female, OS Compatibility: Windows XP(32/64-bit)/ Server 2003(32/64-bit)/ Server 2008 R2/ Vista(32/64-bit)/ 7(32/64-bit)/ 8 (32/64-bit), Mac OS 10.x, Linux, Power: Center Tip Polarity: Positive, Input Voltage: Universal 115 ~ 230 AC, Output Current: 2, Output Voltage: 5 DC, Plug Type: M, Power Adapter Included: Yes, 10/100/1000 Mbps RJ45 Ethernet port, Fully compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab and IEEE 802.3az specifications, Supports Auto-MDIX, Wake-on-LAN and Jumbo Frames, Crossover Detection & Auto-Correction (Auto MDIX), 3 SuperSpeed USB 3.0 ports with up to 5Gbps of bandwidth, Backward compatible with USB 2.0 and USB 1.0/1.1 devices, Supports USB 3.0/2.0/1.x devices simultaneously, Fully compliant with USB 3.0 rev 1.0 specifications, Plug-and-Play and hot-swap compatible."
+TRENDnet TUC-ET2G         (0),TRENDnet,TUC-ET2G,USB Type-C 3.2 Gen 1,
+Syba SY-ADA24029         (0),Syba,SY-ADA24029,USB Type-A 2.0,"Compliant with Universal Serial Bus 3.0 Specification, Revision 1.0, Compatible with USB Specification, Revision 2.0, Supports Full Duplex Operation with IEEE 802.3x Flow Control and Half Duplex Operation with Back-pressure Flow Control, Supports IEEE 802.3az (Energy Efficient Ethernet), Supports Crossover Detection and Auto-correction, Supports Advanced Link Down Power Saving When Ethernet Cable is Unplugged, Supports Wake-on-LAN, Adapter Cable Length: 19"""
+Syba SY-PEX24045         (0),Syba,SY-PEX24045,PCIe x4,
+D-Link DXE-820T         (0),D-Link,DXE-820T,PCIe x8,Product Type:10Gigabit Ethernet Card
+Intel EXPI9404PTL         (0),Intel,EXPI9404PTL,PCIe x4,"Two Intel 82571GB Gigabit Controllers, Low-profile, Load balancing on multiple CPUs, Intel I/OAT, Virtualization, Interrupt moderation, Compatible with x4, x8, and x16 standard and low-profile PCI Express slots, Support for most network operating systems (NOS), Remote management support, Category-5 unshielded twisted pair (UTP), 4-pair cabling, RoHS compliant, lead-free technology, Intel PROSet Utility for Windows, Advanced cable diagnostics, Intel backing"
+TRENDnet TEG-PCITXR         (0),TRENDnet,TEG-PCITXR,PCI,"Protocol: CSMA/CD, Power Consumption: 3.7watts, Certification: CE, FCC, Built-in FIFO (8K/64K) buffers reduce overhead of memory transfers., Plug and Play"
+Edimax EN-9130TXL         (0),Edimax,EN-9130TXL,PCI,"10/100Mbps Auto-Negotiation - Support Nway Auto-Negotiation technology and makes it simple and cost effective to install and upgrade your network in the future.  Support Full-Duplex mode for maximum bandwidth up to 200Mbps in a switched network., Web-Based Management - Turn your PC into a remotely and locally manageable PC with Edimax WedDESK Manager. Collect all the PCs' critical information and even take a snapshot of the Client PC's screen through the Internet browser.   Managing network has never been easier., ACPI / Wake On LAN - When the adapter receives a wake-up frame or magic packet from the network management station, it will work with the system's ACPI interface to power up the PC and enable the PC to be remotely managed by the administrator"
+Rosewill RC-NIC416Dual         (0),Rosewill,RC-NIC416Dual,PCIe x4,
+StarTech PEX100S         (0),StarTech,PEX100S,PCIe x1,"Chipset ID: Realtek RTL8101E, OS Compatibility: Windows 98SE/ ME/ 2000/ XP(32/64bit)/ Vista(32/64bit)/ 7(32/64bit), and Linux, Card Type: Low / Standard Profile, Compliant with IEEE802.3 CSMA/CD, 802.3 10Base-T and 100Base-TX standards, Crossover Detection & Auto-Correction (Auto-MDIX), Link speed and duplex mode auto-negotiation, Full/Low Profile installation brackets included"
+StarTech US2GC30         (0),StarTech,US2GC30,USB Type-C 3.2 Gen 1,
+D-Link DUB-E100         (0),D-Link,DUB-E100,USB Type-A 2.0,"True 10/100Mbps Network Connectivity, Auto 10/100Mbps Speed Detection, Backwards Compatible with USB 1.1"
+TP-Link TF-3239DL         (1),TP-Link,TF-3239DL,PCI,"Provides 32-bit PCI interface, PCI2.1, PCI2.2, Supports Full Duplex and Half Duplex transfer modes, Supports IEEE 802.3x flow control for Full Duplex mode, Provides diagnostic software, Supports drivers for NetWare 3.x, 4.x, Windows 98, Windows Me, Windows NT4.0, Windows 2000, Windows XP, Windows Vista, Linux 2.4.x"
+D-Link DUB-1312         (0),D-Link,DUB-1312,USB Type-A 3.2 Gen 1,
+Syba SY-HUB24047         (0),Syba,SY-HUB24047,USB Type-A 3.2 Gen 1,
+EDUP EP-9602GS         (0),EDUP,EP-9602GS,PCIe x1,
+Lenovo 7ZT7A00482         (0),Lenovo,7ZT7A00482,PCIe x1,
+Intel PWLA8391GTBLK         (0),Intel,PWLA8391GTBLK,PCI,"Processor:Intel 82541PI, ACPI support, Auto-negotiation, Flow control, Full duplex capability, Manageable, VLAN support, Wake on LAN (WOL), Remote management support DMI 2.0, SNMP, Compliant with BSMI CNS 13438 Class B, CE, FCC Class B certified, Plug and Play, VCCI Class B ITE"
+SIIG CN-GP1021-S3         (0),SIIG,CN-GP1021-S3,PCIe x1,Product Type:Gigabit Ethernet Card
+Intel EXPI9402PT         (0),Intel,"EXPI9402PT, EXPI9402PTBLK",PCIe x4,"Intel 82571GB Gigabit Controller, Load balancing on multiple CPUs, Interrupt moderation, Compatible with x4, x8, and x16 full-height PCI Express slots, Support for most network operating systems (NOS), Remote management support, Category-5 unshielded twisted pair (UTP), 4-pair cabling, RoHS compliant, lead-free technology, Intel PROSet Utility for Microsoft Device Manager, Advanced cable diagnostics, Intel backing"
+Intel PWLA8391GTBLK-1PK         (0),Intel,PWLA8391GTBLK-1PK,PCI,"PRO/1000 GT Desktop Adapter provide a maximize system performance and increase end-user productivity for mainstream PCs., This adapter bandwidth makes quick work of these network applications with power to spare."
+VisionTek Bigfoot Killer 2100         (1),VisionTek,900317,PCIe x1,"Processor: 400 MHz Bigfoot Networks Processor, Memory: 128MB DDR2 266MHz, Maximum networking performance for online games, Control Panel Application & Tray Indicator, Advanced Game Detect (traffic classification), Visual Bandwidth Control, Application Blocker, Online Gaming PC Monitor, UDP traffic offload & acceleration, Windows Network Stack bypass"
+StarTech USB31000NDS         (0),StarTech,USB31000NDS,USB Type-A 3.2 Gen 1,Product Type:Gigabit Ethernet Card
+Plugable USBC-E1000         (0),Plugable,USBC-E1000,USB Type-C 3.2 Gen 1,
+Supermicro AOC-STG-i2T         (0),Supermicro,AOC-STG-i2T,PCIe x8,
+Tripp Lite U436-06N-2P5         (0),Tripp Lite,U436-06N-2P5,USB Type-C 3.2 Gen 1,
+StarTech USB31000S2         (0),StarTech,USB31000S2,USB Type-A 3.2 Gen 1,
+StarTech ST10GSPEXNDP         (0),StarTech,ST10GSPEXNDP,PCIe x8,
+Supermicro AOC-SG-i2         (0),Supermicro,AOC-SG-i2,PCIe x4,"Low-profile standard form factor, Intel I/O AT to improve CPU utilization, MSI-X support to minimize the overhead of interrupts and allow load balancing of interrupt handling between different CPUs/cores, Low-latency interrups, Support caches up to 64 packets descriptors per queue, Support for transmission and reception of packets up to 9.5KBs (Jumbo Frames), IEEE 802.3 auto-negotiation, IEEE 802.3 compliant flow-control support, VMDq for virtualized environments, Direct Cache Access (DCA), Tx/Rx IP, TCP, and UDP checksum offloading (IPv4, IPV6) capabilities, Tx TCP segmentation offloading (IPv4, IPv6), iSCSI boot, Supported cable length is more than 100 meters, Supported OS: Windows, Linux, VMWare, FreeBSD, Netware"
+SIIG LB-GE0611-S1         (0),SIIG,LB-GE0611-S1,PCIe x1,
+Syba SD-PEX24009         (0),Syba,SD-PEX24009,PCIe x1,"PCI-Express 1-Lane (x1) Interface, Supports Full Duplex Flow Control (IEEE 802.3x), Supports IEEE 802.1P Layer 2 Priority Encoding, Supports IEEE 802.1Q VLAN Tagging, Crossover Detection and Auto Correction Operation"
+D-Link DGE-530T         (0),D-Link,DGE-530T,PCI,"Protocol: CSMA/CD, Network Management: SNMPv1, Windows Automatically Detects the Adapter for Easy Installation., Designed for VoIP, Extreme Gaming, Transferring Music, Video, and Large Files."
+Belkin F2CU040btBLK         (0),Belkin,F2CU040BTBLK,USB Type-C 3.2 Gen 1,"Product Type: Gigabit Ethernet Card, Harness the reliability of Ethernet for your USB-C device with the USB-C to Gigabit Ethernet Adapter. Where wireless connectivity is inconsistent, overextended, or even non-existent, this adapter allows you to connect seamlessly and with confidence. With the speed and reliability of Gigabit Ethernet, even the largest downloads can be possible without fear of interruption."
+Belkin B2B145-BLK         (0),Belkin,B2B145-BLK,USB Type-C 3.2 Gen 1,
+Tripp Lite U436-000-GB         (0),Tripp Lite,U436-000-GB,USB Type-C 3.2 Gen 1,
+Edimax EN-9320TX-E         (0),Edimax,EN-9320TX-E,PCIe x4,
+StarTech ST1000BT32         (1),StarTech,ST1000BT32,PCI,"IEEE 802.1Q VLAN tagging for up to 64 VLANs, IEEE 802.3x compliant flow control for full duplex and backpressure for half duplex, LED indicator shows network link/activity and 10/100/1000Mbits/sec selection, One RJ-45 connector supports 10/100/1000Mbits/sec network speeds and Auto-MDI/MDI-X, Supports 32-bit 33/66MHz PCI Local Bus Master for high-speed operation"
+Syba SY-PEX24028         (0),Syba,SY-PEX24028,PCIe x1,"Designed to Meet PCI Express Specification Revision 1.0a, Single-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, 10/100/1000M Data Auto-negotiation, LEDs Indicate the Status of Data Transmission, Support Wake On Lan (WOL) Power Management (Optional), Full Duplex Mode Doubles the Network Connections Speed., OS: Windows 7 (32/64 bit), Vista (32/64 bit), Windows XP (32/64 bit), Mac OS X 10.5 or later"
+StarTech ST1000SPEX         (0),StarTech,"ST1000SPEX, CBL-SFF8087OCF-05M",PCIe x1,"Designed to meet PCI Express Base Specification Revision 1.0a, Dual brackets allow this card to fit in both standard and low profile/small form factor computer cases, Supports Jumbo Frames - reduce overhead of large file transfers by enabling larger packet size instead of standard Ethernet packet size"
+D-Link DFE530TX+         (1),D-Link,DFE530TX+,PCI,"Minimum System Requirements: Computer with: Windows Vista, Windows XP SP2, Windows 2000 SP4, or Mac OS X (v10.2/v10.3), CD-ROM Drive, 20MB Hard Disk Space, 32-Bit PCI Slot, Protocol: CSMA/CD, Connect to a Network and Surf the Web with Your Desktop PC, Windows Automatically Detects the Adapter for Easy Installation, Up and Running in Minutes"
+Rosewill RNG-407-Dual         (0),Rosewill,RNG-407-Dual,PCIe x1,"Designed to Meet PCI Express Specification Revision 1.1, compatible with x4, x8, x16, Single-lane (or x1) PCI Express Throughput Supports Rate of 2.5Gbps, Fully Compliant with IEEE 802.3, IEEE 802.3u, IEEE 802.3ab, 10/100/1000M Data Auto-negotiation, 9K bytes Jumbo Frame Support, LEDs Indicate the Status of Data Transmission, Support Wake On Lan (WOL) Power Management, Full Duplex Mode Doubles the Network Connections Speed., OS support: Windows 8 (32/64 bit), Windows 7 (32/64 bit), Vista (32/64 bit), Windows XP (32/64 bit), Mac OS X 10.5, 10.6, 10.7, 10.8, Linux 2.6.x and higher kernel OS"
+StarTech USB31000SPTB         (0),StarTech,USB31000SPTB,USB Type-A 3.2 Gen 1,"Chipset ID: ASIX - AX88179, VIA - VL811, USB Pass-Through: Yes, Connector Type(s): 1 - RJ-45 Female, 1 - USB 3.0 A (9 pin; SuperSpeed) Female, 1 - USB 3.0 A (9 pin; SuperSpeed) Male, Full Duplex Support: Yes, Max Distance: 100 m / 330 ft, Maximum Data Transfer Rate: 5 Gbps (USB 3.0), 2 Gbps (Ethernet - Full-Duplex), OS Compatibility: Windows 8 (32/64bit), 7 (32/64), Vista(32/64), XP(32/64), Windows Server 2008 R2, 2003(32/64), Mac OS 10.6 - 10.8, Linux Kernel 2.6.14 - 3.5.0, Cable Length: 6.1 in [155 mm], Color: Black, Enclosure Type: Plastic, Power Adapter Included: USB-Powered, Crossover Detection & Auto-Correction (Auto MDIX), IEEE 802.1Q VLAN Tagging support, Jumbo Frame support, Supports Checksum Offload (IPv4, IPv6, TCP, UDP) and Large Send Offload, Compact, lightweight design for maximum portability."
+Syba SY-PEX24056         (0),Syba,SY-PEX24056,PCIe x4,
+Netgear GA311         (0),Netgear,GA311,PCI,
